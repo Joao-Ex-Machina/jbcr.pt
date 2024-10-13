@@ -1,0 +1,88 @@
+body {
+	font-family: monospace ;
+	font-size: 200%;
+    background-image: 
+        linear-gradient(to right, transparent 10%, #2B2B2B 10%, #2B2B2B 90%, transparent 90%),
+        url('background.jpg');
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+    background-size: cover, cover;
+    margin: 0;
+	color: #ccc ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust spacing as needed */
+}
+
+.grid-item {
+    flex: 1 1 calc(33% - 20px); /* 3 items per row with spacing */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    text-align: center;  /* Center text */
+}
+
+.grid-item img {
+    width: 170px;
+    height: auto;
+}
+
+.grid-item p {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+a {
+    color: #ff0000; /* Change this to your desired color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Optional: add underline on hover */
+}

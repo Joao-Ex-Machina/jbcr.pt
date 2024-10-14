@@ -54,6 +54,8 @@ footer {
 .grid {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically (if needed) */
     gap: 20px; /* Adjust spacing as needed */
 }
 
@@ -67,16 +69,30 @@ footer {
 }
 
 .grid-item img {
-    width: 170px;
+    width: 100%;
     height: auto;
+    max-width: 100%;
+    max-height:85px;
+    object-fit: contain;
 }
 
+.grid-item button {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height:85px;
+    object-fit: contain;
+    align-items: center; /* Center items horizontally */
+    text-align: center;  /* Center text */
+
+}
 .grid-item p {
     text-align: center;
     margin-top: 5px;
     font-size: 30px;
     color: #ffffff;
 }
+
 
 a {
     color: #ff0000; /* Change this to your desired color */
@@ -85,4 +101,41 @@ a {
 
 a:hover {
     text-decoration: underline; /* Optional: add underline on hover */
+}
+
+.button:hover {
+    filter: brightness(70%); /* Darken the button on hover */
+}
+
+.navbar {
+    background-color: #333; /* Navbar background color */
+    padding: 0px 25px; 
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between; /* Space between brand and menu */
+    align-items: center; /* Center items vertically */
+}
+
+.navbar-brand {
+    color: #cd0000; /* Brand text color */
+    text-decoration: none; /* Remove underline */
+    font-size: 24px; /* Brand text size */
+}
+
+.navbar-menu {
+    list-style: none; /* Remove default list style */
+    display: flex; /* Horizontal layout */
+    gap: 15px; /* Space between menu items */
+}
+
+.navbar-menu li a {
+    color: #cd0000; /* Link color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 10px; /* Spacing around links */
+}
+
+.navbar-menu li a:hover {
+    background-color: #555; /* Background on hover */
 }

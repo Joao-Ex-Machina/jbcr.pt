@@ -1,13 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>João Rodrigues&#39; Slick Site</title>
-	<link>http://localhost:1313/blog/</link>
-	<description>Recent content in UART to MIO (36..37) on João Rodrigues&#39; Slick Site</description>
+	<link>http://localhost:1313/tags/projects/visor/</link>
+	<description>Recent content in Projects/Visor on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 13 Oct 2024 18:15:34 +0100</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/projects/visor/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
@@ -25,51 +24,12 @@
 		<pubDate>Mon, 14 Oct 2024 10:52:59 +0100</pubDate>
 		
 		<guid>http://localhost:1313/contact/</guid>
-		<description>&lt;p&gt;How to get in touch with me, simple as that!&lt;/p&gt;
-&lt;div class=&#34;grid&#34;&gt;
-    
-     
- 
- 
-
-&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
-    &lt;a href=&#34;mailto:joaobarreiroscoelhorodrigues@tecnico.ulisboa.pt&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #85C1FF; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
-        E-mail
-    &lt;/a&gt;
-&lt;/div&gt;
-
-     
- 
- 
-
-&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
-    &lt;a href=&#34;https://github.com/Joao-Ex-Machina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #555555; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
-        GitHub
-    &lt;/a&gt;
-&lt;/div&gt;
-
-     
- 
- 
-
-&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
-    &lt;a href=&#34;https://fosstodon.org/@joaoexmachina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #C8A2E8; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
-        Mastodon
-    &lt;/a&gt;
-&lt;/div&gt;
-
-    
-
-&lt;/div&gt;
-
+		<description>&lt;!-- raw HTML omitted --&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>About Me</title>
+		<title>About</title>
 		<link>http://localhost:1313/about/</link>
 		<pubDate>Sun, 13 Oct 2024 11:58:22 +0100</pubDate>
 		

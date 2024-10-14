@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'About Me'
 date = 2024-10-13T11:58:22+01:00
 +++
 
@@ -53,4 +53,7 @@ I have also been involved with the HackerSchool hackerspace since 2021 having be
     - Call of Cthulhu
 - Pipe smoking and collecting
 
-# My Socials
+# > zathura Curriculum_Vitæ.pdf
+
+{{< pdf src="/resume.pdf" width="100%" height="600px" >}}
+

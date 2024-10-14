@@ -1,0 +1,10 @@
+{{ $color := .Get "color" | default "#007bff" }} <!-- Default color -->
+{{ $link := .Get "link" | default "#" }} <!-- Default link -->
+{{ $icon := .Get "icon" | default "" }} <!-- Default icon -->
+
+<div style="text-align: center; margin: 20px 0;">
+    <a href="{{ $link }}" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: {{ $color }}; color: white; text-decoration: none; border-radius: 5px;">
+        {{ if $icon }}<img src="{{ $icon }}" alt="Icon" style="width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;" />{{ end }}
+        {{ .Inner }}
+    </a>
+</div>

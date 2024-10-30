@@ -5,7 +5,7 @@ layout: single
 
 # Welcome to jbcr.pt fellow traveler!
 
-Boas! My name [João Barreiros C. Rodrigues](about) and this is my slick, hacked together website! Make yourself comfortable to browse around here!
+Boas! My name is [João Barreiros C. Rodrigues](about) and this is my slick, hacked together website! Make yourself comfortable to browse around here!
 
 Oh, and thank you for passing by!
 
@@ -15,6 +15,9 @@ Oh, and thank you for passing by!
 
 {{< image-card src="/about.png" link="/about" caption="About Me" >}}
 
+{{< image-card src="/cv.png" link="/resume.pdf" caption="Resume" >}}
+
+   
 {{< image-card src="/mailbox.svg" link="/contact" caption="Contact Info" >}}
 
 
@@ -23,13 +26,17 @@ Oh, and thank you for passing by!
 # The Core!
 
 {{< grid >}}
-  {{< image-card src="/uart_logo.png" link="/blog" caption="Blog" >}}
+{{< image-card src="/uart_logo.png" link="/blog" caption="Blog" >}}
 
 {{< image-card src="/projectlogo.png" link="/projects" caption="My Projects" >}}
 
+{{< image-card src="/papyrus.png" link="/notes" caption="Study Notes" >}}
+
 {{< image-card src="/setuplogo.png" link="/setup" caption="Toolbox/Setup" >}}
 
+
 {{< image-card src="/hslogo.png" link="https://hackerschool.dev" caption="My HackerSpace" >}}
+
 
 {{< /grid >}}
 

@@ -1,7 +1,8 @@
-+++
-title = 'About Me'
-date = 2024-10-13T11:58:22+01:00
-+++
+---
+title: 'About Me'
+layout: single
+nextprev: false
+---
 
 # > whoami
 
@@ -22,7 +23,7 @@ Since 2023 I have been a **Teaching Assistant** at the [Department of Electrical
 - Programming
 - Computer Architectures
 
-I have also been involved with the HackerSchool hackerspace since 2021 having been:
+I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:
 
 - **Board Member (Marketing)** in 2022
 - **President** from 2022 to 2024
@@ -33,7 +34,7 @@ I have also been involved with the HackerSchool hackerspace since 2021 having be
 ### > grep "Academic Interests"
 
 - Reconfigurable Computing
-- Hardware for Embedded and IoT Systems Design
+- Hardware Design for Embedded and IoT Systems
     - AI on the Edge
     - Computer Vision
 - Electronic Design Automation

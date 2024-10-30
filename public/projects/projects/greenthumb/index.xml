@@ -1,0 +1,138 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>João Rodrigues&#39; Slick Site</title>
+	<link>http://localhost:1313/projects/projects/greenthumb/</link>
+	<description>Recent content in GreenThumb on João Rodrigues&#39; Slick Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Tue, 15 Oct 2024 09:21:44 +0100</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/projects/projects/greenthumb/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Its Alive!</title>
+		<link>http://localhost:1313/blog/post0/</link>
+		<pubDate>Mon, 14 Oct 2024 12:41:50 +0100</pubDate>
+		
+		<guid>http://localhost:1313/blog/post0/</guid>
+		<description>&lt;p&gt;A simple test post, more to come!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Contact</title>
+		<link>http://localhost:1313/contact/</link>
+		<pubDate>Mon, 14 Oct 2024 10:52:59 +0100</pubDate>
+		
+		<guid>http://localhost:1313/contact/</guid>
+		<description>&lt;p&gt;How to get in touch with me, simple as that!&lt;/p&gt;
+&lt;div class=&#34;grid&#34;&gt;
+    
+     
+ 
+ 
+
+&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
+    &lt;a href=&#34;mailto:joaobarreiroscoelhorodrigues@tecnico.ulisboa.pt&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #85C1FF; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        E-mail
+    &lt;/a&gt;
+&lt;/div&gt;
+
+     
+ 
+ 
+
+&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
+    &lt;a href=&#34;https://github.com/Joao-Ex-Machina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #555555; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        GitHub
+    &lt;/a&gt;
+&lt;/div&gt;
+
+     
+ 
+ 
+
+&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
+    &lt;a href=&#34;https://fosstodon.org/@joaoexmachina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #C8A2E8; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        Mastodon
+    &lt;/a&gt;
+&lt;/div&gt;
+
+    
+
+&lt;/div&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>About Me</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Sun, 13 Oct 2024 11:58:22 +0100</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/me.png&#34;&gt;&lt;figcaption&gt;Me, smoking my pipe in front of my Department at night&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I am a 22 year old &lt;strong&gt;Electrical and Computer Eng. Master&amp;rsquo;s student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt;, majoring in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;, with a knack for all things FPGA and Reconfigurable Computing&lt;/p&gt;
+&lt;p&gt;Since 2023 I have been a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; at the &lt;a href=&#34;https://deec.tecnico.ulisboa.pt&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; teaching on the following courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithms and Data Structures&lt;/li&gt;
+&lt;li&gt;Digital Systems&lt;/li&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;li&gt;Computer Architectures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have also been involved with the HackerSchool hackerspace since 2021 having been:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Board Member (Marketing)&lt;/strong&gt; in 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;President&lt;/strong&gt; from 2022 to 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Board Member (Chief Hacker Officer)&lt;/strong&gt; from 2024 until now&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-more-intereststxt&#34;&gt;&amp;gt; more interests.txt&lt;/h1&gt;
+&lt;h3 id=&#34;-grep-academic-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Academic Interests&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconfigurable Computing&lt;/li&gt;
+&lt;li&gt;Hardware Design for Embedded and IoT Systems
+&lt;ul&gt;
+&lt;li&gt;AI on the Edge&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Electronic Design Automation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-grep-other-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Other Interests&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arch GNU/Linux user&lt;/li&gt;
+&lt;li&gt;Libre/Open Source Hardware/Software enthusiast&lt;/li&gt;
+&lt;li&gt;Hardware Hacking&lt;/li&gt;
+&lt;li&gt;Cooking and Barbecue-ing&lt;/li&gt;
+&lt;li&gt;Strength Training at the Gym&lt;/li&gt;
+&lt;li&gt;Weird Fiction and Medieval Fantasy&lt;/li&gt;
+&lt;li&gt;Chess (althought not very good at it)&lt;/li&gt;
+&lt;li&gt;Retro-gaming&lt;/li&gt;
+&lt;li&gt;TTRPG player / Game Master
+&lt;ul&gt;
+&lt;li&gt;Dungeons and Dragons&lt;/li&gt;
+&lt;li&gt;Call of Cthulhu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pipe smoking and collecting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;-zathura-curriculum_vitæpdf&#34;&gt;&amp;gt; zathura Curriculum_Vitæ.pdf&lt;/h1&gt;
+&lt;object data=&#34;/resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;
+    &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: 
+    &lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;/object&gt;
+
+</description>
+	</item>
+	
+	</channel>
+</rss>

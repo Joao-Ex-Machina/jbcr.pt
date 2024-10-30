@@ -1,7 +1,8 @@
-+++
-title = 'Contact'
-date = 2024-10-14T10:52:59+01:00
-+++
+---
+title: 'Contact'
+layout: single
+nextprev: false
+---
 
 How to get in touch with me, simple as that!
 

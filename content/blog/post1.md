@@ -12,7 +12,7 @@ I would like to add to thank those that helped me reach this goal:
 
 [Filipe Piçarra](https://fpicarra.dev) for providing the domain when I did not have a way to generate burner-debit cards
 
-My friends at Canto do SCDEEC, namely Duarte, Catarina, Eduardo and Tiago for their insightful comments on structure and design
+My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, Eduardo and Tiago for their insightful comments on structure, design and typos
 
 Pai e Mãe for their advices, support and beta-testing
 

@@ -6,7 +6,7 @@ date = 2024-11-03T20:56:31Z
 [jbcr.pt](https://jbcr.pt) is officially live!
 You can expect a big blog post detailing my unexpected journey on making this website work soon!
 
-I would like to add to thank those that helped me reach this goal:
+I would like to thank those that helped me reach this goal:
 
 [José Duarte Lopes](https://joselopes.dev) for motivating and guiding me through this world filled with crazy magic words such has: nginx, html and toml
 

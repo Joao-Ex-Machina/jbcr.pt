@@ -2,36 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/greenthumb/</loc>
+    <loc>https://jbcr.pt/projects/greenthumb/</loc>
     <lastmod>2024-10-15T09:21:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jbcr.pt/</loc>
     <lastmod>2024-10-15T09:21:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/visor/</loc>
+    <loc>https://jbcr.pt/projects/visor/</loc>
     <lastmod>2024-10-15T09:21:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://jbcr.pt/notes/classes/</loc>
     <lastmod>2024-10-14T12:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jbcr.pt/notes/classes/sdig/</loc>
+    <lastmod>2024-10-14T12:52:28+01:00</lastmod>
+  </url><url>
+    <loc>https://jbcr.pt/notes/</loc>
+    <lastmod>2024-10-14T12:52:28+01:00</lastmod>
+  </url><url>
+    <loc>https://jbcr.pt/projects/</loc>
+    <lastmod>2024-10-14T12:52:28+01:00</lastmod>
+  </url><url>
+    <loc>https://jbcr.pt/tags/</loc>
     <lastmod>2024-10-14T12:41:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post0/</loc>
+    <loc>https://jbcr.pt/blog/post0/</loc>
     <lastmod>2024-10-14T12:41:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
+    <loc>https://jbcr.pt/tags/website/</loc>
     <lastmod>2024-10-14T12:41:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://jbcr.pt/blog/</loc>
     <lastmod>2024-10-13T18:15:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jbcr.pt/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jbcr.pt/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://jbcr.pt/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/setup/</loc>
+    <loc>https://jbcr.pt/setup/</loc>
   </url>
 </urlset>

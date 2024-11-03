@@ -5,10 +5,26 @@
 	<description>Recent content in jbcr.pt on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Tue, 15 Oct 2024 09:21:44 +0100</lastBuildDate>
+	<lastBuildDate>Sun, 03 Nov 2024 21:44:02 +0000</lastBuildDate>
     
         <atom:link href="https://jbcr.pt/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>We&#39;re live!</title>
+		<link>https://jbcr.pt/blog/post1/</link>
+		<pubDate>Sun, 03 Nov 2024 20:56:31 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/blog/post1/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://jbcr.pt&#34;&gt;jbcr.pt&lt;/a&gt; is officially live!
+You can expect a big blog post detailing my unexpected journey on making this website work soon!&lt;/p&gt;
+&lt;p&gt;I would like to add to thank those that helped me reach this goal:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://joselopes.dev&#34;&gt;José Duarte Lopes&lt;/a&gt; for motivating and guiding me through this world filled with crazy magic words such has: nginx, html and toml&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fpicarra.dev&#34;&gt;Filipe Piçarra&lt;/a&gt; for providing the domain when I did not have a way to generate burner-debit cards&lt;/p&gt;
+&lt;p&gt;My friends at Canto do SCDEEC, namely Duarte, Catarina, Eduardo and Tiago for their insightful comments on structure and design&lt;/p&gt;
+&lt;p&gt;Pai e Mãe for their advices, support and beta-testing&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>The begining!</title>

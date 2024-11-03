@@ -8,8 +8,9 @@ nextprev: false
 All of my class Notes!
 
 # Class Notes
+
 {{< grid >}}
-  {{< image-card src="/SD.webp" link="/notes/classes/SDig" caption="Digital Systems" >}}
+  {{< image-card src="/SD.webp" link="/notes/classes/sdig" caption="Digital Systems" >}}
 
 {{< /grid >}}
 

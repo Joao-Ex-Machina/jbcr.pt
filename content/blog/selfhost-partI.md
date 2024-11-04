@@ -1,7 +1,6 @@
 +++
 title = 'Self-Hosting part I: An Unexpected Journey to my own Website'
 date = 2024-11-04T11:21:23Z
-draft = true
 tags = ['selfhosting','website']
 +++
 

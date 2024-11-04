@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+	<title>Self-Hosting Part I: An Unexpected Journey Into WebDev | João Rodrigues&#39; Slick Site</title>
+	<link rel="canonical" href="http://localhost:1313/">
+	<link rel='alternate' type='application/rss+xml' title="João Rodrigues&#39; Slick Site RSS" href='/index.xml'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
+	<link rel="icon" href="/favicon.ico">
+	<meta name="description" content="This post details the story of this website. Why and how I created it, who inspired me to it and how I am managing it.
+If you want to pick some bits of my source code you can find it here so that you can hack together your own, yes your very own,  website.
+This post is of course more than inspired on José Lopes&rsquo; post on self-hosting.
+Why?
+Well if you know me you know I am not really a software type of guy, I prefer dabbling in hardware design and electronics.">
+	<meta name="keywords" content="selfhosting, website">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+
+    
+    <link rel="stylesheet" href="http://localhost:1313/css/syntax.min.107078f212bd57b57098e1205594d74513541d36e7ea49f855c5f2a5f6d89d1e.css">
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="container">
+        <a href="http://localhost:1313/" class="navbar-brand"><i class="fas fa-home"></i></a>
+        <ul class="navbar-menu">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/blog/">Blog</a></li>
+            <li><a href="/projects/">Projects</a></li>
+            <li><a href="/notes/">Notes</a></li>
+            <li><a href="/contact/">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+
+<main>
+<header><h1 id="tag_Self-Hosting part I: An Unexpected Journey into WebDev">Self-Hosting part I: An Unexpected Journey into WebDev</h1></header>
+<article>
+
+<p>This post details the story of this website. Why and how I created it, who inspired me to it and how I am managing it.</p>
+<p>If you want to pick some bits of my source code you can find it <a href="https://github.com/Joao-Ex-Machina/jbcr.pt">here</a> so that you can hack together your own, <strong>yes your very own</strong>,  website.</p>
+<p>This post is of course more than inspired on José Lopes&rsquo; <a href="https://joselopes.dev/self-hosting">post on self-hosting</a>.</p>
+<h1 id="why">Why?</h1>
+<p>Well if you know me you know I am not really a software type of guy, I prefer dabbling in hardware design and electronics.</p>
+<p>However everything changed this summer, when my good friend (and gym partner) José Duarte Lopes showed me his <a href="https://joselopes.dev">website</a></p>
+<p>He had made what no Computer Science guy could have ever done&hellip;He peaked my interest.</p>
+<p>How delightful it was, a <strong>clean and slick website</strong>, with almost no JavaScript, while running on a <strong>jerry-rigged smartphone/server</strong>. It was no short of a feat of wizardry. That very same day I acquired the <a href="https://jbcr.pt">jbcr.pt</a> domain from <a href="https://amen.pt">amen.pt</a>, for the low-low price of <strong>FREE</strong>!</p>
+<p>And so like Gandalf to Bilbo had convinced me to go onto an <strong>unexpected journey</strong> &hellip; Some months later of course, since the idea needed time to ferment - like a nicely brewed golden mead, but instead of honey, yeast and water my ingredients would be hugo, my router and a Thinkpad T410.</p>
+<h1 id="an-infallible-plan-with-infallible-guidelines">An Infallible Plan with Infallible Guidelines</h1>
+<p>I then devised a set of guidelines for this project:</p>
+<ul>
+<li>Every piece of software I used had to be <strong>free and open source</strong>, excluding GitHub</li>
+<li>The server setup should be easily <strong>extensible</strong>, and eventually <strong>able to self-host more services</strong></li>
+<li>Editing the website should be as easy as editing a text file
+<ul>
+<li>I would <strong>not use any JS</strong> for my website, since I dislike it (possibly for no apparent reason)</li>
+</ul>
+</li>
+<li>Ideally <strong>the cost</strong> to maintain the site <strong>should be minimal</strong>, no more than 5 coffees/month</li>
+<li>Finally the most important clause, arguably: <strong>It had to be at least has good has José&rsquo;s</strong></li>
+</ul>
+<h1 id="the-setup">The Setup</h1>
+<p><img src="/tux-server.jpg" alt="Tux Server?"></p>
+<h3 id="hugo">Hugo</h3>
+<p>(Possibly I started from the opposite direction from where I should&rsquo;ve start)</p>
+<p><strong>Hugo</strong> seemed a good starting point for my framework. It takes some .toml and .md files, applies some forbidden golang magic and bada-bing bada-boom I have a ton of htmls <strong>ready to deploy with minimal effort</strong>.</p>
+<p>I started working on my website while on the bus back from <a href="festa2024.softwarelivre.eu/">Festa do Software Livre</a>, experimenting with some templates, none of which I liked, until I found the Holy Grail - <a href="https://github.com/LukeSmithxyz/lugo">lugo</a> by Luke Smith. The template seemed fairly modular, it had some videos that explained it quite well, and targeted what I wanted - <strong>a clean, extensible and easy to manage webpage with no JS</strong>.</p>
+<p>Sure I had to learn a bit of HTML, and I required one or another tip but other than that was point and shoot! We were already starting good!</p>
+<h3 id="hardware">Hardware</h3>
+<p>Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed <strong>Thinkpad T410</strong> that was found in a <strong>garden bench</strong>.</p>
+<!-- raw HTML omitted -->
+
+<figure ><img src="/t410-server.jpeg"><figcaption>My Thinkpad T410 server after the full setup, running Wireshark </figcaption></figure>
+
+<!-- raw HTML omitted -->
+<p>I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (<strong>Thank you Margarida Gralha</strong> for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.</p>
+<p>Our hardware was ready roll!</p>
+<h3 id="nginx">Nginx</h3>
+<p>To setup nginx you have this file in <a href="">/etc/nginx/nginx.conf</a>. For now your config should kinda look like this:</p>
+<p><img src="/nginx-conf.png" alt="A Nginx config example"></p>
+<p>Do not forget to alter the file in:</p>
+<p><a href="">/etc/nginx/sites-enabled/default</a></p>
+<p><strong>if you are serving on port 80, you should remove the default_server property from it.</strong></p>
+<p>In the server I opened the desired port with:</p>
+<p><a href="">&gt; sudo ufw allow $PORT</a></p>
+<p>Then you can enable and start nginx:</p>
+<p><a href="">&gt; sudo systemctl enable &ndash;now nginx</a></p>
+<p>You can test it with another machine inside your LAN by acessing <a href="192.168.1.254:80">local-server-ip:$PORT</a></p>
+<p>If you are using the port 80 you can drop <a href=":80">$PORT</a>, has it is the HTTP default</p>
+<h3 id="router-configuration">Router configuration</h3>
+<p>In your router configuration you simply have to <strong>open a router port</strong> and <strong>redirect all traffic to your server port</strong>.</p>
+<p>Normally this should not be much of a hassle and must routers already have defaults defined for certain protocols like HTTP (port 80), HTTPS (port 443) and SSH (port 22).</p>
+<p>Now you can test it by acessing <a href="https:176.78.59.62:443">public-router-ip:$PORT</a></p>
+<h3 id="dynip">DynIP</h3>
+<p>Most routers <strong>do not have a static IP</strong>. Normally you have to pay for this feature.</p>
+<p>In Portugal MEO provides a <strong>Dynamic IP solution</strong> for free for their clients, which basically wraps a ugly domain URL around your router IP dinamically. I used it just in case.</p>
+<h3 id="redirecting-to-my-domain">Redirecting to my domain</h3>
+<p>This should be a hassle-free step (again). Just go into your Registrar and redirect your domain to your IP/DynIP. You may need to fix some of the DNS configs, but it will depend on the registrar, CloudFlare and NameCheap appear to be the most friendly.</p>
+<p>You can now test it by acessing <a href="https://jbcr.pt">yourdomain.pt</a> Hooray!</p>
+<h3 id="ssl-certification">SSL Certification</h3>
+<p>As my registrar does not provide free SSL Certification, and I really wanted/needed to be certified (I was in Firefox and some links on the site were getting blocked due to the lack of a certicate) I had to find another solution.</p>
+<p>It appear in the way of <a href="https://letsencrypt.org/getting-started/">EFF&rsquo;s Lets Encrypt</a>.</p>
+<p>I just downloaded the <a href="https://certbot.eff.org/">certbot</a> script from snap and ran on the server:</p>
+<p><a href="">&gt; sudo certbot &ndash;nginx</a></p>
+<p>It&rsquo;ll ask you for some basic stuff in the CLI such as an e-mail and the target domain.</p>
+<p>After it is finished your <a href="">/etc/nginx/nginx.conf</a> will have the <strong>ssl_certificate</strong>, <strong>ssl_certificate_key</strong> and a <strong>listen 443</strong> and some other similiar parameters added to it. Like this:</p>
+<p>If your website is correctly serving on the domain there should be <strong>no fish bones</strong>!</p>
+<h1 id="the-end-">The End (?)</h1>
+<p>This is not the end, <strong>for sure</strong>. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continously working on this website, adding new content and making the framework better, I promise!</p>
+<p>Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!</p>
+
+
+<div id="nextprev">
+<a href="/blog/hello-web/"><div id="prevart">Previous:<br>We&#39;re live!</div></a>
+</div>
+<div style="clear:both" class=taglist>Related<br><a id="tag_selfhosting" href="http://localhost:1313/tags/selfhosting">Selfhosting</a> &middot; <a id="tag_website" href="http://localhost:1313/tags/website">Website</a></div>
+</article>
+</main>
+
+<footer>
+	<a href="http://localhost:1313/">http://localhost:1313/</a><br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+</footer>
+
+</body>
+</html>
+

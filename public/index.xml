@@ -5,33 +5,33 @@
 	<description>Recent content in jbcr.pt on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 03 Nov 2024 21:44:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Nov 2024 11:21:23 +0000</lastBuildDate>
     
         <atom:link href="https://jbcr.pt/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>We&#39;re live!</title>
-		<link>https://jbcr.pt/blog/post1/</link>
+		<link>https://jbcr.pt/blog/hello-web/</link>
 		<pubDate>Sun, 03 Nov 2024 20:56:31 +0000</pubDate>
 		
-		<guid>https://jbcr.pt/blog/post1/</guid>
+		<guid>https://jbcr.pt/blog/hello-web/</guid>
 		<description>&lt;p&gt;&lt;a href=&#34;https://jbcr.pt&#34;&gt;jbcr.pt&lt;/a&gt; is officially live!
 You can expect a big blog post detailing my unexpected journey on making this website work soon!&lt;/p&gt;
 &lt;p&gt;I would like to thank those that helped me reach this goal:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://joselopes.dev&#34;&gt;José Duarte Lopes&lt;/a&gt; for motivating and guiding me through this world filled with crazy magic words such has: nginx, html and toml&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://fpicarra.dev&#34;&gt;Filipe Piçarra&lt;/a&gt; for providing the domain when I did not have a way to generate burner-debit cards&lt;/p&gt;
-&lt;p&gt;My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, Eduardo and Tiago for their insightful comments on structure, design and typos&lt;/p&gt;
+&lt;p&gt;My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, &lt;a href=&#34;https://github.com/Edw590&#34;&gt;Eduardo&lt;/a&gt; and Tiago for their insightful comments on structure, design and typos&lt;/p&gt;
 &lt;p&gt;Pai e Mãe for their advices, support and beta-testing&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>The begining!</title>
-		<link>https://jbcr.pt/blog/post0/</link>
+		<link>https://jbcr.pt/blog/hello-world/</link>
 		<pubDate>Mon, 14 Oct 2024 12:41:50 +0100</pubDate>
 		
-		<guid>https://jbcr.pt/blog/post0/</guid>
+		<guid>https://jbcr.pt/blog/hello-world/</guid>
 		<description>&lt;p&gt;A simple test post to mark when I started making this website, more to come!&lt;/p&gt;
 </description>
 	</item>
@@ -157,20 +157,20 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		
 		<guid>https://jbcr.pt/setup/</guid>
 		<description>&lt;h1 id=&#34;my-everyday-carry-edc&#34;&gt;My Everyday Carry (EDC)&lt;/h1&gt;
-&lt;p&gt;Normally I carry my EDC in a light brown leather satchel, given to me by my parents or in my pockets.&lt;/p&gt;
-&lt;h3 id=&#34;modded-thinkpad-t430&#34;&gt;Modded Thinkpad T430&lt;/h3&gt;
+&lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents, or in my pockets.&lt;/p&gt;
+&lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm&lt;/h3&gt;
 &lt;p&gt;My daily-driver portable computer since December 2022, when I bought it from a portuguese government official for the modest price of 180€.&lt;/p&gt;
 &lt;p&gt;Since it was a government machine it came with many priviliges, such as a &lt;strong&gt;embedded card reader&lt;/strong&gt; and a &lt;strong&gt;fingerprint sensor&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Since then, I have changed many components of it such as the keyboard, screen, processor, ultrabay and even switched the motherboard for a &lt;strong&gt;Corebooted-one&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Since then, I have also changed many components of it such as: the keyboard, screen, processor, ultrabay and even switched the motherboard for a &lt;strong&gt;Corebooted-one&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
 &lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;It simply suits my needs driving Arch GNU/Linux, running the Vivado suite smoothly (although a bit slowly), surfing the web and allowing me to SSH and RDP into more powerfull computer at INESC-ID.&lt;/p&gt;
+&lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerfull computers at INESC-ID.&lt;/p&gt;
 &lt;h3 id=&#34;the-rest&#34;&gt;The Rest&lt;/h3&gt;
-&lt;p&gt;Normally in my day to day I carry:&lt;/p&gt;
+&lt;p&gt;Normally, in my day to day I also carry:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;My black leather wallet
 &lt;ul&gt;
@@ -183,6 +183,10 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;My House and HackerSchool keys, in a Ubuntu keychain&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;my-homelab&#34;&gt;My Homelab&lt;/h1&gt;
+&lt;h3 id=&#34;battlestation&#34;&gt;Battlestation&lt;/h3&gt;
+&lt;h3 id=&#34;server&#34;&gt;Server&lt;/h3&gt;
+&lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;https://jbcr.pt/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
+&lt;h3 id=&#34;workbench&#34;&gt;Workbench&lt;/h3&gt;
 &lt;h1 id=&#34;hackerspace-setup&#34;&gt;HackerSpace Setup&lt;/h1&gt;
 </description>
 	</item>

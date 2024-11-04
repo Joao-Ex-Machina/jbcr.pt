@@ -1,6 +1,7 @@
 +++
 title = "We're live!"
 date = 2024-11-03T20:56:31Z
+tags = ['website']
 +++
 
 [jbcr.pt](https://jbcr.pt) is officially live!
@@ -12,7 +13,7 @@ I would like to thank those that helped me reach this goal:
 
 [Filipe Piçarra](https://fpicarra.dev) for providing the domain when I did not have a way to generate burner-debit cards
 
-My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, Eduardo and Tiago for their insightful comments on structure, design and typos
+My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, [Eduardo](https://github.com/Edw590) and Tiago for their insightful comments on structure, design and typos
 
 Pai e Mãe for their advices, support and beta-testing
 

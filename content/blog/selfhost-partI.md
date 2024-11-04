@@ -1,5 +1,5 @@
 +++
-title = 'Self-Hosting part I: An Unexpected Journey into WebDev'
+title = 'Self-Hosting part I: An Unexpected Journey to my own Website'
 date = 2024-11-04T11:21:23Z
 draft = true
 tags = ['selfhosting','website']
@@ -10,20 +10,20 @@ This post details the story of this website. Why and how I created it, who inspi
 If you want to pick some bits of my source code you can find it [here](https://github.com/Joao-Ex-Machina/jbcr.pt) so that you can hack together your own, **yes your very own**,  website.
 
 
-This post is of course more than inspired on José Lopes' [post on self-hosting](https://joselopes.dev/self-hosting).
+This post is of course more than inspired on José Lopes' [post on self-hosting](https://joselopes.dev/self-hosting), go check it out!
 
 
 # Why?
 
-Well if you know me you know I am not really a software type of guy, I prefer dabbling in hardware design and electronics.
+Well if you know me you know I am not really a software type of guy, I prefer to dabble in hardware design and electronics. Therefore I rarely entertained the idea of having me own webpage in last 4-5 years.
 
 However everything changed this summer, when my good friend (and gym partner) José Duarte Lopes showed me his [website](https://joselopes.dev)
 
-He had made what no Computer Science guy could have ever done...He peaked my interest.
+He (an ECE laddie like me) had made what no Computer Science guy could have ever done...He peaked my interest.
 
 How delightful it was, a **clean and slick website**, with almost no JavaScript, while running on a **jerry-rigged smartphone/server**. It was no short of a feat of wizardry. That very same day I acquired the [jbcr.pt](https://jbcr.pt) domain from [amen.pt](https://amen.pt), for the low-low price of **FREE**!
 
-And so like Gandalf to Bilbo had convinced me to go onto an **unexpected journey** ... Some months later of course, since the idea needed time to ferment - like a nicely brewed golden mead, but instead of honey, yeast and water my ingredients would be hugo, my router and a Thinkpad T410. 
+And so like Gandalf with Bilbo, he had convinced me to go onto an **unexpected journey** ... Some months later of course, since the idea needed time to ferment - like a nicely brewed golden mead, but instead of honey, yeast and water my ingredients would be hugo, my router and a Thinkpad T410. 
 
 # An Infallible Plan with Infallible Guidelines
 
@@ -50,6 +50,7 @@ I started working on my website while on the bus back from [Festa do Software Li
 
 Sure I had to learn a bit of HTML, and I required one or another tip but other than that was point and shoot! We were already starting good!
 
+I've been continously tweaking the style to fit my specific enjoyment for the **late 90's and early 00's web**, therefore I can always argue that my website is how the "internet should've been" and how it is single-handledly on a quest to "desmerdificar" (lit. unshittify) the internet.
 
 ### Hardware
 
@@ -125,7 +126,7 @@ It'll ask you for some basic stuff in the CLI such as an e-mail and the target d
 
 After it is finished your [/etc/nginx/nginx.conf]() will have the **ssl_certificate**, **ssl_certificate_key** and a **listen 443** and some other similiar parameters added to it. Like this:
 
-
+![Certbot Block](/certbotblock.png)
 
 If your website is correctly serving on the domain there should be **no fish bones**!
 

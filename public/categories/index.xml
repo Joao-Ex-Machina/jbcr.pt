@@ -56,15 +56,29 @@
 &lt;p&gt;Our hardware was ready roll!&lt;/p&gt;
 &lt;h3 id=&#34;nginx&#34;&gt;Nginx&lt;/h3&gt;
 &lt;p&gt;To setup nginx you have this file in &lt;a href=&#34;&#34;&gt;/etc/nginx/nginx.conf&lt;/a&gt;. For now your config should kinda look like this:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/nginx-conf.png&#34; alt=&#34;A Nginx config example&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Do not forget to alter the file in:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;http&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;server&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt;  $PORT &lt;span style=&#34;color:#b8bb26&#34;&gt;default_server&lt;/span&gt;; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#use whatever port you want.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#80 is the default for HTTP
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;server_name&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;www.yourdomain.pt&lt;/span&gt; ;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;location&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#fe8019&#34;&gt;root&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;/path/to/website/root&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#fe8019&#34;&gt;index&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;index.html&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;index.htm&lt;/span&gt;; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#nginx will look for these files on the root
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Do not forget to alter the file in:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;&#34;&gt;/etc/nginx/sites-enabled/default&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;if you are serving on port 80, you should remove the default_server property from it.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In the server I opened the desired port with:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;&amp;gt; sudo ufw allow $PORT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Then you can enable and start nginx:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;&amp;gt; sudo systemctl enable &amp;ndash;now nginx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;You can test it with another machine inside your LAN by acessing &lt;a href=&#34;192.168.1.254:80&#34;&gt;local-server-ip:$PORT&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;ufw&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;allow&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;$PORT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then you can enable and start nginx:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;systemctl&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;enable&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;--now&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;nginx&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can test it with another machine inside your LAN by acessing &lt;a href=&#34;192.168.1.254:80&#34;&gt;local-server-ip:$PORT&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you are using the port 80 you can drop &lt;a href=&#34;:80&#34;&gt;$PORT&lt;/a&gt;, has it is the HTTP default&lt;/p&gt;
 &lt;h3 id=&#34;router-configuration&#34;&gt;Router configuration&lt;/h3&gt;
 &lt;p&gt;In your router configuration you simply have to &lt;strong&gt;open a router port&lt;/strong&gt; and &lt;strong&gt;redirect all traffic to your server port&lt;/strong&gt;.&lt;/p&gt;
@@ -80,11 +94,38 @@
 &lt;p&gt;As my registrar does not provide free SSL Certification, and I really wanted/needed to be certified (I was in Firefox and some links on the site were getting blocked due to the lack of a certicate) I had to find another solution.&lt;/p&gt;
 &lt;p&gt;It appear in the way of &lt;a href=&#34;https://letsencrypt.org/getting-started/&#34;&gt;EFF&amp;rsquo;s Lets Encrypt&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I just downloaded the &lt;a href=&#34;https://certbot.eff.org/&#34;&gt;certbot&lt;/a&gt; script from snap and ran on the server:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;&amp;gt; sudo certbot &amp;ndash;nginx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;ll ask you for some basic stuff in the CLI such as an e-mail and the target domain.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;certbot&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;--nginx&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It&amp;rsquo;ll ask you for some basic stuff in the CLI such as an e-mail and the target domain.&lt;/p&gt;
 &lt;p&gt;After it is finished your &lt;a href=&#34;&#34;&gt;/etc/nginx/nginx.conf&lt;/a&gt; will have the &lt;strong&gt;ssl_certificate&lt;/strong&gt;, &lt;strong&gt;ssl_certificate_key&lt;/strong&gt; and a &lt;strong&gt;listen 443&lt;/strong&gt; and some other similiar parameters added to it. Like this:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/certbotblock.png&#34; alt=&#34;Certbot Block&#34;&gt;&lt;/p&gt;
-&lt;p&gt;If your website is correctly serving on the domain there should be &lt;strong&gt;no fish bones&lt;/strong&gt;!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;http{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;server&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;[::]:443&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;ssl&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;ipv6only=on&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;    &lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;443&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;ssl&lt;/span&gt;; &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;    &lt;span style=&#34;color:#fe8019&#34;&gt;ssl_certificate&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/path/to/fullchain.pem&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;ssl_certificate_key&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/path/to/privkey.pem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;    &lt;span style=&#34;color:#fe8019&#34;&gt;include&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/etc/letsencrypt/options-ssl-nginx.conf&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#fe8019&#34;&gt;ssl_dhparam&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/etc/letsencrypt/ssl-dhparams.pem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#fe8019&#34;&gt;server&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;(&lt;/span&gt;$host = &lt;span style=&#34;color:#b8bb26&#34;&gt;jbcr.pt)&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#fe8019&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;301&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;https://&lt;/span&gt;$host$request_uri;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        } &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;80&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;default_server&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;[::]:80&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#fe8019&#34;&gt;server_name&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;jbcr.pt&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;404&lt;/span&gt;; &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If your website is correctly serving on the domain there should be &lt;strong&gt;no fish bones&lt;/strong&gt;!&lt;/p&gt;
 &lt;h1 id=&#34;the-end-&#34;&gt;The End (?)&lt;/h1&gt;
 &lt;p&gt;This is not the end, &lt;strong&gt;for sure&lt;/strong&gt;. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continously working on this website, adding new content and making the framework better, I promise!&lt;/p&gt;
 &lt;p&gt;Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!&lt;/p&gt;

@@ -71,8 +71,24 @@ Our hardware was ready roll!
 
 To setup nginx you have this file in [/etc/nginx/nginx.conf](). For now your config should kinda look like this:
 
-![A Nginx config example](/nginx-conf.png)
+```nginx
+http {
+  (...)
+    server {
+        listen  $PORT default_server; 
+        #use whatever port you want.
+        #80 is the default for HTTP
+        server_name  www.yourdomain.pt ;
+        location / {
+            root  /path/to/website/root;
+            index  index.html index.htm; 
+            #nginx will look for these files on the root
+        }
+        (...)
+    }
+}
 
+```
 Do not forget to alter the file in:
 
 [/etc/nginx/sites-enabled/default]()
@@ -81,11 +97,15 @@ Do not forget to alter the file in:
 
 In the server I opened the desired port with:
 
-[> sudo ufw allow $PORT]()
+```ps
+> sudo ufw allow $PORT
+```
 
 Then you can enable and start nginx:
 
-[> sudo systemctl enable --now nginx]()
+```ps
+> sudo systemctl enable --now nginx
+```
 
 You can test it with another machine inside your LAN by acessing [local-server-ip:$PORT](192.168.1.254:80)
 
@@ -119,13 +139,46 @@ It appear in the way of [EFF's Lets Encrypt](https://letsencrypt.org/getting-sta
 
 I just downloaded the [certbot](https://certbot.eff.org/) script from snap and ran on the server:
 
-[> sudo certbot --nginx]()
+```ps
+> sudo certbot --nginx
+
+```
 
 It'll ask you for some basic stuff in the CLI such as an e-mail and the target domain.
 
 After it is finished your [/etc/nginx/nginx.conf]() will have the **ssl_certificate**, **ssl_certificate_key** and a **listen 443** and some other similiar parameters added to it. Like this:
 
-![Certbot Block](/certbotblock.png)
+```nginx
+http{
+    (...)
+    server{
+        (...)
+    listen [::]:443 ssl ipv6only=on;
+    # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /path/to/fullchain.pem
+    ssl_certificate_key /path/to/privkey.pem;
+    # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+    # managed by Certbot
+
+}
+
+	server {
+        if ($host = jbcr.pt) {
+            return 301 https://$host$request_uri;
+        } # managed by Certbot
+
+
+		listen 80 default_server;
+		listen [::]:80;
+		server_name  jbcr.pt;
+        return 404; # managed by Certbot
+    }
+}
+```
+
 
 If your website is correctly serving on the domain there should be **no fish bones**!
 

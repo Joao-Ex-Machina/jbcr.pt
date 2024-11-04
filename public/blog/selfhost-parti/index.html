@@ -81,15 +81,29 @@ This post is of course more than inspired on José Lopes&rsquo; post on self-hos
 <p>Our hardware was ready roll!</p>
 <h3 id="nginx">Nginx</h3>
 <p>To setup nginx you have this file in <a href="">/etc/nginx/nginx.conf</a>. For now your config should kinda look like this:</p>
-<p><img src="/nginx-conf.png" alt="A Nginx config example"></p>
-<p>Do not forget to alter the file in:</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-nginx" data-lang="nginx"><span style="display:flex;"><span><span style="color:#fe8019">http</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#fe8019">(...)</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#b8bb26">server</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#fe8019">listen</span>  $PORT <span style="color:#b8bb26">default_server</span>; 
+</span></span><span style="display:flex;"><span>        <span style="color:#928374;font-style:italic">#use whatever port you want.
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>        <span style="color:#928374;font-style:italic">#80 is the default for HTTP
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>        <span style="color:#fe8019">server_name</span>  <span style="color:#b8bb26">www.yourdomain.pt</span> ;
+</span></span><span style="display:flex;"><span>        <span style="color:#fe8019">location</span> <span style="color:#b8bb26">/</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#fe8019">root</span>  <span style="color:#b8bb26">/path/to/website/root</span>;
+</span></span><span style="display:flex;"><span>            <span style="color:#fe8019">index</span>  <span style="color:#b8bb26">index.html</span> <span style="color:#b8bb26">index.htm</span>; 
+</span></span><span style="display:flex;"><span>            <span style="color:#928374;font-style:italic">#nginx will look for these files on the root
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>        }
+</span></span><span style="display:flex;"><span>        <span style="color:#fe8019">(...)</span>
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Do not forget to alter the file in:</p>
 <p><a href="">/etc/nginx/sites-enabled/default</a></p>
 <p><strong>if you are serving on port 80, you should remove the default_server property from it.</strong></p>
 <p>In the server I opened the desired port with:</p>
-<p><a href="">&gt; sudo ufw allow $PORT</a></p>
-<p>Then you can enable and start nginx:</p>
-<p><a href="">&gt; sudo systemctl enable &ndash;now nginx</a></p>
-<p>You can test it with another machine inside your LAN by acessing <a href="192.168.1.254:80">local-server-ip:$PORT</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ps" data-lang="ps"><span style="display:flex;"><span>&gt; <span style="color:#fabd2f">sudo</span> <span style="color:#fabd2f">ufw</span> <span style="color:#fabd2f">allow</span> <span style="color:#fabd2f">$PORT</span>
+</span></span></code></pre></div><p>Then you can enable and start nginx:</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ps" data-lang="ps"><span style="display:flex;"><span>&gt; <span style="color:#fabd2f">sudo</span> <span style="color:#fabd2f">systemctl</span> <span style="color:#fabd2f">enable</span> <span style="color:#fabd2f">--now</span> <span style="color:#fabd2f">nginx</span>
+</span></span></code></pre></div><p>You can test it with another machine inside your LAN by acessing <a href="192.168.1.254:80">local-server-ip:$PORT</a></p>
 <p>If you are using the port 80 you can drop <a href=":80">$PORT</a>, has it is the HTTP default</p>
 <h3 id="router-configuration">Router configuration</h3>
 <p>In your router configuration you simply have to <strong>open a router port</strong> and <strong>redirect all traffic to your server port</strong>.</p>
@@ -105,11 +119,38 @@ This post is of course more than inspired on José Lopes&rsquo; post on self-hos
 <p>As my registrar does not provide free SSL Certification, and I really wanted/needed to be certified (I was in Firefox and some links on the site were getting blocked due to the lack of a certicate) I had to find another solution.</p>
 <p>It appear in the way of <a href="https://letsencrypt.org/getting-started/">EFF&rsquo;s Lets Encrypt</a>.</p>
 <p>I just downloaded the <a href="https://certbot.eff.org/">certbot</a> script from snap and ran on the server:</p>
-<p><a href="">&gt; sudo certbot &ndash;nginx</a></p>
-<p>It&rsquo;ll ask you for some basic stuff in the CLI such as an e-mail and the target domain.</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ps" data-lang="ps"><span style="display:flex;"><span>&gt; <span style="color:#fabd2f">sudo</span> <span style="color:#fabd2f">certbot</span> <span style="color:#fabd2f">--nginx</span>
+</span></span></code></pre></div><p>It&rsquo;ll ask you for some basic stuff in the CLI such as an e-mail and the target domain.</p>
 <p>After it is finished your <a href="">/etc/nginx/nginx.conf</a> will have the <strong>ssl_certificate</strong>, <strong>ssl_certificate_key</strong> and a <strong>listen 443</strong> and some other similiar parameters added to it. Like this:</p>
-<p><img src="/certbotblock.png" alt="Certbot Block"></p>
-<p>If your website is correctly serving on the domain there should be <strong>no fish bones</strong>!</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-nginx" data-lang="nginx"><span style="display:flex;"><span><span style="color:#fe8019">http{</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#b8bb26">(...)</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#b8bb26">server</span>{
+</span></span><span style="display:flex;"><span>        <span style="color:#fe8019">(...)</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#b8bb26">listen</span> <span style="color:#b8bb26">[::]:443</span> <span style="color:#b8bb26">ssl</span> <span style="color:#b8bb26">ipv6only=on</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#928374;font-style:italic"># managed by Certbot
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>    <span style="color:#fe8019">listen</span> <span style="color:#d3869b">443</span> <span style="color:#b8bb26">ssl</span>; <span style="color:#928374;font-style:italic"># managed by Certbot
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>    <span style="color:#fe8019">ssl_certificate</span> <span style="color:#b8bb26">/path/to/fullchain.pem</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#b8bb26">ssl_certificate_key</span> <span style="color:#b8bb26">/path/to/privkey.pem</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#928374;font-style:italic"># managed by Certbot
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>    <span style="color:#fe8019">include</span> <span style="color:#b8bb26">/etc/letsencrypt/options-ssl-nginx.conf</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#fe8019">ssl_dhparam</span> <span style="color:#b8bb26">/etc/letsencrypt/ssl-dhparams.pem</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#928374;font-style:italic"># managed by Certbot
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#fe8019">server</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#fe8019">if</span> <span style="color:#b8bb26">(</span>$host = <span style="color:#b8bb26">jbcr.pt)</span> {
+</span></span><span style="display:flex;"><span>            <span style="color:#fe8019">return</span> <span style="color:#d3869b">301</span> <span style="color:#b8bb26">https://</span>$host$request_uri;
+</span></span><span style="display:flex;"><span>        } <span style="color:#928374;font-style:italic"># managed by Certbot
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		<span style="color:#fe8019">listen</span> <span style="color:#d3869b">80</span> <span style="color:#b8bb26">default_server</span>;
+</span></span><span style="display:flex;"><span>		<span style="color:#fe8019">listen</span> <span style="color:#b8bb26">[::]:80</span>;
+</span></span><span style="display:flex;"><span>		<span style="color:#fe8019">server_name</span>  <span style="color:#b8bb26">jbcr.pt</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#fe8019">return</span> <span style="color:#d3869b">404</span>; <span style="color:#928374;font-style:italic"># managed by Certbot
+</span></span></span><span style="display:flex;"><span><span style="color:#928374;font-style:italic"></span>    }
+</span></span><span style="display:flex;"><span><span style="color:#fe8019">}</span>
+</span></span></code></pre></div><p>If your website is correctly serving on the domain there should be <strong>no fish bones</strong>!</p>
 <h1 id="the-end-">The End (?)</h1>
 <p>This is not the end, <strong>for sure</strong>. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continously working on this website, adding new content and making the framework better, I promise!</p>
 <p>Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!</p>

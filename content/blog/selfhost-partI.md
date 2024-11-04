@@ -33,7 +33,7 @@ I then devised a set of guidelines for this project:
 - Editing the website should be as easy as editing a text file
     - I would **not use any JS** for my website, since I dislike it (possibly for no apparent reason)
 - Ideally **the cost** to maintain the site **should be minimal**, no more than 5 coffees/month
-- Finally the most important clause, arguably: **It had to be at least has good has José's**
+- Finally the most important clause, arguably: **It had to be at least as good has José's**
 
 # The Setup
 
@@ -41,7 +41,7 @@ I then devised a set of guidelines for this project:
 
 ### Hugo
 
-(Possibly I started from the opposite direction from where I should've start)
+(Possibly I started from the opposite direction from where I should've started)
 
 **Hugo** seemed a good starting point for my framework. It takes some .toml and .md files, applies some forbidden golang magic and bada-bing bada-boom I have a ton of htmls **ready to deploy with minimal effort**.
 
@@ -187,3 +187,6 @@ If your website is correctly serving on the domain there should be **no fish bon
 This is not the end, **for sure**. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continously working on this website, adding new content and making the framework better, I promise!
 
 Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!
+
+
+**PS:** Thank you Eduardo and José for the suggestions peer-review of the post!

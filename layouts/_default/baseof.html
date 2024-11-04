@@ -18,6 +18,8 @@
 
     {{ $syntax := resources.Get "css/syntax.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $syntax.Permalink }}">
+
+
 </head>
 <body>
 

@@ -149,21 +149,21 @@ It'll ask you for some basic stuff in the CLI such as an e-mail and the target d
 After it is finished your [/etc/nginx/nginx.conf]() will have the **ssl_certificate**, **ssl_certificate_key** and a **listen 443** and some other similiar parameters added to it. Like this:
 
 ```nginx
-http{
+http {
     (...)
-    server{
+    server {
         (...)
-    listen [::]:443 ssl ipv6only=on;
-    # managed by Certbot
-    listen 443 ssl; # managed by Certbot
-    ssl_certificate /path/to/fullchain.pem
-    ssl_certificate_key /path/to/privkey.pem;
-    # managed by Certbot
-    include /etc/letsencrypt/options-ssl-nginx.conf;
-    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
-    # managed by Certbot
+        listen [::]:443 ssl ipv6only=on;
+        # managed by Certbot
+        listen 443 ssl; # managed by Certbot
+        ssl_certificate /path/to/fullchain.pem
+        ssl_certificate_key /path/to/privkey.pem;
+        # managed by Certbot
+        include /etc/letsencrypt/options-ssl-nginx.conf;
+        ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+        # managed by Certbot
 
-}
+    }
 
 	server {
         if ($host = jbcr.pt) {

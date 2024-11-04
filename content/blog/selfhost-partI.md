@@ -189,4 +189,4 @@ This is not the end, **for sure**. Soon I will change from ADSL to Fibre, which 
 Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!
 
 
-**PS:** Thank you Eduardo and José for the suggestions peer-review of the post!
+**PS:** Thank you Eduardo and José for the suggestions and peer-review of this post!

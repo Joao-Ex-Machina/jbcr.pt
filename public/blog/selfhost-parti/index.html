@@ -60,7 +60,7 @@ This post is of course more than inspired on José Lopes&rsquo; post on self-hos
 </ul>
 </li>
 <li>Ideally <strong>the cost</strong> to maintain the site <strong>should be minimal</strong>, no more than 5 coffees/month</li>
-<li>Finally the most important clause, arguably: <strong>It had to be at least as good has José&rsquo;s</strong></li>
+<li>Finally the most important clause, arguably: <strong>It had to be at least as good as José&rsquo;s</strong></li>
 </ul>
 <h1 id="the-setup">The Setup</h1>
 <p><img src="/tux-server.jpg" alt="Tux Server?"></p>
@@ -71,14 +71,14 @@ This post is of course more than inspired on José Lopes&rsquo; post on self-hos
 <p>Sure I had to learn a bit of HTML, and I required one or another tip but other than that was point and shoot! We were already starting good!</p>
 <p>I&rsquo;ve been continously tweaking the style to fit my specific enjoyment for the <strong>late 90&rsquo;s and early 00&rsquo;s web</strong>, therefore I can always argue that my website is how the &ldquo;internet should&rsquo;ve been&rdquo; and how it is single-handledly on a quest to &ldquo;desmerdificar&rdquo; (lit. unshittify) the internet.</p>
 <h3 id="hardware">Hardware</h3>
-<p>Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed <strong>Thinkpad T410</strong> that was found in a <strong>garden bench</strong>.</p>
+<p>Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed <strong>Thinkpad T410</strong> that was found on a <strong>garden bench</strong>.</p>
 <!-- raw HTML omitted -->
 
 <figure ><img src="/t410-server.jpeg"><figcaption>My Thinkpad T410 server after the full setup, running Wireshark </figcaption></figure>
 
 <!-- raw HTML omitted -->
 <p>I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (<strong>Thank you Margarida Gralha</strong> for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.</p>
-<p>Our hardware was ready roll!</p>
+<p>Our hardware was ready to roll!</p>
 <h3 id="nginx">Nginx</h3>
 <p>To setup nginx you have this file in <a href="">/etc/nginx/nginx.conf</a>. For now your config should kinda look like this:</p>
 <div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-nginx" data-lang="nginx"><span style="display:flex;"><span><span style="color:#fe8019">http</span> {
@@ -104,7 +104,7 @@ This post is of course more than inspired on José Lopes&rsquo; post on self-hos
 </span></span></code></pre></div><p>Then you can enable and start nginx:</p>
 <div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-ps" data-lang="ps"><span style="display:flex;"><span>&gt; <span style="color:#fabd2f">sudo</span> <span style="color:#fabd2f">systemctl</span> <span style="color:#fabd2f">enable</span> <span style="color:#fabd2f">--now</span> <span style="color:#fabd2f">nginx</span>
 </span></span></code></pre></div><p>You can test it with another machine inside your LAN by acessing <a href="192.168.1.254:80">local-server-ip:$PORT</a></p>
-<p>If you are using the port 80 you can drop <a href=":80">$PORT</a>, has it is the HTTP default</p>
+<p>If you are using the port 80 you can drop <a href=":80">$PORT</a>, as it is the <a href="HTTP">HTTP</a> default</p>
 <h3 id="router-configuration">Router configuration</h3>
 <p>In your router configuration you simply have to <strong>open a router port</strong> and <strong>redirect all traffic to your server port</strong>.</p>
 <p>Normally this should not be much of a hassle and must routers already have defaults defined for certain protocols like HTTP (port 80), HTTPS (port 443) and SSH (port 22).</p>
@@ -159,6 +159,7 @@ This post is of course more than inspired on José Lopes&rsquo; post on self-hos
 
 <div id="nextprev">
 <a href="/blog/hello-web/"><div id="prevart">Previous:<br>We&#39;re live!</div></a>
+<a href="/blog/ebaz_fpga/"><div id="nextart">Next:<br>Hardware Design on a 5$ FPGA from China (Coming Soon)</div></a>
 </div>
 <div style="clear:both" class=taglist>Related<br><a id="tag_selfhosting" href="https://jbcr.pt/tags/selfhosting">Selfhosting</a> &middot; <a id="tag_website" href="https://jbcr.pt/tags/website">Website</a></div>
 </article>

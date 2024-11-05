@@ -33,7 +33,7 @@ I then devised a set of guidelines for this project:
 - Editing the website should be as easy as editing a text file
     - I would **not use any JS** for my website, since I dislike it (possibly for no apparent reason)
 - Ideally **the cost** to maintain the site **should be minimal**, no more than 5 coffees/month
-- Finally the most important clause, arguably: **It had to be at least as good has José's**
+- Finally the most important clause, arguably: **It had to be at least as good as José's**
 
 # The Setup
 
@@ -53,7 +53,7 @@ I've been continously tweaking the style to fit my specific enjoyment for the **
 
 ### Hardware
 
-Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed **Thinkpad T410** that was found in a **garden bench**.
+Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed **Thinkpad T410** that was found on a **garden bench**.
 
 
 <center>
@@ -65,7 +65,7 @@ Like José I pondered to use an old smartphone. Mine would have been a Huawei P 
 
 I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (**Thank you Margarida Gralha** for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.
 
-Our hardware was ready roll!
+Our hardware was ready to roll!
 
 ### Nginx
 
@@ -109,7 +109,7 @@ Then you can enable and start nginx:
 
 You can test it with another machine inside your LAN by acessing [local-server-ip:$PORT](192.168.1.254:80)
 
-If you are using the port 80 you can drop [$PORT](:80), has it is the HTTP default
+If you are using the port 80 you can drop [$PORT](:80), as it is the [HTTP](HTTP) default
 
 ### Router configuration
 

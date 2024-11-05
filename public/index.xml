@@ -5,10 +5,34 @@
 	<description>Recent content in jbcr.pt on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Mon, 04 Nov 2024 11:21:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Nov 2024 13:40:00 +0000</lastBuildDate>
     
         <atom:link href="https://jbcr.pt/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Teaching at IST: A Review of my experience as a Teaching Assistant (Coming Soon)</title>
+		<link>https://jbcr.pt/blog/ta_review/</link>
+		<pubDate>Tue, 05 Nov 2024 13:40:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/blog/ta_review/</guid>
+		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hardware Design on a 5$ FPGA from China (Coming Soon)</title>
+		<link>https://jbcr.pt/blog/ebaz_fpga/</link>
+		<pubDate>Tue, 05 Nov 2024 13:39:51 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/blog/ebaz_fpga/</guid>
+		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Self-Hosting part I: An Unexpected Journey to my own Website</title>
@@ -36,7 +60,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Ideally &lt;strong&gt;the cost&lt;/strong&gt; to maintain the site &lt;strong&gt;should be minimal&lt;/strong&gt;, no more than 5 coffees/month&lt;/li&gt;
-&lt;li&gt;Finally the most important clause, arguably: &lt;strong&gt;It had to be at least as good has José&amp;rsquo;s&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Finally the most important clause, arguably: &lt;strong&gt;It had to be at least as good as José&amp;rsquo;s&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;the-setup&#34;&gt;The Setup&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&#34;https://jbcr.pt/tux-server.jpg&#34; alt=&#34;Tux Server?&#34;&gt;&lt;/p&gt;
@@ -47,14 +71,14 @@
 &lt;p&gt;Sure I had to learn a bit of HTML, and I required one or another tip but other than that was point and shoot! We were already starting good!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been continously tweaking the style to fit my specific enjoyment for the &lt;strong&gt;late 90&amp;rsquo;s and early 00&amp;rsquo;s web&lt;/strong&gt;, therefore I can always argue that my website is how the &amp;ldquo;internet should&amp;rsquo;ve been&amp;rdquo; and how it is single-handledly on a quest to &amp;ldquo;desmerdificar&amp;rdquo; (lit. unshittify) the internet.&lt;/p&gt;
 &lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
-&lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found in a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found on a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
 &lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (&lt;strong&gt;Thank you Margarida Gralha&lt;/strong&gt; for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.&lt;/p&gt;
-&lt;p&gt;Our hardware was ready roll!&lt;/p&gt;
+&lt;p&gt;Our hardware was ready to roll!&lt;/p&gt;
 &lt;h3 id=&#34;nginx&#34;&gt;Nginx&lt;/h3&gt;
 &lt;p&gt;To setup nginx you have this file in &lt;a href=&#34;&#34;&gt;/etc/nginx/nginx.conf&lt;/a&gt;. For now your config should kinda look like this:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;http&lt;/span&gt; {
@@ -80,7 +104,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then you can enable and start nginx:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;systemctl&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;enable&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;--now&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;nginx&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can test it with another machine inside your LAN by acessing &lt;a href=&#34;192.168.1.254:80&#34;&gt;local-server-ip:$PORT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you are using the port 80 you can drop &lt;a href=&#34;:80&#34;&gt;$PORT&lt;/a&gt;, has it is the HTTP default&lt;/p&gt;
+&lt;p&gt;If you are using the port 80 you can drop &lt;a href=&#34;:80&#34;&gt;$PORT&lt;/a&gt;, as it is the &lt;a href=&#34;HTTP&#34;&gt;HTTP&lt;/a&gt; default&lt;/p&gt;
 &lt;h3 id=&#34;router-configuration&#34;&gt;Router configuration&lt;/h3&gt;
 &lt;p&gt;In your router configuration you simply have to &lt;strong&gt;open a router port&lt;/strong&gt; and &lt;strong&gt;redirect all traffic to your server port&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Normally this should not be much of a hassle and must routers already have defaults defined for certain protocols like HTTP (port 80), HTTPS (port 443) and SSH (port 22).&lt;/p&gt;

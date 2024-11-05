@@ -4,7 +4,6 @@ title = "João Rodrigues' Slick Site"
 
 theme = 'lugo'
 
-
 [markup]
   [markup.highlight]
     noClasses = true      # Use CSS classes for styling

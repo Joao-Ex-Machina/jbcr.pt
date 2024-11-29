@@ -29,6 +29,14 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 - **President** from 2022 to 2024
 - **Board Member (Chief Hacker Officer)** from 2024 until now
 
+<center>
+
+{{<img caption="Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00's through 4 flights of stairs. Average HackerSchool moment!" src=/crime_of_the_century.png >}}
+
+
+</center>
+
+
 # > more interests.txt
     
 ### > grep "Academic Interests"

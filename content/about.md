@@ -62,6 +62,14 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
     - Call of Cthulhu
 - Pipe smoking and collecting
 
+<center>
+
+{{<img caption="Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!" src=/this_boy_can_lift.png >}}
+
+
+</center>
+
+
 # > zathura Curriculum_Vitæ.pdf
 
 {{< pdf src="/resume.pdf" width="100%" height="600px" >}}

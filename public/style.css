@@ -1,5 +1,12 @@
+
+html, body {
+  min-height: 100%; /* Ensures it adapts to content height */
+  margin: 0;
+}
+
 body {
-	font-family: monospace ;
+	transform-origin: top left;
+    font-family: monospace ;
 	font-size: 200%;
     background-image: 
         linear-gradient(to right, transparent 10%, #2B2B2B 10%, #2B2B2B 90%, transparent 90%),
@@ -7,14 +14,50 @@ body {
     background-repeat: repeat, repeat;
     background-attachment: fixed, fixed;
     background-position: center, center;
-    background-size: auto, auto;
+    background-size: cover, cover;
     margin: 0;
 	color: #ccc ;
+    overflow-x: hidden;
 }
 
 main {
-	max-width: 800px ;
+	max-width: 60vw ;
 	margin: auto ;
+}
+
+@media (max-width: 720px) {
+ 
+  body{
+    background-attachment: scroll, scroll;
+    background-repeat: repeat, repeat;
+    background-size: auto;
+    background-position:0,0;
+	font-size: 150%;
+
+  }
+
+  main {
+    text-align:center; /* Scale to 60% */
+  }
+
+  .navbar{
+    padding: 0px 0px; 
+
+  }
+
+  .navbar-menu{
+      visibility:hidden;
+  }
+
+  .navbar .container {
+    display: flex;
+    justify-content: none; /* Space between brand and menu */
+    align-items: center; /* Center items vertically */
+}
+  .navbar-brand{
+        text-align:center;
+  }
+
 }
 
 img {
@@ -122,7 +165,7 @@ a:hover {
 .navbar-brand {
     color: #cd0000; /* Brand text color */
     text-decoration: none; /* Remove underline */
-    font-size: 24px; /* Brand text size */
+    font-size: 25px; /* Brand text size */
 }
 
 .navbar-menu {

@@ -2,6 +2,8 @@
 html, body {
   min-height: 100%; /* Ensures it adapts to content height */
   margin: 0;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  overflow-y: hidden; /* Prevent vertical overflow if content fits */
 }
 
 body {

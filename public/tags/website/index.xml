@@ -337,5 +337,38 @@ You can expect a big blog post detailing my unexpected journey on making this we
 </description>
 	</item>
 	
+	<item>
+		<title>Webring</title>
+		<link>https://jbcr.pt/webring/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/webring/</guid>
+		<description>&lt;p&gt;This is my (or &amp;ldquo;ours&amp;rdquo;) &lt;a href=&#34;https://en.wikipedia.org/wiki/Webring&#34;&gt;webring&lt;/a&gt;, where I link other sites which content I enjoy!&lt;/p&gt;
+&lt;h1 id=&#34;from-friends-or-other-friendly-persons-ive-met-afk&#34;&gt;From friends or other friendly persons I&amp;rsquo;ve met afk&lt;/h1&gt;
+&lt;div class=&#34;grid&#34;&gt;
+    
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://joselopes.dev&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/joselopes.png&#34; alt=&#34;José Lopes&#34;&gt;
+        &lt;p&gt;José Lopes&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://web.tecnico.ulisboa.pt/rui.duarte&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/profrui.png&#34; alt=&#34;Prof. Rui P. Duarte&#34;&gt;
+        &lt;p&gt;Prof. Rui P. Duarte&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+	</item>
+	
 	</channel>
 </rss>

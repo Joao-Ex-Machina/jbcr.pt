@@ -34,6 +34,7 @@ Oh, and thank you for passing by!
 
 {{< image-card src="/setuplogo.png" link="/setup" caption="Toolbox/Setup" >}}
 
+{{< image-card src="/onering.gif" link="/webring" caption="Our Webring" >}}
 
 {{< image-card src="/hslogo.png" link="https://hackerschool.dev" caption="My HackerSpace" >}}
 

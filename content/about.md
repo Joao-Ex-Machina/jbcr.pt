@@ -6,10 +6,10 @@ nextprev: false
 
 # > whoami
 
-
 <center>
 
-{{<img caption="Me, smoking my pipe in front of my Department at night" src=/me.png >}}
+{{<img caption="Me, snaping a cool analog photo with my Ricoh KR-5 camera, at INESC-ID" src=/me-II.JPG >}}
+
 
 </center>
 
@@ -31,11 +31,10 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 
 <center>
 
-{{<img caption="Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00's through 4 flights of stairs. Average HackerSchool moment!" src=/crime_of_the_century.png >}}
+{{<img caption="Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!" src=/this_boy_can_lift.png >}}
 
 
 </center>
-
 
 # > more interests.txt
     
@@ -47,25 +46,35 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
     - Computer Vision
 - Electronic Design Automation
 
-### > grep "Other Interests"
+### > grep "Technical Interests"
 
 - Arch GNU/Linux user
 - Libre/Open Source Hardware/Software enthusiast
 - Hardware Hacking
-- Cooking and Barbecue-ing
-- Strength Training at the Gym
-- Weird Fiction and Medieval Fantasy
-- Chess (althought not very good at it)
-- Retro-gaming
-- TTRPG player / Game Master
-    - Dungeons and Dragons
-    - Call of Cthulhu
-- Pipe smoking and collecting
 
 <center>
 
-{{<img caption="Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!" src=/this_boy_can_lift.png >}}
+{{<img caption="Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00's through 4 flights of stairs. Average HackerSchool moment!" src=/crime_of_the_century.png >}}
 
+
+</center>
+
+
+### > grep "The 'Cool' Interests"
+
+- Cooking and Barbecue-ing
+- Analog Photography
+- Strength Training at the Gym
+- Weird Fiction and Medieval Fantasy
+- Chess (althought not very good at it)
+- TTRPG player / Game Master
+    - Dungeons and Dragons
+    - Call of Cthulhu
+- Pipe smoking
+
+<center>
+
+{{<img caption="Me, smoking my pipe in front of my Department at night" src=/me.png >}}
 
 </center>
 
@@ -73,4 +82,5 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 # > zathura Curriculum_Vitæ.pdf
 
 {{< pdf src="/resume.pdf" width="100%" height="600px" >}}
+
 

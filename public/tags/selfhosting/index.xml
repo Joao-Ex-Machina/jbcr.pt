@@ -179,7 +179,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me.png&#34;&gt;&lt;figcaption&gt;Me, smoking my pipe in front of my Department at night&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me-II.JPG&#34;&gt;&lt;figcaption&gt;Me, snaping a cool analog photo with my Ricoh KR-5 camera, at INESC-ID&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am a 22 year old &lt;strong&gt;Electrical and Computer Eng. Master&amp;rsquo;s student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt;, majoring in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;, with a knack for all things FPGA and Reconfigurable Computing&lt;/p&gt;
@@ -198,7 +198,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/crime_of_the_century.png&#34;&gt;&lt;figcaption&gt;Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00&amp;#39;s through 4 flights of stairs. Average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;-more-intereststxt&#34;&gt;&amp;gt; more interests.txt&lt;/h1&gt;
@@ -213,27 +213,35 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/li&gt;
 &lt;li&gt;Electronic Design Automation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;-grep-other-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Other Interests&amp;rdquo;&lt;/h3&gt;
+&lt;h3 id=&#34;-grep-technical-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Technical Interests&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Arch GNU/Linux user&lt;/li&gt;
 &lt;li&gt;Libre/Open Source Hardware/Software enthusiast&lt;/li&gt;
 &lt;li&gt;Hardware Hacking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/crime_of_the_century.png&#34;&gt;&lt;figcaption&gt;Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00&amp;#39;s through 4 flights of stairs. Average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;-grep-the-cool-interests&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
 &lt;li&gt;Cooking and Barbecue-ing&lt;/li&gt;
+&lt;li&gt;Analog Photography&lt;/li&gt;
 &lt;li&gt;Strength Training at the Gym&lt;/li&gt;
 &lt;li&gt;Weird Fiction and Medieval Fantasy&lt;/li&gt;
 &lt;li&gt;Chess (althought not very good at it)&lt;/li&gt;
-&lt;li&gt;Retro-gaming&lt;/li&gt;
 &lt;li&gt;TTRPG player / Game Master
 &lt;ul&gt;
 &lt;li&gt;Dungeons and Dragons&lt;/li&gt;
 &lt;li&gt;Call of Cthulhu&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Pipe smoking and collecting&lt;/li&gt;
+&lt;li&gt;Pipe smoking&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me.png&#34;&gt;&lt;figcaption&gt;Me, smoking my pipe in front of my Department at night&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;-zathura-curriculum_vitæpdf&#34;&gt;&amp;gt; zathura Curriculum_Vitæ.pdf&lt;/h1&gt;

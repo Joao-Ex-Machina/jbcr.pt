@@ -30,6 +30,8 @@ Oh, and thank you for passing by!
 
 {{< image-card src="/projectlogo.png" link="/projects" caption="My Projects" >}}
 
+{{< image-card src="/stock-icon.png" link="/gallery/analog" caption="Photo Portfolio" >}}
+
 {{< image-card src="/papyrus-2.png" link="/notes" caption="Study Notes" >}}
 
 {{< image-card src="/setuplogo.png" link="/setup" caption="Toolbox/Setup" >}}

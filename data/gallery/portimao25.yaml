@@ -1,0 +1,13 @@
+- file: test.png
+  title: "Morning light in Lisbon"
+  date: 2025-08-14
+  album: "Lisbon Trip"
+  camera: "Ricoh KR-5"
+  film: "Kodak Gold 200"
+
+- file: test2.png
+  title: "Afternoon shadows"
+  date: 2025-08-15
+  album: "Lisbon Trip"
+  camera: "Pentax Spotmatic"
+  film: "Fujifilm C200"

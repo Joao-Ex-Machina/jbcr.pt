@@ -14,14 +14,17 @@ nextprev: false
 </center>
 
 
-I am a 22 year old **Electrical and Computer Eng. Master's student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt), majoring in **Computer Systems** and minoring in **Electronic Circuits and Systems**, with a knack for all things FPGA and Reconfigurable Computing
+I am a 23 year old **Electrical and Computer Eng. Master's student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt), majoring in **Computer Systems** and minoring in **Electronic Circuits and Systems**, with a knack for all things FPGA and Reconfigurable Computing
 
-Since 2023 I have been a **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt) teaching on the following courses:
+As of now I am finishing my MSc Thesis on a Hardware/Software Co-Designed Embedded System for Aerial Image Segmentation based on Transformers at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. I will continue my work on hardware design for Artificial Intelligence as a PhD student, with the same supervisors. 
+From 2023 to July 2025 I was a **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt) teaching on the following courses:
 
 - Algorithms and Data Structures
 - Digital Systems
 - Programming
 - Computer Architectures
+
+I enjoyed this expirience throughly, winning the **Excelence in Teaching** award for the school year of 23/24.
 
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:
 
@@ -41,6 +44,7 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 ### > grep "Academic Interests"
 
 - Reconfigurable Computing
+- Digital Electronics Design and Verification
 - Hardware Design for Embedded and IoT Systems
     - AI on the Edge
     - Computer Vision
@@ -51,6 +55,7 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 - Arch GNU/Linux user
 - Libre/Open Source Hardware/Software enthusiast
 - Hardware Hacking
+- 3D Modelling and Printing 
 
 <center>
 

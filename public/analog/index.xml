@@ -1,0 +1,416 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>João Rodrigues&#39; Slick Site</title>
+	<link>http://localhost:1313/analog/</link>
+	<description>Recent content in Analog Photo Gallery on João Rodrigues&#39; Slick Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/analog/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Teaching at IST: A Review of my experience as a Teaching Assistant</title>
+		<link>http://localhost:1313/blog/ta_review/</link>
+		<pubDate>Tue, 05 Nov 2024 13:40:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/ta_review/</guid>
+		<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve hit my first anniversary as a teaching assistant (TA) at Instituto Superior Técnico (IST), and it has been quite the ride.&lt;/p&gt;
+&lt;p&gt;As of now I have taught:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital Systems (Winter Quarter 23/24)&lt;/li&gt;
+&lt;li&gt;Programming (Spring Quarter 23/24)&lt;/li&gt;
+&lt;li&gt;Computer Architectures (Summer Quarter 23/24)&lt;/li&gt;
+&lt;li&gt;Algorithms and Data Structures (Autumn Quarter 24/25)&lt;/li&gt;
+&lt;li&gt;Digital Systems (Winter Quarter 24/25), which I am currently lecturing as of the writing of this post&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m also assign to taught this year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming (Spring Quarter 24/25)&lt;/li&gt;
+&lt;li&gt;Computer Architecures (Summer Quarter 24/25)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ve also given a bit of additional support time for the Digital Systems Design curricular unit, simply because I really enjoy this course.&lt;/p&gt;
+&lt;p&gt;Has you can see all of the classes that I taught are related to Computer Engineering. This should come as no surprise since I am majoring in Electrical and Computer Eng. in the branch of Computer Systems.&lt;/p&gt;
+&lt;h1 id=&#34;how-it-started&#34;&gt;How it started&lt;/h1&gt;
+&lt;h1 id=&#34;the-good&#34;&gt;The Good&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll cut to the chase - the money is &lt;strong&gt;very&lt;/strong&gt; good. I make around 400€, &lt;strong&gt;clean&lt;/strong&gt; For around 6-10 hours a week. This money provides some independence, which feels really great - I pay my gym fees, my meals outside of the household, trips with friends, tools for hacking, etc. Honestly nothing beats the feeling of buying something with your own money.&lt;/p&gt;
+&lt;p&gt;But discarding the money the overall experience is really rewarding - having the opportunity to tune small things in the courses that you have a passion for is irresistible. You also have an incredible pipeline to talk with some of the professors that made you enjoy such subjects (shoutout for Prof. Horácio C. Neto, Prof. Nuno Roma, Prof. Carlos )&lt;/p&gt;
+&lt;h1 id=&#34;the-bad&#34;&gt;The Bad&lt;/h1&gt;
+&lt;h1 id=&#34;the-ugly-what-could-be-improved&#34;&gt;The Ugly (what could be improved)&lt;/h1&gt;
+&lt;p&gt;I honestly started this chapter just as a gimmick, since I wanted to do a reference to &lt;a href=&#34;&#34;&gt;Sergio Leone&amp;rsquo;s western spaghetti&lt;/a&gt;. But after thinking a bit the things that are ugly are those that can be improved&amp;hellip;.but have not yet been.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hardware Design on a 5$ FPGA from China part I- The Setup (Coming Soon)</title>
+		<link>http://localhost:1313/blog/ebaz_fpga/</link>
+		<pubDate>Tue, 05 Nov 2024 13:39:51 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/ebaz_fpga/</guid>
+		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Self-Hosting part I: An Unexpected Journey to my own Website</title>
+		<link>http://localhost:1313/blog/selfhost-parti/</link>
+		<pubDate>Mon, 04 Nov 2024 11:21:23 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/selfhost-parti/</guid>
+		<description>&lt;p&gt;This post details the story of this website. Why and how I created it, who inspired me to it and how I am managing it.&lt;/p&gt;
+&lt;p&gt;If you want to pick some bits of my source code you can find it &lt;a href=&#34;https://github.com/Joao-Ex-Machina/jbcr.pt&#34;&gt;here&lt;/a&gt; so that you can hack together your own, &lt;strong&gt;yes your very own&lt;/strong&gt;,  website.&lt;/p&gt;
+&lt;p&gt;This post is of course more than inspired on José Lopes&amp;rsquo; &lt;a href=&#34;https://joselopes.dev/self-hosting&#34;&gt;post on self-hosting&lt;/a&gt;, go check it out!&lt;/p&gt;
+&lt;h1 id=&#34;why&#34;&gt;Why?&lt;/h1&gt;
+&lt;p&gt;Well if you know me you know I am not really a software type of guy, I prefer to dabble in hardware design and electronics. Therefore I rarely entertained the idea of having me own webpage in last 4-5 years.&lt;/p&gt;
+&lt;p&gt;However everything changed this summer, when my good friend (and gym partner) José Duarte Lopes showed me his &lt;a href=&#34;https://joselopes.dev&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;He (an ECE laddie like me) had made what no Computer Science guy could have ever done&amp;hellip;He peaked my interest.&lt;/p&gt;
+&lt;p&gt;How delightful it was, a &lt;strong&gt;clean and slick website&lt;/strong&gt;, with almost no JavaScript, while running on a &lt;strong&gt;jerry-rigged smartphone/server&lt;/strong&gt;. It was no short of a feat of wizardry. That very same day I acquired the &lt;a href=&#34;https://jbcr.pt&#34;&gt;jbcr.pt&lt;/a&gt; domain from &lt;a href=&#34;https://amen.pt&#34;&gt;amen.pt&lt;/a&gt;, for the low-low price of &lt;strong&gt;FREE&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;And so like Gandalf with Bilbo, he had convinced me to go onto an &lt;strong&gt;unexpected journey&lt;/strong&gt; &amp;hellip; Some months later of course, since the idea needed time to ferment - like a nicely brewed golden mead, but instead of honey, yeast and water my ingredients would be hugo, my router and a Thinkpad T410.&lt;/p&gt;
+&lt;h1 id=&#34;an-infallible-plan-with-infallible-guidelines&#34;&gt;An Infallible Plan with Infallible Guidelines&lt;/h1&gt;
+&lt;p&gt;I then devised a set of guidelines for this project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Every piece of software I used had to be &lt;strong&gt;free and open source&lt;/strong&gt;, excluding GitHub&lt;/li&gt;
+&lt;li&gt;The server setup should be easily &lt;strong&gt;extensible&lt;/strong&gt;, and eventually &lt;strong&gt;able to self-host more services&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Editing the website should be as easy as editing a text file
+&lt;ul&gt;
+&lt;li&gt;I would &lt;strong&gt;not use any JS&lt;/strong&gt; for my website, since I dislike it (possibly for no apparent reason)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ideally &lt;strong&gt;the cost&lt;/strong&gt; to maintain the site &lt;strong&gt;should be minimal&lt;/strong&gt;, no more than 5 coffees/month&lt;/li&gt;
+&lt;li&gt;Finally the most important clause, arguably: &lt;strong&gt;It had to be at least as good as José&amp;rsquo;s&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;the-setup&#34;&gt;The Setup&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/tux-server.jpg&#34; alt=&#34;Tux Server?&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
+&lt;p&gt;(Possibly I started from the opposite direction from where I should&amp;rsquo;ve started)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; seemed a good starting point for my framework. It takes some .toml and .md files, applies some forbidden golang magic and bada-bing bada-boom I have a ton of htmls &lt;strong&gt;ready to deploy with minimal effort&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I started working on my website while on the bus back from &lt;a href=&#34;festa2024.softwarelivre.eu/&#34;&gt;Festa do Software Livre&lt;/a&gt;, experimenting with some templates, none of which I liked, until I found the Holy Grail - &lt;a href=&#34;https://github.com/LukeSmithxyz/lugo&#34;&gt;lugo&lt;/a&gt; by Luke Smith. The template seemed fairly modular, it had some videos that explained it quite well, and targeted what I wanted - &lt;strong&gt;a clean, extensible and easy to manage webpage with no JS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Sure I had to learn a bit of HTML, and I required one or another tip but other than that was point and shoot! We were already starting good!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been continously tweaking the style to fit my specific enjoyment for the &lt;strong&gt;late 90&amp;rsquo;s and early 00&amp;rsquo;s web&lt;/strong&gt;, therefore I can always argue that my website is how the &amp;ldquo;internet should&amp;rsquo;ve been&amp;rdquo; and how it is single-handledly on a quest to &amp;ldquo;desmerdificar&amp;rdquo; (lit. unshittify) the internet.&lt;/p&gt;
+&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found on a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (&lt;strong&gt;Thank you Margarida Gralha&lt;/strong&gt; for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.&lt;/p&gt;
+&lt;p&gt;Our hardware was ready to roll!&lt;/p&gt;
+&lt;h3 id=&#34;nginx&#34;&gt;Nginx&lt;/h3&gt;
+&lt;p&gt;To setup nginx you have this file in &lt;a href=&#34;&#34;&gt;/etc/nginx/nginx.conf&lt;/a&gt;. For now your config should kinda look like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;http&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;server&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt;  $PORT &lt;span style=&#34;color:#b8bb26&#34;&gt;default_server&lt;/span&gt;; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#use whatever port you want.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#80 is the default for HTTP
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;server_name&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;www.yourdomain.pt&lt;/span&gt; ;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;location&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#fe8019&#34;&gt;root&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;/path/to/website/root&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#fe8019&#34;&gt;index&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;index.html&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;index.htm&lt;/span&gt;; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#nginx will look for these files on the root
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Do not forget to alter the file in:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;/etc/nginx/sites-enabled/default&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;if you are serving on port 80, you should remove the default_server property from it.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the server I opened the desired port with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;ufw&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;allow&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;$PORT&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then you can enable and start nginx:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;systemctl&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;enable&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;--now&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;nginx&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can test it with another machine inside your LAN by acessing &lt;a href=&#34;192.168.1.254:80&#34;&gt;local-server-ip:$PORT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you are using the port 80 you can drop &lt;a href=&#34;:80&#34;&gt;$PORT&lt;/a&gt;, as it is the &lt;a href=&#34;HTTP&#34;&gt;HTTP&lt;/a&gt; default&lt;/p&gt;
+&lt;h3 id=&#34;router-configuration&#34;&gt;Router configuration&lt;/h3&gt;
+&lt;p&gt;In your router configuration you simply have to &lt;strong&gt;open a router port&lt;/strong&gt; and &lt;strong&gt;redirect all traffic to your server port&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Normally this should not be much of a hassle and must routers already have defaults defined for certain protocols like HTTP (port 80), HTTPS (port 443) and SSH (port 22).&lt;/p&gt;
+&lt;p&gt;Now you can test it by acessing &lt;a href=&#34;https:176.78.59.62:443&#34;&gt;public-router-ip:$PORT&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dynip&#34;&gt;DynIP&lt;/h3&gt;
+&lt;p&gt;Most routers &lt;strong&gt;do not have a static IP&lt;/strong&gt;. Normally you have to pay for this feature.&lt;/p&gt;
+&lt;p&gt;In Portugal MEO provides a &lt;strong&gt;Dynamic IP solution&lt;/strong&gt; for free for their clients, which basically wraps a ugly domain URL around your router IP dinamically. I used it just in case.&lt;/p&gt;
+&lt;h3 id=&#34;redirecting-to-my-domain&#34;&gt;Redirecting to my domain&lt;/h3&gt;
+&lt;p&gt;This should be a hassle-free step (again). Just go into your Registrar and redirect your domain to your IP/DynIP. You may need to fix some of the DNS configs, but it will depend on the registrar, CloudFlare and NameCheap appear to be the most friendly.&lt;/p&gt;
+&lt;p&gt;You can now test it by acessing &lt;a href=&#34;https://jbcr.pt&#34;&gt;yourdomain.pt&lt;/a&gt; Hooray!&lt;/p&gt;
+&lt;h3 id=&#34;ssl-certification&#34;&gt;SSL Certification&lt;/h3&gt;
+&lt;p&gt;As my registrar does not provide free SSL Certification, and I really wanted/needed to be certified (I was in Firefox and some links on the site were getting blocked due to the lack of a certicate) I had to find another solution.&lt;/p&gt;
+&lt;p&gt;It appear in the way of &lt;a href=&#34;https://letsencrypt.org/getting-started/&#34;&gt;EFF&amp;rsquo;s Lets Encrypt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I just downloaded the &lt;a href=&#34;https://certbot.eff.org/&#34;&gt;certbot&lt;/a&gt; script from snap and ran on the server:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ps&#34; data-lang=&#34;ps&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;sudo&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;certbot&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;--nginx&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It&amp;rsquo;ll ask you for some basic stuff in the CLI such as an e-mail and the target domain.&lt;/p&gt;
+&lt;p&gt;After it is finished your &lt;a href=&#34;&#34;&gt;/etc/nginx/nginx.conf&lt;/a&gt; will have the &lt;strong&gt;ssl_certificate&lt;/strong&gt;, &lt;strong&gt;ssl_certificate_key&lt;/strong&gt; and a &lt;strong&gt;listen 443&lt;/strong&gt; and some other similiar parameters added to it. Like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;http&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;server&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;(...)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#b8bb26&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;[::]:443&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;ssl&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;ipv6only=on&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;443&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;ssl&lt;/span&gt;; &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;ssl_certificate&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/path/to/fullchain.pem&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#b8bb26&#34;&gt;ssl_certificate_key&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/path/to/privkey.pem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;include&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/etc/letsencrypt/options-ssl-nginx.conf&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;ssl_dhparam&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;/etc/letsencrypt/ssl-dhparams.pem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#fe8019&#34;&gt;server&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;(&lt;/span&gt;$host = &lt;span style=&#34;color:#b8bb26&#34;&gt;jbcr.pt)&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &lt;span style=&#34;color:#fe8019&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;301&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;https://&lt;/span&gt;$host$request_uri;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        } &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;80&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;default_server&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#fe8019&#34;&gt;listen&lt;/span&gt; &lt;span style=&#34;color:#b8bb26&#34;&gt;[::]:80&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;		&lt;span style=&#34;color:#fe8019&#34;&gt;server_name&lt;/span&gt;  &lt;span style=&#34;color:#b8bb26&#34;&gt;jbcr.pt&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#fe8019&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;404&lt;/span&gt;; &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# managed by Certbot
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;&lt;/span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If your website is correctly serving on the domain there should be &lt;strong&gt;no fish bones&lt;/strong&gt;!&lt;/p&gt;
+&lt;h1 id=&#34;the-end-&#34;&gt;The End (?)&lt;/h1&gt;
+&lt;p&gt;This is not the end, &lt;strong&gt;for sure&lt;/strong&gt;. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continously working on this website, adding new content and making the framework better, I promise!&lt;/p&gt;
+&lt;p&gt;Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt; Thank you Eduardo and José for the suggestions and peer-review of this post!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>We&#39;re live!</title>
+		<link>http://localhost:1313/blog/hello-web/</link>
+		<pubDate>Sun, 03 Nov 2024 20:56:31 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/hello-web/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://jbcr.pt&#34;&gt;jbcr.pt&lt;/a&gt; is officially live!
+You can expect a big blog post detailing my unexpected journey on making this website work soon!&lt;/p&gt;
+&lt;p&gt;I would like to thank those that helped me reach this goal:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://joselopes.dev&#34;&gt;José Duarte Lopes&lt;/a&gt; for motivating and guiding me through this world filled with crazy magic words such has: nginx, html and toml&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fpicarra.dev&#34;&gt;Filipe Piçarra&lt;/a&gt; for providing the domain when I did not have a way to generate burner-debit cards&lt;/p&gt;
+&lt;p&gt;My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, &lt;a href=&#34;https://github.com/Edw590&#34;&gt;Eduardo&lt;/a&gt; and Tiago for their insightful comments on structure, design and typos&lt;/p&gt;
+&lt;p&gt;Pai e Mãe for their advices, support and beta-testing&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>The begining!</title>
+		<link>http://localhost:1313/blog/hello-world/</link>
+		<pubDate>Mon, 14 Oct 2024 12:41:50 +0100</pubDate>
+		
+		<guid>http://localhost:1313/blog/hello-world/</guid>
+		<description>&lt;p&gt;A simple test post to mark when I started making this website, more to come!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About Me</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/me-II.JPG&#34;&gt;&lt;figcaption&gt;Me, snaping a cool analog photo with my Ricoh KR-5 camera, at INESC-ID&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. Master&amp;rsquo;s student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt;, majoring in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;, with a knack for all things FPGA and Reconfigurable Computing&lt;/p&gt;
+&lt;p&gt;As of now I am finishing my MSc Thesis on a Hardware/Software Co-Designed Embedded System for Aerial Image Segmentation based on Transformers at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. I will continue my work on hardware design for Artificial Intelligence as a PhD student, with the same supervisors.
+From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; at the &lt;a href=&#34;https://deec.tecnico.ulisboa.pt&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; teaching on the following courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithms and Data Structures&lt;/li&gt;
+&lt;li&gt;Digital Systems&lt;/li&gt;
+&lt;li&gt;Programming&lt;/li&gt;
+&lt;li&gt;Computer Architectures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I enjoyed this expirience throughly, winning the &lt;strong&gt;Excelence in Teaching&lt;/strong&gt; award for the school year of 23/24.&lt;/p&gt;
+&lt;p&gt;I have also been &lt;strong&gt;hackin&amp;rsquo; and tinkerin&amp;rsquo;&lt;/strong&gt; while involved with the &lt;a href=&#34;https://hackerschool.dev&#34;&gt;HackerSchool&lt;/a&gt; hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Board Member (Marketing)&lt;/strong&gt; in 2022&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;President&lt;/strong&gt; from 2022 to 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Board Member (Chief Hacker Officer)&lt;/strong&gt; from 2024 until now&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;-more-intereststxt&#34;&gt;&amp;gt; more interests.txt&lt;/h1&gt;
+&lt;h3 id=&#34;-grep-academic-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Academic Interests&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconfigurable Computing&lt;/li&gt;
+&lt;li&gt;Digital Electronics Design and Verification&lt;/li&gt;
+&lt;li&gt;Hardware Design for Embedded and IoT Systems
+&lt;ul&gt;
+&lt;li&gt;AI on the Edge&lt;/li&gt;
+&lt;li&gt;Computer Vision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Electronic Design Automation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-grep-technical-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Technical Interests&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arch GNU/Linux user&lt;/li&gt;
+&lt;li&gt;Libre/Open Source Hardware/Software enthusiast&lt;/li&gt;
+&lt;li&gt;Hardware Hacking&lt;/li&gt;
+&lt;li&gt;3D Modelling and Printing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/crime_of_the_century.png&#34;&gt;&lt;figcaption&gt;Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00&amp;#39;s through 4 flights of stairs. Average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;-grep-the-cool-interests&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests&amp;rdquo;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cooking and Barbecue-ing&lt;/li&gt;
+&lt;li&gt;Analog Photography&lt;/li&gt;
+&lt;li&gt;Strength Training at the Gym&lt;/li&gt;
+&lt;li&gt;Weird Fiction and Medieval Fantasy&lt;/li&gt;
+&lt;li&gt;Chess (althought not very good at it)&lt;/li&gt;
+&lt;li&gt;TTRPG player / Game Master
+&lt;ul&gt;
+&lt;li&gt;Dungeons and Dragons&lt;/li&gt;
+&lt;li&gt;Call of Cthulhu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pipe smoking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/me.png&#34;&gt;&lt;figcaption&gt;Me, smoking my pipe in front of my Department at night&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;-zathura-curriculum_vitæpdf&#34;&gt;&amp;gt; zathura Curriculum_Vitæ.pdf&lt;/h1&gt;
+&lt;object data=&#34;/resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;
+    &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: 
+    &lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;/object&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Contact</title>
+		<link>http://localhost:1313/contact/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/contact/</guid>
+		<description>&lt;p&gt;How to get in touch with me, simple as that!&lt;/p&gt;
+&lt;div class=&#34;grid&#34;&gt;
+    
+     
+ 
+ 
+
+&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
+    &lt;a href=&#34;mailto:joaobarreiroscoelhorodrigues@tecnico.ulisboa.pt&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #85C1FF; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        E-mail
+    &lt;/a&gt;
+&lt;/div&gt;
+
+     
+ 
+ 
+
+&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
+    &lt;a href=&#34;https://github.com/Joao-Ex-Machina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #555555; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        GitHub
+    &lt;/a&gt;
+&lt;/div&gt;
+
+     
+ 
+ 
+
+&lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
+    &lt;a href=&#34;https://fosstodon.org/@joaoexmachina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #C8A2E8; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        Mastodon
+    &lt;/a&gt;
+&lt;/div&gt;
+
+    
+
+&lt;/div&gt;
+
+</description>
+	</item>
+	
+	<item>
+		<title>Setup</title>
+		<link>http://localhost:1313/setup/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/setup/</guid>
+		<description>&lt;h1 id=&#34;my-everyday-carry-edc&#34;&gt;My Everyday Carry (EDC)&lt;/h1&gt;
+&lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents, or in my pockets.&lt;/p&gt;
+&lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm&lt;/h3&gt;
+&lt;p&gt;My daily-driver portable computer since December 2022, when I bought it from a portuguese government official for the modest price of 180€.&lt;/p&gt;
+&lt;p&gt;Since it was a government machine it came with many priviliges, such as a &lt;strong&gt;embedded card reader&lt;/strong&gt; and a &lt;strong&gt;fingerprint sensor&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Since then, I have also changed many components of it such as: the keyboard, screen, processor, ultrabay and even switched the motherboard for a &lt;strong&gt;Corebooted-one&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerfull computers at INESC-ID.&lt;/p&gt;
+&lt;h3 id=&#34;the-rest&#34;&gt;The Rest&lt;/h3&gt;
+&lt;p&gt;Normally, in my day to day I also carry:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My black leather wallet
+&lt;ul&gt;
+&lt;li&gt;My ID cards, debit card and some money&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A HONOR 90 Lite cellphone&lt;/li&gt;
+&lt;li&gt;My &lt;strong&gt;Hunter Lockblade Swiss Army knife&lt;/strong&gt; from the &amp;rsquo;90s&lt;/li&gt;
+&lt;li&gt;My &lt;strong&gt;smoking pipe&lt;/strong&gt; and a tin of tobacco&lt;/li&gt;
+&lt;li&gt;My House and HackerSchool keys, in a Ubuntu keychain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-homelab&#34;&gt;My Homelab&lt;/h1&gt;
+&lt;h3 id=&#34;battlestation&#34;&gt;Battlestation&lt;/h3&gt;
+&lt;h3 id=&#34;server&#34;&gt;Server&lt;/h3&gt;
+&lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;http://localhost:1313/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
+&lt;h3 id=&#34;workbench&#34;&gt;Workbench&lt;/h3&gt;
+&lt;h1 id=&#34;hackerspace-setup&#34;&gt;HackerSpace Setup&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Webring</title>
+		<link>http://localhost:1313/webring/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/webring/</guid>
+		<description>&lt;p&gt;This is my (or &amp;ldquo;ours&amp;rdquo;) &lt;a href=&#34;https://en.wikipedia.org/wiki/Webring&#34;&gt;webring&lt;/a&gt;, where I link other sites which content I enjoy!&lt;/p&gt;
+&lt;h1 id=&#34;from-friends-or-other-friendly-persons-ive-met-afk&#34;&gt;From friends or other friendly persons I&amp;rsquo;ve met afk&lt;/h1&gt;
+&lt;div class=&#34;grid&#34;&gt;
+    
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://joselopes.dev&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/joselopes.png&#34; alt=&#34;José Lopes&#34;&gt;
+        &lt;p&gt;José Lopes&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://web.tecnico.ulisboa.pt/rui.duarte&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/profrui.png&#34; alt=&#34;Prof. Rui P. Duarte&#34;&gt;
+        &lt;p&gt;Prof. Rui P. Duarte&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+	</item>
+	
+	</channel>
+</rss>

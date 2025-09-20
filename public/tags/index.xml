@@ -1,76 +1,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>João Rodrigues&#39; Slick Site</title>
-	<link>http://localhost:44011/tags/</link>
+	<link>https://jbcr.pt/tags/</link>
 	<description>Recent content in Tags on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Mon, 04 Nov 2024 11:21:23 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:44011/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jbcr.pt/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Analog Photography</title>
-		<link>http://localhost:44011/gallery/analog/</link>
+		<title>Gallery</title>
+		<link>https://jbcr.pt/gallery/analog/</link>
 		<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:44011/gallery/analog/</guid>
+		<guid>https://jbcr.pt/gallery/analog/</guid>
 		<description>&lt;p&gt;Welcome to my analog photography gallery!&lt;/p&gt;
-&lt;p&gt;Here you&amp;rsquo;ll find photos shot on film using various cameras and film stocks.&lt;br&gt;
-Use the tags above to filter the images and click any photo to zoom in and view details like camera, film type, and date.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Teaching at IST: A Review of my experience as a Teaching Assistant</title>
-		<link>http://localhost:44011/blog/ta_review/</link>
-		<pubDate>Tue, 05 Nov 2024 13:40:00 +0000</pubDate>
-		
-		<guid>http://localhost:44011/blog/ta_review/</guid>
-		<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;ve hit my first anniversary as a teaching assistant (TA) at Instituto Superior Técnico (IST), and it has been quite the ride.&lt;/p&gt;
-&lt;p&gt;As of now I have taught:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Digital Systems (Winter Quarter 23/24)&lt;/li&gt;
-&lt;li&gt;Programming (Spring Quarter 23/24)&lt;/li&gt;
-&lt;li&gt;Computer Architectures (Summer Quarter 23/24)&lt;/li&gt;
-&lt;li&gt;Algorithms and Data Structures (Autumn Quarter 24/25)&lt;/li&gt;
-&lt;li&gt;Digital Systems (Winter Quarter 24/25), which I am currently lecturing as of the writing of this post&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;m also assign to taught this year:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Programming (Spring Quarter 24/25)&lt;/li&gt;
-&lt;li&gt;Computer Architecures (Summer Quarter 24/25)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;ve also given a bit of additional support time for the Digital Systems Design curricular unit, simply because I really enjoy this course.&lt;/p&gt;
-&lt;p&gt;Has you can see all of the classes that I taught are related to Computer Engineering. This should come as no surprise since I am majoring in Electrical and Computer Eng. in the branch of Computer Systems.&lt;/p&gt;
-&lt;h1 id=&#34;how-it-started&#34;&gt;How it started&lt;/h1&gt;
-&lt;h1 id=&#34;the-good&#34;&gt;The Good&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;ll cut to the chase - the money is &lt;strong&gt;very&lt;/strong&gt; good. I make around 400€, &lt;strong&gt;clean&lt;/strong&gt; For around 6-10 hours a week. This money provides some independence, which feels really great - I pay my gym fees, my meals outside of the household, trips with friends, tools for hacking, etc. Honestly nothing beats the feeling of buying something with your own money.&lt;/p&gt;
-&lt;p&gt;But discarding the money the overall experience is really rewarding - having the opportunity to tune small things in the courses that you have a passion for is irresistible. You also have an incredible pipeline to talk with some of the professors that made you enjoy such subjects (shoutout for Prof. Horácio C. Neto, Prof. Nuno Roma, Prof. Carlos )&lt;/p&gt;
-&lt;h1 id=&#34;the-bad&#34;&gt;The Bad&lt;/h1&gt;
-&lt;h1 id=&#34;the-ugly-what-could-be-improved&#34;&gt;The Ugly (what could be improved)&lt;/h1&gt;
-&lt;p&gt;I honestly started this chapter just as a gimmick, since I wanted to do a reference to &lt;a href=&#34;&#34;&gt;Sergio Leone&amp;rsquo;s western spaghetti&lt;/a&gt;. But after thinking a bit the things that are ugly are those that can be improved&amp;hellip;.but have not yet been.&lt;/p&gt;
+&lt;p&gt;Most of the photos here are taken with a Ricoh KR-5 and are normally revealed at the awesome [Carmencita Lisboa] lab.&lt;/p&gt;
+&lt;p&gt;As of now my favorite stocks to shoot are cheap, expired Requa 100 :) and SantaColor 100.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>Hardware Design on a 5$ FPGA from China part I- The Setup (Coming Soon)</title>
-		<link>http://localhost:44011/blog/ebaz_fpga/</link>
+		<link>https://jbcr.pt/blog/ebaz_fpga/</link>
 		<pubDate>Tue, 05 Nov 2024 13:39:51 +0000</pubDate>
 		
-		<guid>http://localhost:44011/blog/ebaz_fpga/</guid>
+		<guid>https://jbcr.pt/blog/ebaz_fpga/</guid>
 		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>Self-Hosting part I: An Unexpected Journey to my own Website</title>
-		<link>http://localhost:44011/blog/selfhost-parti/</link>
+		<link>https://jbcr.pt/blog/selfhost-parti/</link>
 		<pubDate>Mon, 04 Nov 2024 11:21:23 +0000</pubDate>
 		
-		<guid>http://localhost:44011/blog/selfhost-parti/</guid>
+		<guid>https://jbcr.pt/blog/selfhost-parti/</guid>
 		<description>&lt;p&gt;This post details the story of this website. Why and how I created it, who inspired me to it and how I am managing it.&lt;/p&gt;
 &lt;p&gt;If you want to pick some bits of my source code you can find it &lt;a href=&#34;https://github.com/Joao-Ex-Machina/jbcr.pt&#34;&gt;here&lt;/a&gt; so that you can hack together your own, &lt;strong&gt;yes your very own&lt;/strong&gt;,  website.&lt;/p&gt;
 &lt;p&gt;This post is of course more than inspired on José Lopes&amp;rsquo; &lt;a href=&#34;https://joselopes.dev/self-hosting&#34;&gt;post on self-hosting&lt;/a&gt;, go check it out!&lt;/p&gt;
@@ -94,7 +61,7 @@ Use the tags above to filter the images and click any photo to zoom in and view 
 &lt;li&gt;Finally the most important clause, arguably: &lt;strong&gt;It had to be at least as good as José&amp;rsquo;s&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;the-setup&#34;&gt;The Setup&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:44011/tux-server.jpg&#34; alt=&#34;Tux Server?&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/tux-server.jpg&#34; alt=&#34;Tux Server?&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
 &lt;p&gt;(Possibly I started from the opposite direction from where I should&amp;rsquo;ve started)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; seemed a good starting point for my framework. It takes some .toml and .md files, applies some forbidden golang magic and bada-bing bada-boom I have a ton of htmls &lt;strong&gt;ready to deploy with minimal effort&lt;/strong&gt;.&lt;/p&gt;
@@ -105,7 +72,7 @@ Use the tags above to filter the images and click any photo to zoom in and view 
 &lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found on a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:44011/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (&lt;strong&gt;Thank you Margarida Gralha&lt;/strong&gt; for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.&lt;/p&gt;
@@ -191,10 +158,10 @@ Use the tags above to filter the images and click any photo to zoom in and view 
 	
 	<item>
 		<title>We&#39;re live!</title>
-		<link>http://localhost:44011/blog/hello-web/</link>
+		<link>https://jbcr.pt/blog/hello-web/</link>
 		<pubDate>Sun, 03 Nov 2024 20:56:31 +0000</pubDate>
 		
-		<guid>http://localhost:44011/blog/hello-web/</guid>
+		<guid>https://jbcr.pt/blog/hello-web/</guid>
 		<description>&lt;p&gt;&lt;a href=&#34;https://jbcr.pt&#34;&gt;jbcr.pt&lt;/a&gt; is officially live!
 You can expect a big blog post detailing my unexpected journey on making this website work soon!&lt;/p&gt;
 &lt;p&gt;I would like to thank those that helped me reach this goal:&lt;/p&gt;
@@ -207,24 +174,24 @@ You can expect a big blog post detailing my unexpected journey on making this we
 	
 	<item>
 		<title>The begining!</title>
-		<link>http://localhost:44011/blog/hello-world/</link>
+		<link>https://jbcr.pt/blog/hello-world/</link>
 		<pubDate>Mon, 14 Oct 2024 12:41:50 +0100</pubDate>
 		
-		<guid>http://localhost:44011/blog/hello-world/</guid>
+		<guid>https://jbcr.pt/blog/hello-world/</guid>
 		<description>&lt;p&gt;A simple test post to mark when I started making this website, more to come!&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>About Me</title>
-		<link>http://localhost:44011/about/</link>
+		<link>https://jbcr.pt/about/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:44011/about/</guid>
+		<guid>https://jbcr.pt/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:44011/me-II.JPG&#34;&gt;&lt;figcaption&gt;Me, snaping a cool analog photo with my Ricoh KR-5 camera, at INESC-ID&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me-II.JPG&#34;&gt;&lt;figcaption&gt;Me, snaping a cool analog photo with my Ricoh KR-5 camera, at INESC-ID&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. Master&amp;rsquo;s student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt;, majoring in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;, with a knack for all things FPGA and Reconfigurable Computing&lt;/p&gt;
@@ -245,7 +212,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:44011/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;-more-intereststxt&#34;&gt;&amp;gt; more interests.txt&lt;/h1&gt;
@@ -270,7 +237,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:44011/crime_of_the_century.png&#34;&gt;&lt;figcaption&gt;Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00&amp;#39;s through 4 flights of stairs. Average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/crime_of_the_century.png&#34;&gt;&lt;figcaption&gt;Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00&amp;#39;s through 4 flights of stairs. Average HackerSchool moment!&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;-grep-the-cool-interests&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests&amp;rdquo;&lt;/h3&gt;
@@ -290,13 +257,13 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:44011/me.png&#34;&gt;&lt;figcaption&gt;Me, smoking my pipe in front of my Department at night&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me.png&#34;&gt;&lt;figcaption&gt;Me, smoking my pipe in front of my Department at night&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h1 id=&#34;-zathura-curriculum_vitæpdf&#34;&gt;&amp;gt; zathura Curriculum_Vitæ.pdf&lt;/h1&gt;
 &lt;object data=&#34;/resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;
     &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: 
-    &lt;a href=&#34;http://localhost:44011/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;a href=&#34;https://jbcr.pt/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
 &lt;/object&gt;
 
 </description>
@@ -304,10 +271,10 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 	
 	<item>
 		<title>Contact</title>
-		<link>http://localhost:44011/contact/</link>
+		<link>https://jbcr.pt/contact/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:44011/contact/</guid>
+		<guid>https://jbcr.pt/contact/</guid>
 		<description>&lt;p&gt;How to get in touch with me, simple as that!&lt;/p&gt;
 &lt;div class=&#34;grid&#34;&gt;
     
@@ -317,7 +284,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 
 &lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
     &lt;a href=&#34;mailto:joaobarreiroscoelhorodrigues@tecnico.ulisboa.pt&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #85C1FF; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:44011/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        &lt;img src=&#34;https://jbcr.pt/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
         E-mail
     &lt;/a&gt;
 &lt;/div&gt;
@@ -328,7 +295,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 
 &lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
     &lt;a href=&#34;https://github.com/Joao-Ex-Machina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #555555; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:44011/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        &lt;img src=&#34;https://jbcr.pt/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
         GitHub
     &lt;/a&gt;
 &lt;/div&gt;
@@ -339,7 +306,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 
 &lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
     &lt;a href=&#34;https://fosstodon.org/@joaoexmachina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #C8A2E8; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:44011/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        &lt;img src=&#34;https://jbcr.pt/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
         Mastodon
     &lt;/a&gt;
 &lt;/div&gt;
@@ -353,10 +320,10 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 	
 	<item>
 		<title>Setup</title>
-		<link>http://localhost:44011/setup/</link>
+		<link>https://jbcr.pt/setup/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:44011/setup/</guid>
+		<guid>https://jbcr.pt/setup/</guid>
 		<description>&lt;h1 id=&#34;my-everyday-carry-edc&#34;&gt;My Everyday Carry (EDC)&lt;/h1&gt;
 &lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents, or in my pockets.&lt;/p&gt;
 &lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm&lt;/h3&gt;
@@ -366,7 +333,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:44011/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerfull computers at INESC-ID.&lt;/p&gt;
@@ -386,7 +353,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;h1 id=&#34;my-homelab&#34;&gt;My Homelab&lt;/h1&gt;
 &lt;h3 id=&#34;battlestation&#34;&gt;Battlestation&lt;/h3&gt;
 &lt;h3 id=&#34;server&#34;&gt;Server&lt;/h3&gt;
-&lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;http://localhost:44011/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
+&lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;https://jbcr.pt/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
 &lt;h3 id=&#34;workbench&#34;&gt;Workbench&lt;/h3&gt;
 &lt;h1 id=&#34;hackerspace-setup&#34;&gt;HackerSpace Setup&lt;/h1&gt;
 </description>
@@ -394,10 +361,10 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 	
 	<item>
 		<title>Webring</title>
-		<link>http://localhost:44011/webring/</link>
+		<link>https://jbcr.pt/webring/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:44011/webring/</guid>
+		<guid>https://jbcr.pt/webring/</guid>
 		<description>&lt;p&gt;This is my (or &amp;ldquo;ours&amp;rdquo;) &lt;a href=&#34;https://en.wikipedia.org/wiki/Webring&#34;&gt;webring&lt;/a&gt;, where I link other sites which content I enjoy!&lt;/p&gt;
 &lt;h1 id=&#34;from-friends-or-other-friendly-persons-ive-met-afk&#34;&gt;From friends or other friendly persons I&amp;rsquo;ve met afk&lt;/h1&gt;
 &lt;div class=&#34;grid&#34;&gt;
@@ -405,7 +372,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 
 &lt;div class=&#34;grid-item&#34;&gt;
     &lt;a href=&#34;https://joselopes.dev&#34;&gt;
-        &lt;img src=&#34;http://localhost:44011/joselopes.png&#34; alt=&#34;José Lopes&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/joselopes.png&#34; alt=&#34;José Lopes&#34;&gt;
         &lt;p&gt;José Lopes&lt;/p&gt;
     &lt;/a&gt;
 &lt;/div&gt;
@@ -413,7 +380,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 
 &lt;div class=&#34;grid-item&#34;&gt;
     &lt;a href=&#34;https://web.tecnico.ulisboa.pt/rui.duarte&#34;&gt;
-        &lt;img src=&#34;http://localhost:44011/profrui.png&#34; alt=&#34;Prof. Rui P. Duarte&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/profrui.png&#34; alt=&#34;Prof. Rui P. Duarte&#34;&gt;
         &lt;p&gt;Prof. Rui P. Duarte&lt;/p&gt;
     &lt;/a&gt;
 &lt;/div&gt;

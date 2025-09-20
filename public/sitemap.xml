@@ -2,71 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:44011/gallery/analog/</loc>
+    <loc>https://jbcr.pt/gallery/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/gallery/</loc>
+    <loc>https://jbcr.pt/gallery/analog/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/</loc>
+    <loc>https://jbcr.pt/</loc>
     <lastmod>2025-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/blog/ta_review/</loc>
-    <lastmod>2024-11-05T13:40:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:44011/blog/ebaz_fpga/</loc>
+    <loc>https://jbcr.pt/blog/ebaz_fpga/</loc>
     <lastmod>2024-11-05T13:39:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/blog/selfhost-parti/</loc>
+    <loc>https://jbcr.pt/blog/selfhost-parti/</loc>
     <lastmod>2024-11-04T11:21:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/tags/selfhosting/</loc>
+    <loc>https://jbcr.pt/tags/selfhosting/</loc>
     <lastmod>2024-11-04T11:21:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/tags/</loc>
+    <loc>https://jbcr.pt/tags/</loc>
     <lastmod>2024-11-04T11:21:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/tags/website/</loc>
+    <loc>https://jbcr.pt/tags/website/</loc>
     <lastmod>2024-11-04T11:21:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/blog/hello-web/</loc>
+    <loc>https://jbcr.pt/blog/hello-web/</loc>
     <lastmod>2024-11-03T20:56:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/projects/greenthumb/</loc>
+    <loc>https://jbcr.pt/projects/greenthumb/</loc>
     <lastmod>2024-10-15T09:21:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/projects/visor/</loc>
+    <loc>https://jbcr.pt/projects/visor/</loc>
     <lastmod>2024-10-15T09:21:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/notes/classes/</loc>
+    <loc>https://jbcr.pt/notes/classes/</loc>
     <lastmod>2024-10-14T12:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/notes/classes/sdig/</loc>
+    <loc>https://jbcr.pt/notes/classes/sdig/</loc>
     <lastmod>2024-10-14T12:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/notes/</loc>
+    <loc>https://jbcr.pt/notes/</loc>
     <lastmod>2024-10-14T12:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/notes/workshops/</loc>
+    <loc>https://jbcr.pt/notes/workshops/</loc>
     <lastmod>2024-10-14T12:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/projects/</loc>
+    <loc>https://jbcr.pt/projects/</loc>
     <lastmod>2024-10-14T12:52:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/blog/hello-world/</loc>
+    <loc>https://jbcr.pt/blog/hello-world/</loc>
     <lastmod>2024-10-14T12:41:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/blog/</loc>
+    <loc>https://jbcr.pt/blog/</loc>
     <lastmod>2024-10-13T18:15:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:44011/about/</loc>
+    <loc>https://jbcr.pt/about/</loc>
   </url><url>
-    <loc>http://localhost:44011/categories/</loc>
+    <loc>https://jbcr.pt/categories/</loc>
   </url><url>
-    <loc>http://localhost:44011/contact/</loc>
+    <loc>https://jbcr.pt/contact/</loc>
   </url><url>
-    <loc>http://localhost:44011/setup/</loc>
+    <loc>https://jbcr.pt/setup/</loc>
   </url><url>
-    <loc>http://localhost:44011/webring/</loc>
+    <loc>https://jbcr.pt/webring/</loc>
   </url>
 </urlset>

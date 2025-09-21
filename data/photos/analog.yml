@@ -24,22 +24,6 @@
   film: "Kodak Ultramax 400"
   tags: []
 
-- filename: "Alcarias01.jpg"
-  title: "An empty house in Alcarias near Castro Verde"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  film: "Kentmere Pan 400"
-  tags: ["BnW"]
-
-- filename: "CBRE.jpg"
-  title: "CBRE building in Campolide, with a 60's flair"
-  date: 2025
-  album: "Campolide"
-  camera: "Ricoh-KR-5"
-  film: "Requa 100"
-  tags: ["Expired"]
-
 - filename: "CV_PAbrunhosa.jpg"
   title: "Pedro Abrunhosa set during Festas de Castro Verde"
   date: 2025
@@ -64,12 +48,108 @@
   film: "Portra 800"
   tags: []
 
+- filename: "EvoraEstacao.jpg"
+  title: "Bus station in Évora, on my way to Castro"
+  date: 2025
+  album: "Évora"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "Bobi01.jpg"
+  title: "The Man's best friend - Bobi"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "DuartePhotographer.jpg"
+  title: "Duarte, caught on a photography mexican stand-off in Castro Verde"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "Alcarias03.jpg"
+  title: " The sea of Alentejo, at noon "
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "Alcarias02.jpg"
+  title: " 'A Aldeia de Alcarias saúda-vos' "
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "Alcarias01.jpg"
+  title: "An empty house in Alcarias near Castro Verde"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  film: "Kentmere Pan 400"
+  tags: ["BnW"]
+
 - filename: "Moinho.png"
   title: "Our old family mill in Arraiolos - O Moinho da Forca"
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
   film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "Vigia.png"
+  title: "A little water mill on the Alto da Forca, Arraiolos"
+  date: 2025
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "ArraiolosCastelo.png"
+  title: "The Castle overlooking Arraiolos "
+  date: 2025
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "ArraiolosMoinho.png"
+  title: "Arraiolos town from the Mill's perspective"
+  date: 2025
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "Ilhas.png"
+  title: "Ilhas village from the Mill's perspective"
+  date: 2025
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "SintraLomo.JPG"
+  title: " 'This could be an indie pop album cover from the 00's' "
+  date: 2025
+  album: "Sintra"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Gold 200"
+  tags: ["Lomo"]
+
+- filename: "sintraView.JPG"
+  title: "'Com efeito, não vale a pena fazer um esforço, correr com ânsia para coisa alguma...'. Overview of Sintra"
+  date: 2025
+  album: "Sintra"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Gold 200"
   tags: []
 
 - filename: "PalacioPena.JPG"
@@ -80,6 +160,46 @@
   film: "Kodak Gold 200"
   tags: []
 
+- filename: "Duarte02.JPG"
+  title: "Just like the wild west...Its high noon"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  film: "Fujifilm 200"
+  tags: []
+
+- filename: "Rato_graffito.JPG"
+  title: "'Still, I don’t understand, were these chimps so human, or are we such animals?'. Grafitto in Rato"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  film: "Fujifilm 200"
+  tags: []
+
+- filename: "Nadia.png"
+  title: "Nádia striking a modelling pose"
+  date: 2025
+  album: "Lisboa"
+  camera: "Minolta Hi-Matic 7s"
+  film: "Kentmere Pan 400"
+  tags: ["BnW","DIY-Dev"]
+
+- filename: "Nadia02.png"
+  title: "A large smile from Nádia and a little processing mark"
+  date: 2025
+  album: "Lisboa"
+  camera: "Minolta Hi-Matic 7s"
+  film: "Kentmere Pan 400"
+  tags: ["BnW","DIY-Dev"]
+
+- filename: "tolo.JPG"
+  title: "Underexposed daisies on a 1992 expired film"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  film: "Requa 100"
+  tags: ["Expired"]
+
 - filename: "Rato.jpg"
   title: "Rato through lomographic lens"
   date: 2025
@@ -88,13 +208,13 @@
   film: "Requa 100"
   tags: ["Expired"]
 
-- filename: "SintraLomo.JPG"
-  title: " 'This could be an indie pop album cover from the 00's' "
+- filename: "CBRE.jpg"
+  title: "CBRE building in Campolide, with a 60's flair"
   date: 2025
-  album: "Sintra"
+  album: "Campolide"
   camera: "Ricoh-KR-5"
-  film: "Kodak Gold 200"
-  tags: ["Lomo"]
+  film: "Requa 100"
+  tags: ["Expired"]
 
 - filename: "BrindeMedieval.png"
   title: " Gonçalo, Tiago and Diogo toasting with some fresh mead straight from the tap "
@@ -103,6 +223,14 @@
   camera: "Ricoh-KR-5"
   film: "Kodak ColorPlus 200"
   tags: []
+
+- filename: "AlamedaNight.png"
+  title: "Pushing a 200 ISO roll to the limit - Alameda Night Lights"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  film: "Kodak ColorPlus 200"
+  tags: ["Lomo"]
 
 - filename: "RomaNight.png"
   title: "A little bit of neon in Lisbon"
@@ -118,7 +246,7 @@
   album: "Lisboa"
   camera: "Ricoh-KR-5"
   film: "APX 100"
-  tags: ["DIY-Rev"]
+  tags: ["DIY-Dev", "BnW"]
 
 - filename: "duarte.png"
   title: "Duarte, just a chill guy"
@@ -126,32 +254,6 @@
   album: "Lisboa"
   camera: "Ricoh-KR-5"
   film: "APX 100"
-  tags: ["DIY-Rev"]
-
-
-
-- filename: "Vigia.png"
-  title: "A little water mill on the Alto da Forca, Arraiolos"
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "ArraiolosCastelo.png"
-  title: "The Castle overlooking the Arraiolos village"
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "DuartePhotographer.jpg"
-  title: "Duarte, caught on a photography mexican stand-off in Castro Verde"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["DIY-Dev", "BnW"]
 
 

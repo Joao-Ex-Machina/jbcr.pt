@@ -6,13 +6,7 @@ nextprev: false
 
 # > whoami
 
-<center>
-
-{{<img caption="Me, snaping a cool analog photo with my Ricoh KR-5 camera, at INESC-ID" src=/me-II.JPG >}}
-
-
-</center>
-
+{{<img caption="Obligatory analog mirror selfie, in Castro Verde" src=/me_III.png style="text-align:center;" >}}
 
 I am a 23 year old **Electrical and Computer Eng. Master's student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt), majoring in **Computer Systems** and minoring in **Electronic Circuits and Systems**, with a knack for all things FPGA and Reconfigurable Computing
 
@@ -24,7 +18,7 @@ From 2023 to July 2025 I was a **Teaching Assistant** at the [Department of Elec
 - Programming
 - Computer Architectures
 
-I enjoyed this expirience throughly, winning the **Excelence in Teaching** award for the school year of 23/24.
+I enjoyed this experience throughly, winning the **Excelence in Teaching** award for the school year of 23/24.
 
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:
 
@@ -32,56 +26,40 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 - **President** from 2022 to 2024
 - **Board Member (Chief Hacker Officer)** from 2024 until now
 
-<center>
-
-{{<img caption="Me, showing my gains from strength training with my love for electronics. Another average HackerSchool moment!" src=/this_boy_can_lift.png >}}
-
-
-</center>
-
 # > more interests.txt
     
 ### > grep "Academic Interests"
 
 - Reconfigurable Computing
-- Digital Electronics Design and Verification
-- Hardware Design for Embedded and IoT Systems
-    - AI on the Edge
-    - Computer Vision
+- FPGA Prototyping
+- Digital Hardware Design and Verification
+- Embedded and IoT Archtectures
+    - AI on the Edge 
 - Electronic Design Automation
 
 ### > grep "Technical Interests"
 
-- Arch GNU/Linux user
-- Libre/Open Source Hardware/Software enthusiast
-- Hardware Hacking
-- 3D Modelling and Printing 
+- Open Hardware, Hardware Hacking and Right to Repair
+- Linux and Open Source Software
+- Smart Urban Agriculture
+- Incremental Manufacturing Processes (3D Printing)
 
 <center>
 
-{{<img caption="Me, José Lopes and Eduardo Faustino after lifting ~150kg of Electronic Waste from the 00's through 4 flights of stairs. Average HackerSchool moment!" src=/crime_of_the_century.png >}}
+{{<img caption="Me, showing off my gains from strength training mixed with my love for electronics" src=/this_boy_can_lift.png >}}
 
 
 </center>
-
 
 ### > grep "The 'Cool' Interests"
 
-- Cooking and Barbecue-ing
-- Analog Photography
-- Strength Training at the Gym
-- Weird Fiction and Medieval Fantasy
-- Chess (althought not very good at it)
-- TTRPG player / Game Master
-    - Dungeons and Dragons
-    - Call of Cthulhu
-- Pipe smoking
-
-<center>
-
-{{<img caption="Me, smoking my pipe in front of my Department at night" src=/me.png >}}
-
-</center>
+- I enjoy cooking, barbecueing and making hot sauces
+- I like to produce spirits and I'm learning more on home brewing
+- I go to the gym, like target shooting and enjoy camping
+- I do a bit of [analog photography](/gallery/analog)
+- Finally I am a [huge nerd](/nerd.gif)
+    - I DM Dungeons and Dragons and Call of Cthulhu campaigns
+    - I play a bit of Magic the Gathering
 
 
 # > zathura Curriculum_Vitæ.pdf

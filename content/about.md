@@ -51,16 +51,25 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 
 </center>
 
-### > grep "The 'Cool' Interests"
+### > grep "The 'Cool' Interests and Curio"
 
-- I enjoy cooking, barbecueing and making hot sauces
+- I go to the gym, like target shooting and enjoy camping. But I am not a gym bro, just a gym buddy :)
+- I enjoy cooking and barbecueing
 - I like to produce spirits and I'm learning more on home brewing
-- I go to the gym, like target shooting and enjoy camping
+- I really like dogs and I am medically alergic to cats
 - I do a bit of [analog photography](/gallery/analog)
 - Finally I am a [huge nerd](/nerd.gif)
-    - I DM Dungeons and Dragons and Call of Cthulhu campaigns
+    - I am really interested in History (since I was a kid)
+        - Pre-Roman Celtiberian Civilizations (such as Celtici and Lusitani)
+        - European Dark Ages and Medieval Folklore, culture and wars
+        - Modern-ish War Machines
+    - I throughly enjoy reading
+        - J.R.R. Tolkien worldbuilding tomes and fantasy
+        - H.P. Lovecraft weird fiction
+        - João Aguiar's historical novels
+    - I collect Heavy Metal vinyls, with a preference for NWOBHM and Doom
+    - I've DM'ed and played multiple Dungeons and Dragons and Call of Cthulhu campaigns.
     - I play a bit of Magic the Gathering
-
 
 # > zathura Curriculum_Vitæ.pdf
 

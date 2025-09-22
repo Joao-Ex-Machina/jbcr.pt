@@ -53,7 +53,7 @@
       <a href="/photos/analog/{{ .filename }}" class="glightbox" data-title='
         <div class="photo-info">
           <strong>{{ .title }}</strong><br>
-          {{ .camera }} | {{ .film }} | {{ .album }} | {{ .date }}
+          {{ .camera }} | {{ .lens }} | {{ .film }} | {{ .album }} | {{ .date }}
         </div>
       '>
         <img src="/photos/analog/{{ .filename }}" alt="{{ .title }}" loading="lazy">
@@ -152,7 +152,7 @@ initializeLightbox();
   display: block;
   font-weight: 600;
   margin-bottom: 8px;
-  color: #333;
+  color: #eee;
 }
 
 /* Filter buttons */
@@ -164,8 +164,9 @@ initializeLightbox();
 
 #tag-filters button, #album-filters button {
   padding: 8px 16px;
-  border: 1px solid #ddd;
-  background: #fff;
+  border: 1px solid #666;
+  background: #666;
+  color: white;
   cursor: pointer;
   border-radius: 6px;
   font-size: 14px;
@@ -173,7 +174,7 @@ initializeLightbox();
 }
 
 #tag-filters button:hover, #album-filters button:hover {
-  background: #e9ecef;
+  background: #777;
   border-color: #adb5bd;
 }
 
@@ -231,11 +232,13 @@ initializeLightbox();
 /* Lightbox styling */
 .glightbox-clean .gdesc-inner {
   padding: 2px 10px;
+  background: #2d2d2d;
 }
 
 .photo-info {
   font-size: 0.9rem;
   line-height: 1.2;
+  background: #2D2D2D;
   color: #eee;
 }
 </style>

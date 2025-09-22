@@ -1,26 +1,38 @@
-
 - filename: "PAlemao100.png"
   title: "Praia do Alemão (Portimão) in the Morning"
   date: 2025
   album: "Portimão"
   camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "SantaColor 100"
   tags: []
 
-- filename: "PAlemaoRocha.png"
-  title: "A Rock formation in Praia do Alemão where I see Cthulhu"
+- filename: "cthulhu.jpg"
+  title: "At the shore by the slumbering Cthulhu"
+  date: 2025
+  album: "Portimão"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "SantaColor 100"
+  tags: []
+
+
+- filename: "PAlemaoRequa.png"
+  title: "Lo-fi beach afternoon"
   date: 2025
   album: "Portimão"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Requa 100"
   tags: ["Expired"]
 
-- filename: "DuarteConquerer.png"
-  title: "Duarte, Conqueror of Crabs, King of the Rock"
+- filename: "CV_PAbrunhosa2.jpg"
+  title: "Pedro Abrunhosa set during Festas de Castro Verde "
   date: 2025
-  album: "Portimão"
-  camera: "Capital Soleil Point-and-shoot"
-  film: "Kodak Ultramax 400"
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Portra 800"
   tags: []
 
 - filename: "CV_PAbrunhosa.jpg"
@@ -28,6 +40,7 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Portra 800"
   tags: []
 
@@ -36,6 +49,7 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Portra 800"
   tags: []
 
@@ -44,6 +58,7 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Portra 800"
   tags: []
 
@@ -52,6 +67,16 @@
   date: 2025
   album: "Évora"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "OnMyWay.jpg"
+  title: "In the bus...still on my way to Castro"
+  date: 2025
+  album: "Évora"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
   tags: []
 
@@ -60,6 +85,7 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
   tags: []
 
@@ -68,16 +94,26 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
   tags: []
 
+- filename: "DuarteDream.jpg"
+  title: "Dream-like colours, while Duarte looks non-challant"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: []
 
 - filename: "DuartePhotographer.jpg"
   title: "Duarte, caught on a photography mexican stand-off in Castro Verde"
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
-  film: "Kodak ColorPlus 200"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
   tags: []
 
 - filename: "Alcarias03.jpg"
@@ -85,6 +121,7 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
   tags: []
 
@@ -93,6 +130,7 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
   tags: []
 
@@ -101,14 +139,25 @@
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kentmere Pan 400"
   tags: ["BnW"]
+
+- filename: "Raprosul.png"
+  title: "The old Moagem and Power Plant front, backed by the Raprosul factory"
+  date: 2025
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak ColorPlus 200"
+  tags: []
 
 - filename: "Moinho.png"
   title: "Our old family mill in Arraiolos - O Moinho da Forca"
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
 
@@ -117,6 +166,7 @@
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
 
@@ -125,14 +175,7 @@
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "ArraiolosMoinho.png"
-  title: "Arraiolos town from the Mill's perspective"
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
 
@@ -141,6 +184,16 @@
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "RuaMeloMexia.png"
+  title: "Construction works on lazy Saturday afternoon"
+  date: 2025
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
 
@@ -149,6 +202,7 @@
   date: 2025
   album: "Sintra"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Gold 200"
   tags: ["Lomo"]
 
@@ -157,6 +211,7 @@
   date: 2025
   album: "Sintra"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Gold 200"
   tags: []
 
@@ -165,22 +220,34 @@
   date: 2025
   album: "Sintra"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Gold 200"
   tags: []
 
 - filename: "Duarte02.JPG"
-  title: "Just like the wild west...Its high noon"
+  title: "Just like the wild west...and its high noon"
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Fujifilm 200"
   tags: []
 
 - filename: "Rato_graffito.JPG"
-  title: "'Still, I don’t understand, were these chimps so human, or are we such animals?'. Grafitto in Rato"
+  title: "'Still, I don't understand, were these chimps so human, or are we such animals?'. Grafitto in Rato"
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Fujifilm 200"
+  tags: []
+
+- filename: "MyStudents.JPG"
+  title: "My dear students: Carolina, Francisco, Matilde and Tiago, in front of our Department"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Fujifilm 200"
   tags: []
 
@@ -189,6 +256,7 @@
   date: 2025
   album: "Lisboa"
   camera: "Minolta Hi-Matic 7s"
+  lens: "Rokkor-PF 45mm f/1.8-22"
   film: "Kentmere Pan 400"
   tags: ["BnW","DIY-Dev"]
 
@@ -197,30 +265,43 @@
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Requa 100"
   tags: ["Expired"]
 
 - filename: "Rato.jpg"
-  title: "Rato through lomographic lens"
+  title: "Rato on high grain"
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Requa 100"
   tags: ["Expired"]
 
 - filename: "CBRE.jpg"
   title: "CBRE building in Campolide, with a 60's flair"
   date: 2025
-  album: "Campolide"
+  album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Requa 100"
   tags: ["Expired"]
+
+- filename: "Amoreiras.JPG"
+  title: "I have yet to understand my fixation with cuboid buildings"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Fujifilm 200"
+  tags: []
 
 - filename: "BrindeMedieval.png"
   title: " Gonçalo, Tiago and Diogo toasting with some fresh mead straight from the tap "
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
 
@@ -229,6 +310,7 @@
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: ["Lomo"]
 
@@ -237,14 +319,16 @@
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
 
 - filename: "SantosAlameda.png"
-  title: "Peppered Halations during Santos Populares in Arroios"
+  title: "Peppered halations during Santos Populares in Arroios"
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "APX 100"
   tags: ["DIY-Dev", "BnW"]
 
@@ -253,7 +337,6 @@
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
   film: "APX 100"
   tags: ["DIY-Dev", "BnW"]
-
-

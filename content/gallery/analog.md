@@ -8,7 +8,7 @@ nextprev: false
 
 Welcome to my analog photography gallery!
 
-Most of the photos here are taken with a Ricoh KR-5 and are normally developed at the awesome [Carmencita Lisboa](https://carmencitafilmlab.com/lisboa/) film lab.
+Most of the photos here are taken with a Ricoh KR-5 and are normally developed at the awesome [Carmencita Lisboa](https://carmencitafilmlab.com/lisboa/) film lab and scanned in the [NAF](https://nucleodeartefotografica.pt/sobre) lab.
 
 As of now my favorite stocks to shoot are cheap, expired Requa 100 :) and SantaColor 100.
 

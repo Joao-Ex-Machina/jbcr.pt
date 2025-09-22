@@ -1,5 +1,4 @@
 
-
 - filename: "PAlemao100.png"
   title: "Praia do Alemão (Portimão) in the Morning"
   date: 2025
@@ -63,6 +62,15 @@
   camera: "Ricoh-KR-5"
   film: "Kodak Ultramax 400"
   tags: []
+
+- filename: "CabecaBorrego.jpg"
+  title: "Delicous head of lamb, fries and wine"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  film: "Kodak Ultramax 400"
+  tags: []
+
 
 - filename: "DuartePhotographer.jpg"
   title: "Duarte, caught on a photography mexican stand-off in Castro Verde"
@@ -175,14 +183,6 @@
   camera: "Ricoh-KR-5"
   film: "Fujifilm 200"
   tags: []
-
-- filename: "Nadia.png"
-  title: "Nádia striking a modelling pose"
-  date: 2025
-  album: "Lisboa"
-  camera: "Minolta Hi-Matic 7s"
-  film: "Kentmere Pan 400"
-  tags: ["BnW","DIY-Dev"]
 
 - filename: "Nadia02.png"
   title: "A large smile from Nádia and a little processing mark"

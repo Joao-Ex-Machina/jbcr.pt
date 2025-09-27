@@ -16,6 +16,32 @@
   film: "SantaColor 100"
   tags: []
 
+- filename: "UnexpectedJourney.jpg"
+  title: "Over old hills and far away"
+  date: 2025
+  album: "Carvalhal"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "CrashingWaves.jpg"
+  title: "By the cliff, looking at the crashing waves"
+  date: 2025
+  album: "Carvalhal"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+- filename: "PAlemaoBW.png"
+  title: "Praia do Alemão through a lomographic"
+  date: 2025
+  album: "Portimão"
+  camera: "Vichy Capital Soleil"
+  lens: "Fixed f/8 plastic lens"
+  film: "Requa 100"
+  tags: ["Lomo", "BnW"]
 
 - filename: "PAlemaoRequa.png"
   title: "Lo-fi beach afternoon"
@@ -89,6 +115,15 @@
   film: "Kodak Ultramax 400"
   tags: []
 
+- filename: "bobi02.jpg"
+  title: "Such a bright, energetic fellow"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: []
+
 - filename: "CabecaBorrego.jpg"
   title: "Delicous head of lamb, fries and wine"
   date: 2025
@@ -99,7 +134,7 @@
   tags: []
 
 - filename: "DuarteDream.jpg"
-  title: "Dream-like colours, while Duarte looks non-challant"
+  title: "Dream-like colours, while Duarte looks non-chalant"
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
@@ -142,6 +177,15 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kentmere Pan 400"
   tags: ["BnW"]
+
+- filename: "Bobi03.jpg"
+  title: "Dog days in Alentejo"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Phoenix Harman II 200"
+  tags: []
 
 - filename: "Raprosul.png"
   title: "The old Moagem and Power Plant front, backed by the Raprosul factory"
@@ -189,7 +233,7 @@
   tags: []
 
 - filename: "RuaMeloMexia.png"
-  title: "Construction works on lazy Saturday afternoon"
+  title: "Construction works on a lazy Saturday afternoon"
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
@@ -260,6 +304,15 @@
   film: "Kentmere Pan 400"
   tags: ["BnW","DIY-Dev"]
 
+- filename: "elias.jpg"
+  title: "Elias at high grain"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Requa 100"
+  tags: ["Expired"]
+
 - filename: "tolo.JPG"
   title: "Underexposed daisies on a 1992 expired film"
   date: 2025
@@ -297,7 +350,7 @@
   tags: []
 
 - filename: "BrindeMedieval.png"
-  title: " Gonçalo, Tiago and Diogo toasting with some fresh mead straight from the tap "
+  title: "Gonçalo, Tiago and Diogo toasting with some fresh mead straight from the tap "
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"
@@ -340,3 +393,33 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "APX 100"
   tags: ["DIY-Dev", "BnW"]
+
+- filename: "OurTent.jpg"
+  title: "Duarte, peeking out from out F1 french army tent"
+  date: 2025
+  album: "Carvalhal"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Phoenix Harman II 200"
+  tags: []
+
+- filename: "El_Pollo.jpg"
+  title: " El Pollo loco"
+  date: 2025
+  album: "Carvalhal"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Phoenix Harman II 200"
+  tags: []
+
+
+- filename: "self.jpg"
+  title: "Self portrait"
+  date: 2025
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: []
+
+

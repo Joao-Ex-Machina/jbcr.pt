@@ -5,7 +5,7 @@ layout: single
 
 # Welcome to jbcr.pt fellow traveler!
 
-Boas! My name is [João Barreiros C. Rodrigues](about) and this is my slick, hacked together website! Make yourself comfortable to browse around here!
+Boas! My name is [João Barreiros C. Rodrigues](about) and this is my [slick, hacked together website](/blog/selfhost-parti)! Make yourself comfortable to browse around here!
 
 Oh, and thank you for passing by!
 

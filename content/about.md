@@ -6,9 +6,9 @@ nextprev: false
 
 # > whoami
 
-{{<img caption="Obligatory analog mirror selfie, in Castro Verde" src=/me_III.png style="text-align:center;" >}}
+{{<img caption="Me, looking all cool in my worksation at INESC" src=/Jr.jpeg style="text-align:center;" >}}
 
-I am a 23 year old **Electrical and Computer Eng. Master's student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt), majoring in **Computer Systems** and minoring in **Electronic Circuits and Systems**, with a knack for all things FPGA and Reconfigurable Computing
+I am a 23 year old **Electrical and Computer Eng. Master's finalist** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt), majoring in **Computer Systems** and minoring in **Electronic Circuits and Systems**, with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing.
 
 As of now I am finishing my MSc Thesis on a Hardware/Software Co-Designed Embedded System for Aerial Image Segmentation based on Transformers at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. I will continue my work on hardware design for Artificial Intelligence as a PhD student, with the same supervisors. 
 From 2023 to July 2025 I was a **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt) teaching on the following courses:
@@ -18,7 +18,9 @@ From 2023 to July 2025 I was a **Teaching Assistant** at the [Department of Elec
 - Programming
 - Computer Architectures
 
-I enjoyed this experience throughly, winning the **Excelence in Teaching** award for the school year of 23/24.
+I enjoyed this experience throughly, having won the **Excelence in Teaching** award for the school year of 23/24.
+
+{{<img caption="Obligatory analog mirror selfie, in Castro Verde" src=/me_III.png style="text-align:center;" >}}
 
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:
 
@@ -30,11 +32,11 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
     
 ### > grep "Academic Interests"
 
+- Digital Systems Design and Verification
+- Embedded and IoT Computer Systems
+    - AI on the Edge
 - Reconfigurable Computing
-- FPGA Prototyping
-- Digital Hardware Design and Verification
-- Embedded and IoT Archtectures
-    - AI on the Edge 
+    - FPGA Prototyping
 - Electronic Design Automation
 
 ### > grep "Technical Interests"
@@ -53,10 +55,13 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 
 ### > grep "The 'Cool' Interests and Curio"
 
-- I go to the gym, like target shooting and enjoy camping. But I am not a gym bro, just a gym buddy :)
+- I go to the gym, like target shooting and enjoy camping
+    - But I am not a gym bro, just a gym buddy :)
 - I enjoy cooking and barbecueing
 - I like to produce spirits and I'm learning more on home brewing
 - I really like dogs and I am medically alergic to cats
+- I have strabismus, and had corrective eye surgery (that's why my right eyelid droops a bit)
+- I like traveling, especially inside the portuguese territory
 - I do a bit of [analog photography](/gallery/analog)
 - Finally I am a [huge nerd](/nerd.gif)
     - I am really interested in History (since I was a kid)
@@ -67,12 +72,11 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
         - J.R.R. Tolkien worldbuilding tomes and fantasy
         - H.P. Lovecraft weird fiction
         - João Aguiar's historical novels
+        - Comic books: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.
     - I collect Heavy Metal vinyls, with a preference for NWOBHM and Doom
     - I've DM'ed and played multiple Dungeons and Dragons and Call of Cthulhu campaigns.
     - I play a bit of Magic the Gathering
 
-# > zathura Curriculum_Vitæ.pdf
-
-{{< pdf src="/resume.pdf" width="100%" height="600px" >}}
+{{<img caption="Me, in the hometown of my best friend (Duarte)" src=/celorico.jpeg >}}
 
 

@@ -189,9 +189,9 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		<guid>https://jbcr.pt/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 
-&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me_III.png&#34;&gt;&lt;figcaption&gt;Obligatory analog mirror selfie, in Castro Verde&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/Jr.jpeg&#34;&gt;&lt;figcaption&gt;Me, looking all cool in my worksation at INESC&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. Master&amp;rsquo;s student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt;, majoring in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;, with a knack for all things FPGA and Reconfigurable Computing&lt;/p&gt;
+&lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. Master&amp;rsquo;s finalist&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt;, majoring in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;, with a &lt;a href=&#34;https://jbcr.pt/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing.&lt;/p&gt;
 &lt;p&gt;As of now I am finishing my MSc Thesis on a Hardware/Software Co-Designed Embedded System for Aerial Image Segmentation based on Transformers at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. I will continue my work on hardware design for Artificial Intelligence as a PhD student, with the same supervisors.
 From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; at the &lt;a href=&#34;https://deec.tecnico.ulisboa.pt&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; teaching on the following courses:&lt;/p&gt;
 &lt;ul&gt;
@@ -200,7 +200,10 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;li&gt;Programming&lt;/li&gt;
 &lt;li&gt;Computer Architectures&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I enjoyed this experience throughly, winning the &lt;strong&gt;Excelence in Teaching&lt;/strong&gt; award for the school year of 23/24.&lt;/p&gt;
+&lt;p&gt;I enjoyed this experience throughly, having won the &lt;strong&gt;Excelence in Teaching&lt;/strong&gt; award for the school year of 23/24.&lt;/p&gt;
+
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me_III.png&#34;&gt;&lt;figcaption&gt;Obligatory analog mirror selfie, in Castro Verde&lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;p&gt;I have also been &lt;strong&gt;hackin&amp;rsquo; and tinkerin&amp;rsquo;&lt;/strong&gt; while involved with the &lt;a href=&#34;https://hackerschool.dev&#34;&gt;HackerSchool&lt;/a&gt; hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Board Member (Marketing)&lt;/strong&gt; in 2022&lt;/li&gt;
@@ -210,12 +213,15 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;h1 id=&#34;-more-intereststxt&#34;&gt;&amp;gt; more interests.txt&lt;/h1&gt;
 &lt;h3 id=&#34;-grep-academic-interests&#34;&gt;&amp;gt; grep &amp;ldquo;Academic Interests&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Reconfigurable Computing&lt;/li&gt;
-&lt;li&gt;FPGA Prototyping&lt;/li&gt;
-&lt;li&gt;Digital Hardware Design and Verification&lt;/li&gt;
-&lt;li&gt;Embedded and IoT Archtectures
+&lt;li&gt;Digital Systems Design and Verification&lt;/li&gt;
+&lt;li&gt;Embedded and IoT Computer Systems
 &lt;ul&gt;
 &lt;li&gt;AI on the Edge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reconfigurable Computing
+&lt;ul&gt;
+&lt;li&gt;FPGA Prototyping&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Electronic Design Automation&lt;/li&gt;
@@ -234,10 +240,16 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;-grep-the-cool-interests-and-curio&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests and Curio&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;I go to the gym, like target shooting and enjoy camping. But I am not a gym bro, just a gym buddy :)&lt;/li&gt;
+&lt;li&gt;I go to the gym, like target shooting and enjoy camping
+&lt;ul&gt;
+&lt;li&gt;But I am not a gym bro, just a gym buddy :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;I enjoy cooking and barbecueing&lt;/li&gt;
 &lt;li&gt;I like to produce spirits and I&amp;rsquo;m learning more on home brewing&lt;/li&gt;
 &lt;li&gt;I really like dogs and I am medically alergic to cats&lt;/li&gt;
+&lt;li&gt;I have strabismus, and had corrective eye surgery (that&amp;rsquo;s why my right eyelid droops a bit)&lt;/li&gt;
+&lt;li&gt;I like traveling, especially inside the portuguese territory&lt;/li&gt;
 &lt;li&gt;I do a bit of &lt;a href=&#34;https://jbcr.pt/gallery/analog&#34;&gt;analog photography&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Finally I am a &lt;a href=&#34;https://jbcr.pt/nerd.gif&#34;&gt;huge nerd&lt;/a&gt;
 &lt;ul&gt;
@@ -253,6 +265,7 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;li&gt;J.R.R. Tolkien worldbuilding tomes and fantasy&lt;/li&gt;
 &lt;li&gt;H.P. Lovecraft weird fiction&lt;/li&gt;
 &lt;li&gt;João Aguiar&amp;rsquo;s historical novels&lt;/li&gt;
+&lt;li&gt;Comic books: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;I collect Heavy Metal vinyls, with a preference for NWOBHM and Doom&lt;/li&gt;
@@ -261,11 +274,8 @@ From 2023 to July 2025 I was a &lt;strong&gt;Teaching Assistant&lt;/strong&gt; a
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;-zathura-curriculum_vitæpdf&#34;&gt;&amp;gt; zathura Curriculum_Vitæ.pdf&lt;/h1&gt;
-&lt;object data=&#34;/resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;
-    &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: 
-    &lt;a href=&#34;https://jbcr.pt/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
-&lt;/object&gt;
+
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34;&gt;&lt;figcaption&gt;Me, in the hometown of my best friend (Duarte)&lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
 	</item>

@@ -6,11 +6,16 @@ nextprev: false
 
 # > whoami
 
-{{<img caption="Me, looking all cool in my worksation at INESC" src=/Jr.jpeg style="text-align:center;" >}}
+{{<img caption="Me, looking all cool in my worksation at INESC" size="400x" src=/Jr.jpeg style="text-align:center;" >}}
 
-I am a 23 year old **Electrical and Computer Eng. Master's finalist** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt), majoring in **Computer Systems** and minoring in **Electronic Circuits and Systems**, with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing.
+I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
 
-As of now I am finishing my MSc Thesis on a Hardware/Software Co-Designed Embedded System for Aerial Image Segmentation based on Transformers at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. I will continue my work on hardware design for Artificial Intelligence as a PhD student, with the same supervisors. 
+I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother's side) and from Lisbon and Portalegre, Alto Alentejo (father's side).
+
+My PhD project - **SMARTCHIP** - has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.
+
+I finished my ECE Master's in November 2025, having majored in **Computer Systems** and minoring in **Electronic Circuits and Systems**. For my MSc Thesis I designed **ARES**, a Hardware/Software Co-Designed Embedded System for a Swin Transformer Layer execution, targeting aerial image segmentation. This work was developed at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. My thesis was awarded a 19/20 grade.
+
 From 2023 to July 2025 I was a **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt) teaching on the following courses:
 
 - Algorithms and Data Structures

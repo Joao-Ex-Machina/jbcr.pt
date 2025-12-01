@@ -3,12 +3,15 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-	<title>My Righteous Anger at My ISP (Coming Soon) | João Rodrigues&#39; Slick Site</title>
+	<title>My Righteous Anger at My ISP | João Rodrigues&#39; Slick Site</title>
 	<link rel="canonical" href="https://jbcr.pt/">
 	<link rel='alternate' type='application/rss+xml' title="João Rodrigues&#39; Slick Site RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" href="/favicon.ico">
-	<meta name="description" content="Coming soon!">
+	<meta name="description" content="What happened?
+As I was working around to create my own e-mail server (mostly to set a e-mail bot to sent me Dilbert comics everyday), I found a pretty annoying bug on my router&rsquo;s webapp:
+
+The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, we no solution at sight.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index, follow">
 	<meta charset="utf-8">
@@ -35,10 +38,40 @@
 </nav>
 
 <main>
-<header><h1 id="tag_My righteous anger at my ISP (Coming soon)">My righteous anger at my ISP (Coming soon)</h1></header>
+<header><h1 id="tag_My righteous anger at my ISP">My righteous anger at my ISP</h1></header>
 <article>
 
-<h1 id="coming-soon">Coming soon!</h1>
+<h1 id="what-happened">What happened?</h1>
+<p>As I was working around to create my own e-mail server (mostly to set a e-mail bot to sent me Dilbert comics everyday), I found a pretty annoying bug on my router&rsquo;s webapp:</p>
+<p><img src="/pf.png" alt="Error on IPv4 Port Forwarding"></p>
+<p>The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, we no solution at sight.</p>
+<h1 id="how-to-solve-it">How to solve it?</h1>
+<p>To retake control of your ports back again, you have to login remotely into your router as such, as explained in this post by the great <a href="https://forum.meo.pt/temas-livres-21/port-forwarding-router-wifi-6-fibergateway-gen-8-163820">Marcos Alves</a></p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>ssh MEO-XXXXX@192.168.1.254
+</span></span></code></pre></div><p>Using the username and password provided on the router sticker.</p>
+<p>Now go to the virtual server directory:</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#fabd2f">cd</span> nat/virtual-servers
+</span></span></code></pre></div><p>And now you can open and close ports with:</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#928374;font-style:italic">#create (one liner)</span>
+</span></span><span style="display:flex;"><span>create --ext-port-start<span style="color:#fe8019">=</span>&lt;ExtPort&gt;<span style="color:#b8bb26">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b8bb26"></span>--int-port-start<span style="color:#fe8019">=</span>&lt;IntPort&gt;<span style="color:#b8bb26">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b8bb26"></span>--protocol<span style="color:#fe8019">=</span>&lt;TCP, UDP or TCP/UDP&gt; --server-ip<span style="color:#fe8019">=</span>&lt;IP&gt;<span style="color:#b8bb26">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b8bb26"></span>--server-name<span style="color:#fe8019">=</span>&lt;name&gt; --wan-intf<span style="color:#fe8019">=</span>erouter0
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#928374;font-style:italic">#remove (one liner too)</span>
+</span></span><span style="display:flex;"><span>remove --ext-port-start<span style="color:#fe8019">=</span>&lt;ExtPort&gt;<span style="color:#b8bb26">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b8bb26"></span>--int-port-start<span style="color:#fe8019">=</span>&lt;IntPort&gt;<span style="color:#b8bb26">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b8bb26"></span>--protocol<span style="color:#fe8019">=</span>&lt;TCP, UDP or TCP/UDP&gt; --server-ip<span style="color:#fe8019">=</span>&lt;IP&gt; 
+</span></span></code></pre></div><p>I also leave here other useful commands:</p>
+<div class="highlight"><pre tabindex="0" style="color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#fabd2f">cd</span> /device-info <span style="color:#928374;font-style:italic"># go to the device info directory</span>
+</span></span><span style="display:flex;"><span>show <span style="color:#928374;font-style:italic"># show current forwading or device-info</span>
+</span></span></code></pre></div><h1 id="why-are-you-so-mad">Why are you so mad?</h1>
+<p>Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use it!
+The internet should be a <strong>democratic space, accessible to all</strong>! I think a webapp/GUI is much more friendly to the common user/newb.</p>
+<p>Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them its users can be harmed.</p>
+<p>Additionally this shows one of the nastiest things - We the people, are not in control of the technology we are using, first they remove the WebApp, one day the (already stunted) terminal interface, and finally port forwarding in total.</p>
+<p>I hope MEO fixes this bug soon, and reviews its stance on internet freedom!</p>
+<p>Signing off!</p>
 
 
 <div id="nextprev">

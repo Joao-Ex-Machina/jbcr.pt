@@ -62,23 +62,24 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 
 - I go to the gym, like target shooting and enjoy camping
     - But I am not a gym bro, just a gym buddy :)
-- I enjoy cooking and barbecueing
+- I **enjoy cooking** and barbecueing
 - I like to produce spirits and I'm learning more on home brewing
-- I really like dogs and I am medically alergic to cats
+- I smoke a pipe
+- I **really like dogs** and I am medically **alergic to cats**
 - I have strabismus, and had corrective eye surgery (that's why my right eyelid droops a bit)
 - I like traveling, especially inside the portuguese territory
 - I do a bit of [analog photography](/gallery/analog)
 - Finally I am a [huge nerd](/nerd.gif)
-    - I am really interested in History (since I was a kid)
+    - I am really **interested in History** (since I was a kid)
         - Pre-Roman Celtiberian Civilizations (such as Celtici and Lusitani)
         - European Dark Ages and Medieval Folklore, culture and wars
         - Modern-ish War Machines
-    - I throughly enjoy reading
-        - J.R.R. Tolkien worldbuilding tomes and fantasy
-        - H.P. Lovecraft weird fiction
-        - João Aguiar's historical novels
-        - Comic books: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.
-    - I collect Heavy Metal vinyls, with a preference for NWOBHM and Doom
+    - I throughly **enjoy reading**
+        - **J.R.R. Tolkien** worldbuilding tomes and fantasy
+        - **H.P. Lovecraft** weird fiction
+        - **João Aguiar's** historical novels
+        - **Comic books**: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.
+    - I collect Heavy Metal **vinyls**, with a preference for NWOBHM and Doom
     - I've DM'ed and played multiple Dungeons and Dragons and Call of Cthulhu campaigns.
     - I play a bit of Magic the Gathering
 

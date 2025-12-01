@@ -11,12 +11,42 @@
 	
 	
 	<item>
-		<title>My righteous anger at my ISP (Coming soon)</title>
+		<title>My righteous anger at my ISP</title>
 		<link>https://jbcr.pt/blog/angery/</link>
 		<pubDate>Thu, 13 Nov 2025 13:40:00 +0000</pubDate>
 		
 		<guid>https://jbcr.pt/blog/angery/</guid>
-		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming soon!&lt;/h1&gt;
+		<description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened?&lt;/h1&gt;
+&lt;p&gt;As I was working around to create my own e-mail server (mostly to set a e-mail bot to sent me Dilbert comics everyday), I found a pretty annoying bug on my router&amp;rsquo;s webapp:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/pf.png&#34; alt=&#34;Error on IPv4 Port Forwarding&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, we no solution at sight.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-solve-it&#34;&gt;How to solve it?&lt;/h1&gt;
+&lt;p&gt;To retake control of your ports back again, you have to login remotely into your router as such, as explained in this post by the great &lt;a href=&#34;https://forum.meo.pt/temas-livres-21/port-forwarding-router-wifi-6-fibergateway-gen-8-163820&#34;&gt;Marcos Alves&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ssh MEO-XXXXX@192.168.1.254
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using the username and password provided on the router sticker.&lt;/p&gt;
+&lt;p&gt;Now go to the virtual server directory:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fabd2f&#34;&gt;cd&lt;/span&gt; nat/virtual-servers
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And now you can open and close ports with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#create (one liner)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;create --ext-port-start&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;ExtPort&amp;gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;&lt;/span&gt;--int-port-start&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;IntPort&amp;gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;&lt;/span&gt;--protocol&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;TCP, UDP or TCP/UDP&amp;gt; --server-ip&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;IP&amp;gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;&lt;/span&gt;--server-name&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;name&amp;gt; --wan-intf&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;erouter0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;#remove (one liner too)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;remove --ext-port-start&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;ExtPort&amp;gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;&lt;/span&gt;--int-port-start&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;IntPort&amp;gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;\
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#b8bb26&#34;&gt;&lt;/span&gt;--protocol&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;TCP, UDP or TCP/UDP&amp;gt; --server-ip&lt;span style=&#34;color:#fe8019&#34;&gt;=&lt;/span&gt;&amp;lt;IP&amp;gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I also leave here other useful commands:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fabd2f&#34;&gt;cd&lt;/span&gt; /device-info &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# go to the device info directory&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;show &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# show current forwading or device-info&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;why-are-you-so-mad&#34;&gt;Why are you so mad?&lt;/h1&gt;
+&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use it!
+The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/strong&gt;! I think a webapp/GUI is much more friendly to the common user/newb.&lt;/p&gt;
+&lt;p&gt;Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them its users can be harmed.&lt;/p&gt;
+&lt;p&gt;Additionally this shows one of the nastiest things - We the people, are not in control of the technology we are using, first they remove the WebApp, one day the (already stunted) terminal interface, and finally port forwarding in total.&lt;/p&gt;
+&lt;p&gt;I hope MEO fixes this bug soon, and reviews its stance on internet freedom!&lt;/p&gt;
+&lt;p&gt;Signing off!&lt;/p&gt;
 </description>
 	</item>
 	
@@ -258,30 +288,31 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;But I am not a gym bro, just a gym buddy :)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;I enjoy cooking and barbecueing&lt;/li&gt;
+&lt;li&gt;I &lt;strong&gt;enjoy cooking&lt;/strong&gt; and barbecueing&lt;/li&gt;
 &lt;li&gt;I like to produce spirits and I&amp;rsquo;m learning more on home brewing&lt;/li&gt;
-&lt;li&gt;I really like dogs and I am medically alergic to cats&lt;/li&gt;
+&lt;li&gt;I smoke a pipe&lt;/li&gt;
+&lt;li&gt;I &lt;strong&gt;really like dogs&lt;/strong&gt; and I am medically &lt;strong&gt;alergic to cats&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;I have strabismus, and had corrective eye surgery (that&amp;rsquo;s why my right eyelid droops a bit)&lt;/li&gt;
 &lt;li&gt;I like traveling, especially inside the portuguese territory&lt;/li&gt;
 &lt;li&gt;I do a bit of &lt;a href=&#34;https://jbcr.pt/gallery/analog&#34;&gt;analog photography&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Finally I am a &lt;a href=&#34;https://jbcr.pt/nerd.gif&#34;&gt;huge nerd&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;I am really interested in History (since I was a kid)
+&lt;li&gt;I am really &lt;strong&gt;interested in History&lt;/strong&gt; (since I was a kid)
 &lt;ul&gt;
 &lt;li&gt;Pre-Roman Celtiberian Civilizations (such as Celtici and Lusitani)&lt;/li&gt;
 &lt;li&gt;European Dark Ages and Medieval Folklore, culture and wars&lt;/li&gt;
 &lt;li&gt;Modern-ish War Machines&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;I throughly enjoy reading
+&lt;li&gt;I throughly &lt;strong&gt;enjoy reading&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;J.R.R. Tolkien worldbuilding tomes and fantasy&lt;/li&gt;
-&lt;li&gt;H.P. Lovecraft weird fiction&lt;/li&gt;
-&lt;li&gt;João Aguiar&amp;rsquo;s historical novels&lt;/li&gt;
-&lt;li&gt;Comic books: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;J.R.R. Tolkien&lt;/strong&gt; worldbuilding tomes and fantasy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;H.P. Lovecraft&lt;/strong&gt; weird fiction&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;João Aguiar&amp;rsquo;s&lt;/strong&gt; historical novels&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comic books&lt;/strong&gt;: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;I collect Heavy Metal vinyls, with a preference for NWOBHM and Doom&lt;/li&gt;
+&lt;li&gt;I collect Heavy Metal &lt;strong&gt;vinyls&lt;/strong&gt;, with a preference for NWOBHM and Doom&lt;/li&gt;
 &lt;li&gt;I&amp;rsquo;ve DM&amp;rsquo;ed and played multiple Dungeons and Dragons and Call of Cthulhu campaigns.&lt;/li&gt;
 &lt;li&gt;I play a bit of Magic the Gathering&lt;/li&gt;
 &lt;/ul&gt;

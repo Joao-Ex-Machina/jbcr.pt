@@ -421,6 +421,35 @@
   film: "Kodak ColorPlus 200"
   tags: []
 
+- filename: "luta.jpg"
+  title: "Os Lutadores - one of my first works with paper"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kentmere Pan 400 +1"
+  tags: ['DIY-Dev', 'From-Paper']
+
+
+- filename: "paper2.jpg"
+  title: "In Celorico, trying to use the Zone system...and failing"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kentmere Pan 400 +1"
+  tags: ['DIY-Dev', 'From-Paper']
+
+- filename: "something.jpg"
+  title: "As a dear coleague said 'I don't really see what you wanted, you just took the shoot'. Couldn't agree more, I have no idea what I was doing :)"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kentmere Pan 400 +1"
+  tags: ['DIY-Dev', 'From-Paper']
+
+
 - filename: "CastleFar.jpg"
   title: "On our way to the Castle"
   date: 2025
@@ -517,16 +546,16 @@
   album: "Celorico"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor 100"
+  film: "Fujicolor Superia 100"
   tags: ["Expired", "Lomo"]
 
 - filename: "walk.jpg"
-  title: "Lomographic Walk in Rapa"
+  title: "Lomographic Walk in Rapa, with Catarina and Duarte"
   date: 2025
   album: "Celorico"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor 100"
+  film: "Fujicolor Superia 100"
   tags: ["Expired", "Lomo"]
 
 - filename: "Serra00.jpg"
@@ -535,7 +564,7 @@
   album: "Celorico"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor 100"
+  film: "Fujicolor Superia 100"
   tags: ["Expired", "Lomo"]
 
 - filename: "Serra01.jpg"
@@ -544,7 +573,7 @@
   album: "Celorico"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor 100"
+  film: "Fujicolor Superia 100"
   tags: ["Expired"]
 
 - filename: "Serra03.jpg"
@@ -553,8 +582,72 @@
   album: "Celorico"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor 100"
+  film: "Fujicolor Superia 100"
   tags: ["Expired"]
+
+- filename: "ruins.jpg"
+  title: "Once again, Humanity is only a passing by"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodacolor 200"
+  tags: ["Expired"]
+
+- filename: "tree02.jpg"
+  title: "I liked the contrasting colours"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodacolor 200"
+  tags: ["Expired"]
+
+- filename: "WizardCottage.jpg"
+  title: "I am sure a wizard lived there, ready to give an epic side quest"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodacolor 200"
+  tags: ["Expired"]
+
+- filename: "trail.jpg"
+  title: "Almost there! Through rough roads and inclines"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "SantaColor 100"
+  tags: []
+
+
+- filename: "Peak00.jpg"
+  title: "Finally at the peak!"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "SantaColor 100"
+  tags: []
+
+- filename: "SerraRoad.jpg"
+  title: "Road downhill"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "SantaColor 100"
+  tags: []
+
+- filename: "SerraMistery.jpg"
+  title: "The Mistery of the Woods, on my way back"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "SantaColor 100"
+  tags: []
 
 - filename: "self.jpg"
   title: "Self portrait"

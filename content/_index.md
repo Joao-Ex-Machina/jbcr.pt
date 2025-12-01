@@ -32,6 +32,8 @@ Oh, and thank you for passing by!
 
 {{< image-card src="/stock-icon.png" link="/gallery/analog" caption="Photo Portfolio" >}}
 
+{{< image-card src="/pipe.png" link="/tobacco" caption="Tobacco Reviews" >}}
+
 {{< image-card src="/papyrus-2.png" link="/notes" caption="Study Notes" >}}
 
 {{< image-card src="/setuplogo.png" link="/setup" caption="Toolbox/Setup" >}}

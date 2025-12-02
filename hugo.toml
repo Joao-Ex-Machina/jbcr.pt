@@ -2,7 +2,7 @@ baseURL = 'https://jbcr.pt/'
 languageCode = 'en-us'
 title = "João Rodrigues' Slick Site"
 
-theme = 'lugo'
+theme = 'lugo_2'
 
 [markup]
   [markup.highlight]

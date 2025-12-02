@@ -26,13 +26,11 @@ Oh, and thank you for passing by!
 # The Core!
 
 {{< grid >}}
-{{< image-card src="/uart_logo.png" link="/blog" caption="Blog" >}}
+{{< image-card src="/blog.png" link="/blogs" caption="Weblogs" >}}
 
 {{< image-card src="/projectlogo.png" link="/projects" caption="My Projects" >}}
 
 {{< image-card src="/stock-icon.png" link="/gallery/analog" caption="Photo Portfolio" >}}
-
-{{< image-card src="/pipe.png" link="/tobacco" caption="Tobacco Reviews" >}}
 
 {{< image-card src="/papyrus-2.png" link="/notes" caption="Study Notes" >}}
 

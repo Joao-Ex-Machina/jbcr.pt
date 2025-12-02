@@ -17,11 +17,11 @@
 		
 		<guid>https://jbcr.pt/blog/angery/</guid>
 		<description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened?&lt;/h1&gt;
-&lt;p&gt;As I was working around to create my own e-mail server (mostly to set a e-mail bot to sent me Dilbert comics everyday), I found a pretty annoying bug on my router&amp;rsquo;s webapp:&lt;/p&gt;
+&lt;p&gt;As I was working around to create my own e-mail server (mostly to set a e-mail bot to send me Dilbert comics everyday), I found a pretty annoying bug on my router&amp;rsquo;s webapp:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://jbcr.pt/pf.png&#34; alt=&#34;Error on IPv4 Port Forwarding&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, we no solution at sight.&lt;/p&gt;
 &lt;h1 id=&#34;how-to-solve-it&#34;&gt;How to solve it?&lt;/h1&gt;
-&lt;p&gt;To retake control of your ports back again, you have to login remotely into your router as such, as explained in this post by the great &lt;a href=&#34;https://forum.meo.pt/temas-livres-21/port-forwarding-router-wifi-6-fibergateway-gen-8-163820&#34;&gt;Marcos Alves&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To retake control of your ports back again, you have to login remotely into your router as such, as explained in this post by the great &lt;a href=&#34;https://forum.meo.pt/temas-livres-21/port-forwarding-router-wifi-6-fibergateway-gen-8-163820&#34;&gt;Marcos Alves&lt;/a&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ssh MEO-XXXXX@192.168.1.254
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using the username and password provided on the router sticker.&lt;/p&gt;
@@ -41,10 +41,10 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fabd2f&#34;&gt;cd&lt;/span&gt; /device-info &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# go to the device info directory&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;show &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# show current forwading or device-info&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;why-are-you-so-mad&#34;&gt;Why are you so mad?&lt;/h1&gt;
-&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use it!
-The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/strong&gt;! I think a webapp/GUI is much more friendly to the common user/newb.&lt;/p&gt;
-&lt;p&gt;Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them its users can be harmed.&lt;/p&gt;
-&lt;p&gt;Additionally this shows one of the nastiest things - We the people, are not in control of the technology we are using, first they remove the WebApp, one day the (already stunted) terminal interface, and finally port forwarding in total.&lt;/p&gt;
+&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use onr!
+The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/strong&gt; and I think a WebApp/GUI is much more friendly to the common user/newb.&lt;/p&gt;
+&lt;p&gt;Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them their users can be harmed.&lt;/p&gt;
+&lt;p&gt;Additionally this shows one of the nastiest things going on on the tech sphere right now - &lt;strong&gt;We the people, are not in control of the technology we are using&lt;/strong&gt; - first they remove the WebApp, one day the (already stunted) terminal interface, and finally port forwarding in total.&lt;/p&gt;
 &lt;p&gt;I hope MEO fixes this bug soon, and reviews its stance on internet freedom!&lt;/p&gt;
 &lt;p&gt;Signing off!&lt;/p&gt;
 </description>
@@ -411,6 +411,40 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;https://jbcr.pt/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
 &lt;h3 id=&#34;workbench&#34;&gt;Workbench&lt;/h3&gt;
 &lt;h1 id=&#34;hackerspace-setup&#34;&gt;HackerSpace Setup&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Weblogs</title>
+		<link>https://jbcr.pt/blogs/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/blogs/</guid>
+		<description>&lt;p&gt;Welcome to my weblogs page.&lt;/p&gt;
+&lt;p&gt;As of now I maintain two weblogs - &lt;strong&gt;UART to MIO 36..37&lt;/strong&gt;, my tech oriented blog and &lt;strong&gt;The Wizards Cottage&lt;/strong&gt;, where I review tobacco and list my adventures on this hobby. In the future I would also like to add a travel or a culinary blog.&lt;/p&gt;
+&lt;h1 id=&#34;the-motherload&#34;&gt;The Motherload!&lt;/h1&gt;
+&lt;div class=&#34;grid&#34;&gt;
+    
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://jbcr.pt/blog&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/uart_logo.png&#34; alt=&#34;UART to MIO 36..37&#34;&gt;
+        &lt;p&gt;UART to MIO 36..37&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://jbcr.pt/tobacco&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/pipe.png&#34; alt=&#34;The Wizards Cottage&#34;&gt;
+        &lt;p&gt;The Wizards Cottage&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
 </description>
 	</item>
 	

@@ -18,7 +18,7 @@
 		<description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened?&lt;/h1&gt;
 &lt;p&gt;As I was working around to create my own e-mail server (mostly to set a e-mail bot to send me Dilbert comics everyday), I found a pretty annoying bug on my router&amp;rsquo;s webapp:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://jbcr.pt/pf.png&#34; alt=&#34;Error on IPv4 Port Forwarding&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, we no solution at sight.&lt;/p&gt;
+&lt;p&gt;The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, with no solution at sight.&lt;/p&gt;
 &lt;h1 id=&#34;how-to-solve-it&#34;&gt;How to solve it?&lt;/h1&gt;
 &lt;p&gt;To retake control of your ports back again, you have to login remotely into your router as such, as explained in this post by the great &lt;a href=&#34;https://forum.meo.pt/temas-livres-21/port-forwarding-router-wifi-6-fibergateway-gen-8-163820&#34;&gt;Marcos Alves&lt;/a&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;

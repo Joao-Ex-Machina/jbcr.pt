@@ -9,7 +9,7 @@ As I was working around to create my own e-mail server (mostly to set a e-mail b
 
 ![Error on IPv4 Port Forwarding](/pf.png)
 
-The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, we no solution at sight.
+The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, with no solution at sight.
 
 
 # How to solve it?

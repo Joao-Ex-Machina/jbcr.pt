@@ -1,6 +1,6 @@
 +++
 title = 'Hardware Design on a 5$ FPGA from China part I- The Setup (Coming Soon)'
-date = 2024-11-05T13:39:51Z
+date = 2025-12-10T13:39:51Z
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-date: 2025-09-20
+date: 3000-09-20
 layout: "gallery"
 description: "A curated collection of my analog photos. Click on a photo to zoom in. Filter photos by tags to explore different themes."
 nextprev: false

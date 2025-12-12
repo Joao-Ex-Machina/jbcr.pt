@@ -1,6 +1,7 @@
 +++
 title = 'My righteous anger at my ISP'
 date = 2025-11-13T13:40:00Z
+tags = ['tech',]
 +++
 
 # What happened?

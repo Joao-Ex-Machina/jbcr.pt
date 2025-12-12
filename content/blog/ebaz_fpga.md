@@ -1,6 +1,7 @@
 +++
-title = 'Hardware Design on a 5$ FPGA from China part I- The Setup (Coming Soon)'
-date = 2025-12-10T13:39:51Z
+title = 'Hardware Design on a 5$ FPGA from China part I- The Setup (Still coming Soon)'
+date = 2025-12-12T13:39:51Z
+tags = ['tech', 'FPGA']
 draft = false
 +++
 

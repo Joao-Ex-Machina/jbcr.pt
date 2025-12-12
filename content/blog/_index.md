@@ -1,8 +1,22 @@
 +++
-title = 'UART to MIO (36..37)'
-date = 2024-10-13T18:15:34+01:00
+title = 'Weblogs'
 +++
 
-Welcome to **UART to MIO (36..37)**, the best Hardware (focused, not exclusive) blog you have opened in your browser right now! At least probably! I update it once in each Æon (sorry about that).
+Welcome to my weblogs page.
 
- 
+My posts are organized in two main groups:
+
+- **UART to MIO 36..37**: For electronics, hardware and overall tech
+- **The Darkroom Digest**: For photography, cameras and films
+
+# The Motherload!
+
+{{< grid >}}
+
+{{< image-card src="/uart_logo.png" link="/tags/tech" caption="UART to MIO 36..37" >}}
+
+{{< image-card src="/DD.png" link="/tags/photography" caption="Darkroom Digest" >}}
+
+{{< /grid >}}
+
+# All posts (in chronological order)

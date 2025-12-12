@@ -1,7 +1,7 @@
 +++
 title = 'Self-Hosting part I: An Unexpected Journey to my own Website'
 date = 2024-11-04T11:21:23Z
-tags = ['selfhosting','website']
+tags = ['tech', 'selfhosting','website']
 +++
 
 This post details the story of this website. Why and how I created it, who inspired me to it and how I am managing it.

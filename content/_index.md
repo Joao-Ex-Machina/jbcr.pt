@@ -26,7 +26,7 @@ Oh, and thank you for passing by!
 # The Core!
 
 {{< grid >}}
-{{< image-card src="/blog.png" link="/blogs" caption="Weblogs" >}}
+{{< image-card src="/blog.png" link="/blog" caption="Weblogs" >}}
 
 {{< image-card src="/projectlogo.png" link="/projects" caption="My Projects" >}}
 

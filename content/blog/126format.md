@@ -9,8 +9,7 @@ tags = ['analog','photography', '126mm', 'lomography']
 
 On the last weekend I was at my (dead) great-uncle's and (dead) great-aunt's house in Arraiolos. On the hallway, placed atop of the chest, there it was - an **Agfamatic 108 Sensor camera**, waiting for an hacker to save it from certain disposal:
 
-
-![]()
+![Agfamatic 108 Sensor](/agfamatic.jpeg)
 
 The wise man and wise woman that generated me, warned:
 
@@ -20,13 +19,13 @@ But I empathized with the otherwordly object.
 
 I reached to it, inspected it and opened it....._gasp_......WHAT THE HELL IS THIS:
 
-![WTF!!]()
+![WTF!!](/cassete_agfa.jpeg)
 
 
 
-A DAMNED CASSETTE-LIKE CARTRIDGE? WHAT UNHOLY FORMAT IS THIS?
+**A DAMNED CASSETTE-LIKE CARTRIDGE??** WHAT UNHOLY FORMAT IS THIS?
 
-A quick [camera wiki]() search provided the magical answer - 126mm format - a dead, buried and mostly forgotten format, discontinued in late 2007.
+A quick [camera wiki](https://camera-wiki.org/) search provided the magical answer - 126mm format - a dead, buried and mostly forgotten format, discontinued in late 2007.
 
 This camera had peaked my interest, but now....now it had my attention :)
 
@@ -63,30 +62,60 @@ Basically what you are going to do is:
 2. Gut out the film from the backing paper, being careful not to rip it
 3. Analyze the cartridge and familiarize yourself with its anatomy, take notice of cracks or possible light leaks
 
-Now for the spooling process, João Rodrigues style:
+![Open cartridge](/open_cart.jpeg)
+
+**Now for the spooling process, João Rodrigues style:**
+
+![The setup](/agfa_setup.jpeg)
 
 1. Tape your film leader to the desired end of the backing paper (I did the first batch with ~12 photograms). remeber that the emulsion side should face you
     1. Here you can cut the leader, give some give, _sui generis_ 
+
+![The schematic](/agfa_schematic.jpg)
+
 2. Now turn off the lights in the darkroom! You will now unspool and tape the 35mm film to the "begining" of the backing paper, where the old 126 film was glued
+
     1.  Once again _sui generis_
     2. Also you can optionally f*** up this process several times:
         1. Untapping the end and having to respool the 35mm back into the canister, turning on the lights and redo the whole process
         2. Putting too much tape
         3. Putting your dirty paws on the emulsion...leaving fingerprints for some extra _*chef kiss*_ lomography
         4. Etc. Bonus points for finding your own way to completly botch your job
-3. Now, carefully roll the backing paper and film item in a tight, neat cilinder
+4. Now, carefully roll the backing paper and film item in a tight, neat cilinde
     1. Be sure it is nice and tight, if you cannot fit it in the compartment, you'll have to redo it
-4. Fit the backing paper and film item in its compartment and the spooling cilinder in the other compartment
-5. Close the cartridge
-6. Turn on the lights and give your camera some cranks until it _clicks_ in place.
-7. Maybe shoot once and crank to see the feel of it :)
+5. Fit the backing paper and film item in its compartment and the spooling cilinder in the other compartment
+6. Close the cartridge
+7. Turn on the lights and give your camera some cranks until it _clicks_ in place.
+8. Maybe shoot once and crank to see the feel of it :)
+
+
+
 
 And you just hacked your first 126 cartridge!
+
+# Results
+
+I made the first test with a little less than 12 frames, 200 ISO indoors:
+
+![some result](/agfa_results.jpeg)
+
+As expected the film as little information - but that is a good thing! No burned film, no major light leaks, no overlapping frames, and the **image extends to the sprocket holes**, which looks pretty cool!
+
+I also tried to load a full cartridge with 24 frames, but I struggle to fit the film roll, the camera struggled to crank it, and the cartridge kept on popping open - It was a botched job which ended with me chucking the film in the trash. **I would keep it to 12-15 frames**, but I will try again in the future.
+
+I might update this section with some more results in the future...
 
 # Was it worth it?
 
 It does depend on various factors and how you rank them in order of enjoyment, so I made this helpful table to agilize your decision process:
 
+|   **Feature**   | **Qualitative Grade** |
+|:---------------:|:---------------------:|
+|  Hassle-free?   |         ❌❌          |
+|     Quality     |           ❌           |
+|     Novelty     |           ✓✓          |
+| Bragging rights |          ✓✓           |
+|       Fun?       |   ¯\\\_( ͡° ͜ʖ ͡°)\_/¯   |
 
 # Future work
 

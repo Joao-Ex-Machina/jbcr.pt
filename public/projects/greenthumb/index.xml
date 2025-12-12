@@ -1,31 +1,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>João Rodrigues&#39; Slick Site</title>
-	<link>http://localhost:1313/projects/greenthumb/</link>
+	<link>https://jbcr.pt/projects/greenthumb/</link>
 	<description>Recent content in GreenThumb on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Tue, 15 Oct 2024 09:21:44 +0100</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/projects/greenthumb/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jbcr.pt/projects/greenthumb/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
+		<title>Hardware Design on a 5$ FPGA from China part I- The Setup (Still coming Soon)</title>
+		<link>https://jbcr.pt/blog/ebaz_fpga/</link>
+		<pubDate>Fri, 12 Dec 2025 13:39:51 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/blog/ebaz_fpga/</guid>
+		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Lomography pt.1: Using a discontinued format camera (coming soon)</title>
-		<link>http://localhost:1313/blog/126format/</link>
+		<link>https://jbcr.pt/blog/126format/</link>
 		<pubDate>Thu, 11 Dec 2025 13:40:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/blog/126format/</guid>
+		<guid>https://jbcr.pt/blog/126format/</guid>
 		<description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
 &lt;p&gt;On the last weekend I was at my (dead) great-uncle&amp;rsquo;s and (dead) great-aunt&amp;rsquo;s house in Arraiolos. On the hallway, placed atop of the chest, there it was - an &lt;strong&gt;Agfamatic 108 Sensor camera&lt;/strong&gt;, waiting for an hacker to save it from certain disposal:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/agfamatic.jpeg&#34; alt=&#34;Agfamatic 108 Sensor&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The wise man and wise woman that generated me, warned:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;That camera is sh***, its trash, don&amp;rsquo;t bother with it.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;But I empathized with the otherwordly object.&lt;/p&gt;
 &lt;p&gt;I reached to it, inspected it and opened it&amp;hellip;..&lt;em&gt;gasp&lt;/em&gt;&amp;hellip;&amp;hellip;WHAT THE HELL IS THIS:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;&#34; alt=&#34;WTF!!&#34;&gt;&lt;/p&gt;
-&lt;p&gt;A DAMNED CASSETTE-LIKE CARTRIDGE? WHAT UNHOLY FORMAT IS THIS?&lt;/p&gt;
-&lt;p&gt;A quick &lt;a href=&#34;&#34;&gt;camera wiki&lt;/a&gt; search provided the magical answer - 126mm format - a dead, buried and mostly forgotten format, discontinued in late 2007.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/cassete_agfa.jpeg&#34; alt=&#34;WTF!!&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A DAMNED CASSETTE-LIKE CARTRIDGE??&lt;/strong&gt; WHAT UNHOLY FORMAT IS THIS?&lt;/p&gt;
+&lt;p&gt;A quick &lt;a href=&#34;https://camera-wiki.org/&#34;&gt;camera wiki&lt;/a&gt; search provided the magical answer - 126mm format - a dead, buried and mostly forgotten format, discontinued in late 2007.&lt;/p&gt;
 &lt;p&gt;This camera had peaked my interest, but now&amp;hellip;.now it had my attention :)&lt;/p&gt;
 &lt;h1 id=&#34;does-it-work&#34;&gt;Does it work?&lt;/h1&gt;
 &lt;p&gt;The cartridge had 13 photograms taken. I pulled the lever, pressed the trigger and a satisfying &lt;em&gt;click&lt;/em&gt; emerged&amp;hellip;It seemed to work!&lt;/p&gt;
@@ -49,14 +59,20 @@
 &lt;li&gt;Gut out the film from the backing paper, being careful not to rip it&lt;/li&gt;
 &lt;li&gt;Analyze the cartridge and familiarize yourself with its anatomy, take notice of cracks or possible light leaks&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Now for the spooling process, João Rodrigues style:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/open_cart.jpeg&#34; alt=&#34;Open cartridge&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Now for the spooling process, João Rodrigues style:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/agfa_setup.jpeg&#34; alt=&#34;The setup&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Tape your film leader to the desired end of the backing paper (I did the first batch with ~12 photograms). remeber that the emulsion side should face you
 &lt;ol&gt;
 &lt;li&gt;Here you can cut the leader, give some give, &lt;em&gt;sui generis&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Now turn off the lights in the darkroom! You will now unspool and tape the 35mm film to the &amp;ldquo;begining&amp;rdquo; of the backing paper, where the old 126 film was glued
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/agfa_schematic.jpg&#34; alt=&#34;The schematic&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Now turn off the lights in the darkroom! You will now unspool and tape the 35mm film to the &amp;ldquo;begining&amp;rdquo; of the backing paper, where the old 126 film was glued&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Once again &lt;em&gt;sui generis&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Also you can optionally f*** up this process several times:
@@ -69,42 +85,77 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Now, carefully roll the backing paper and film item in a tight, neat cilinder
+&lt;li&gt;
+&lt;p&gt;Now, carefully roll the backing paper and film item in a tight, neat cilinde&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Be sure it is nice and tight, if you cannot fit it in the compartment, you&amp;rsquo;ll have to redo it&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;Fit the backing paper and film item in its compartment and the spooling cilinder in the other compartment&lt;/li&gt;
-&lt;li&gt;Close the cartridge&lt;/li&gt;
-&lt;li&gt;Turn on the lights and give your camera some cranks until it &lt;em&gt;clicks&lt;/em&gt; in place.&lt;/li&gt;
-&lt;li&gt;Maybe shoot once and crank to see the feel of it :)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fit the backing paper and film item in its compartment and the spooling cilinder in the other compartment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Close the cartridge&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Turn on the lights and give your camera some cranks until it &lt;em&gt;clicks&lt;/em&gt; in place.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maybe shoot once and crank to see the feel of it :)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;And you just hacked your first 126 cartridge!&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;I made the first test with a little less than 12 frames, 200 ISO indoors:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/agfa_results.jpeg&#34; alt=&#34;some result&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As expected the film as little information - but that is a good thing! No burned film, no major light leaks, no overlapping frames, and the &lt;strong&gt;image extends to the sprocket holes&lt;/strong&gt;, which looks pretty cool!&lt;/p&gt;
+&lt;p&gt;I also tried to load a full cartridge with 24 frames, but I struggle to fit the film roll, the camera struggled to crank it, and the cartridge kept on popping open - It was a botched job which ended with me chucking the film in the trash. &lt;strong&gt;I would keep it to 12-15 frames&lt;/strong&gt;, but I will try again in the future.&lt;/p&gt;
+&lt;p&gt;I might update this section with some more results in the future&amp;hellip;&lt;/p&gt;
 &lt;h1 id=&#34;was-it-worth-it&#34;&gt;Was it worth it?&lt;/h1&gt;
 &lt;p&gt;It does depend on various factors and how you rank them in order of enjoyment, so I made this helpful table to agilize your decision process:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Qualitative Grade&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hassle-free?&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Quality&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Novelty&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✓✓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Bragging rights&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✓✓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fun?&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;¯\_( ͡° ͜ʖ ͡°)_/¯&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h1 id=&#34;future-work&#34;&gt;Future work&lt;/h1&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Hardware Design on a 5$ FPGA from China part I- The Setup (Coming Soon)</title>
-		<link>http://localhost:1313/blog/ebaz_fpga/</link>
-		<pubDate>Wed, 10 Dec 2025 13:39:51 +0000</pubDate>
-		
-		<guid>http://localhost:1313/blog/ebaz_fpga/</guid>
-		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
-</description>
-	</item>
-	
-	<item>
 		<title>My righteous anger at my ISP</title>
-		<link>http://localhost:1313/blog/angery/</link>
+		<link>https://jbcr.pt/blog/angery/</link>
 		<pubDate>Thu, 13 Nov 2025 13:40:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/blog/angery/</guid>
+		<guid>https://jbcr.pt/blog/angery/</guid>
 		<description>&lt;h1 id=&#34;what-happened&#34;&gt;What happened?&lt;/h1&gt;
 &lt;p&gt;As I was working around to create my own e-mail server (mostly to set a e-mail bot to send me Dilbert comics everyday), I found a pretty annoying bug on my router&amp;rsquo;s webapp:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pf.png&#34; alt=&#34;Error on IPv4 Port Forwarding&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/pf.png&#34; alt=&#34;Error on IPv4 Port Forwarding&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The access to IPv4 port forwarding was blocked. Supposedly a bug on the firmware - a bug that has been going on for over 4 months now, with no solution at sight.&lt;/p&gt;
 &lt;h1 id=&#34;how-to-solve-it&#34;&gt;How to solve it?&lt;/h1&gt;
 &lt;p&gt;To retake control of your ports back again, you have to login remotely into your router as such, as explained in this post by the great &lt;a href=&#34;https://forum.meo.pt/temas-livres-21/port-forwarding-router-wifi-6-fibergateway-gen-8-163820&#34;&gt;Marcos Alves&lt;/a&gt;:&lt;/p&gt;
@@ -138,10 +189,10 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 	
 	<item>
 		<title>Self-Hosting part I: An Unexpected Journey to my own Website</title>
-		<link>http://localhost:1313/blog/selfhost-parti/</link>
+		<link>https://jbcr.pt/blog/selfhost-parti/</link>
 		<pubDate>Mon, 04 Nov 2024 11:21:23 +0000</pubDate>
 		
-		<guid>http://localhost:1313/blog/selfhost-parti/</guid>
+		<guid>https://jbcr.pt/blog/selfhost-parti/</guid>
 		<description>&lt;p&gt;This post details the story of this website. Why and how I created it, who inspired me to it and how I am managing it.&lt;/p&gt;
 &lt;p&gt;If you want to pick some bits of my source code you can find it &lt;a href=&#34;https://github.com/Joao-Ex-Machina/jbcr.pt&#34;&gt;here&lt;/a&gt; so that you can hack together your own, &lt;strong&gt;yes your very own&lt;/strong&gt;,  website.&lt;/p&gt;
 &lt;p&gt;This post is of course more than inspired on José Lopes&amp;rsquo; &lt;a href=&#34;https://joselopes.dev/self-hosting&#34;&gt;post on self-hosting&lt;/a&gt;, go check it out!&lt;/p&gt;
@@ -165,7 +216,7 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 &lt;li&gt;Finally the most important clause, arguably: &lt;strong&gt;It had to be at least as good as José&amp;rsquo;s&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;the-setup&#34;&gt;The Setup&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/tux-server.jpg&#34; alt=&#34;Tux Server?&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/tux-server.jpg&#34; alt=&#34;Tux Server?&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
 &lt;p&gt;(Possibly I started from the opposite direction from where I should&amp;rsquo;ve started)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; seemed a good starting point for my framework. It takes some .toml and .md files, applies some forbidden golang magic and bada-bing bada-boom I have a ton of htmls &lt;strong&gt;ready to deploy with minimal effort&lt;/strong&gt;.&lt;/p&gt;
@@ -176,7 +227,7 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 &lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found on a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (&lt;strong&gt;Thank you Margarida Gralha&lt;/strong&gt; for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.&lt;/p&gt;
@@ -262,10 +313,10 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 	
 	<item>
 		<title>We&#39;re live!</title>
-		<link>http://localhost:1313/blog/hello-web/</link>
+		<link>https://jbcr.pt/blog/hello-web/</link>
 		<pubDate>Sun, 03 Nov 2024 20:56:31 +0000</pubDate>
 		
-		<guid>http://localhost:1313/blog/hello-web/</guid>
+		<guid>https://jbcr.pt/blog/hello-web/</guid>
 		<description>&lt;p&gt;&lt;a href=&#34;https://jbcr.pt&#34;&gt;jbcr.pt&lt;/a&gt; is officially live!
 You can expect a big blog post detailing my unexpected journey on making this website work soon!&lt;/p&gt;
 &lt;p&gt;I would like to thank those that helped me reach this goal:&lt;/p&gt;
@@ -278,25 +329,34 @@ You can expect a big blog post detailing my unexpected journey on making this we
 	
 	<item>
 		<title>The begining!</title>
-		<link>http://localhost:1313/blog/hello-world/</link>
+		<link>https://jbcr.pt/blog/hello-world/</link>
 		<pubDate>Mon, 14 Oct 2024 12:41:50 +0100</pubDate>
 		
-		<guid>http://localhost:1313/blog/hello-world/</guid>
+		<guid>https://jbcr.pt/blog/hello-world/</guid>
 		<description>&lt;p&gt;A simple test post to mark when I started making this website, more to come!&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>About Me</title>
-		<link>http://localhost:1313/about/</link>
+		<title></title>
+		<link>https://jbcr.pt/blogs/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/about/</guid>
+		<guid>https://jbcr.pt/blogs/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>About Me</title>
+		<link>https://jbcr.pt/about/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/Jr.jpeg&#34;&gt;&lt;figcaption&gt;Me, looking all cool in my worksation at INESC&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/Jr.jpeg&#34;&gt;&lt;figcaption&gt;Me, looking all cool in my worksation at INESC&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. PhD student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt; , with a &lt;a href=&#34;http://localhost:1313/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.&lt;/p&gt;
+&lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. PhD student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt; , with a &lt;a href=&#34;https://jbcr.pt/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.&lt;/p&gt;
 &lt;p&gt;I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother&amp;rsquo;s side) and from Lisbon and Portalegre, Alto Alentejo (father&amp;rsquo;s side).&lt;/p&gt;
 &lt;p&gt;My PhD project - &lt;strong&gt;SMARTCHIP&lt;/strong&gt; - has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.&lt;/p&gt;
 &lt;p&gt;I finished my ECE Master&amp;rsquo;s in November 2025, having majored in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minoring in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;. For my MSc Thesis I designed &lt;strong&gt;ARES&lt;/strong&gt;, a Hardware/Software Co-Designed Embedded System for a Swin Transformer Layer execution, targeting aerial image segmentation. This work was developed at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. My thesis was awarded a 19/20 grade.&lt;/p&gt;
@@ -309,7 +369,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/ul&gt;
 &lt;p&gt;I enjoyed this experience throughly, having won the &lt;strong&gt;Excelence in Teaching&lt;/strong&gt; award for the school year of 23/24.&lt;/p&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/me_III.png&#34;&gt;&lt;figcaption&gt;Obligatory analog mirror selfie, in Castro Verde&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/me_III.png&#34;&gt;&lt;figcaption&gt;Obligatory analog mirror selfie, in Castro Verde&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I have also been &lt;strong&gt;hackin&amp;rsquo; and tinkerin&amp;rsquo;&lt;/strong&gt; while involved with the &lt;a href=&#34;https://hackerschool.dev&#34;&gt;HackerSchool&lt;/a&gt; hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:&lt;/p&gt;
 &lt;ul&gt;
@@ -342,7 +402,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing off my gains from strength training mixed with my love for electronics&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing off my gains from strength training mixed with my love for electronics&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;-grep-the-cool-interests-and-curio&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests and Curio&amp;rdquo;&lt;/h3&gt;
@@ -358,8 +418,8 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;I &lt;strong&gt;really like dogs&lt;/strong&gt; and I am medically &lt;strong&gt;alergic to cats&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;I have strabismus, and had corrective eye surgery (that&amp;rsquo;s why my right eyelid droops a bit)&lt;/li&gt;
 &lt;li&gt;I like traveling, especially inside the portuguese territory&lt;/li&gt;
-&lt;li&gt;I do a bit of &lt;a href=&#34;http://localhost:1313/gallery/analog&#34;&gt;analog photography&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Finally I am a &lt;a href=&#34;http://localhost:1313/nerd.gif&#34;&gt;huge nerd&lt;/a&gt;
+&lt;li&gt;I do a bit of &lt;a href=&#34;https://jbcr.pt/gallery/analog&#34;&gt;analog photography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Finally I am a &lt;a href=&#34;https://jbcr.pt/nerd.gif&#34;&gt;huge nerd&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;I am really &lt;strong&gt;interested in History&lt;/strong&gt; (since I was a kid)
 &lt;ul&gt;
@@ -383,17 +443,17 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/celorico.jpeg&#34;&gt;&lt;figcaption&gt;Me, in the hometown of my best friend (Duarte)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34;&gt;&lt;figcaption&gt;Me, in the hometown of my best friend (Duarte)&lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
 	</item>
 	
 	<item>
 		<title>Contact</title>
-		<link>http://localhost:1313/contact/</link>
+		<link>https://jbcr.pt/contact/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/contact/</guid>
+		<guid>https://jbcr.pt/contact/</guid>
 		<description>&lt;p&gt;How to get in touch with me, simple as that!&lt;/p&gt;
 &lt;div class=&#34;grid&#34;&gt;
     
@@ -403,7 +463,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 &lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
     &lt;a href=&#34;mailto:joaobarreiroscoelhorodrigues@tecnico.ulisboa.pt&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #85C1FF; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        &lt;img src=&#34;https://jbcr.pt/mailbox.svg&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
         E-mail
     &lt;/a&gt;
 &lt;/div&gt;
@@ -414,7 +474,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 &lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
     &lt;a href=&#34;https://github.com/Joao-Ex-Machina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #555555; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        &lt;img src=&#34;https://jbcr.pt/gitlogo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
         GitHub
     &lt;/a&gt;
 &lt;/div&gt;
@@ -425,7 +485,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 &lt;div style=&#34;text-align: center; margin: 20px 0;&#34;&gt;
     &lt;a href=&#34;https://fosstodon.org/@joaoexmachina&#34; target=&#34;_blank&#34; style=&#34;display: inline-block; padding: 10px 20px; background-color: #C8A2E8; color: white; text-decoration: none; border-radius: 5px;&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
+        &lt;img src=&#34;https://jbcr.pt/mastologo.png&#34; alt=&#34;Icon&#34; style=&#34;width: 30px; height: 30px; margin-right: 5px; vertical-align: middle;&#34; /&gt;
         Mastodon
     &lt;/a&gt;
 &lt;/div&gt;
@@ -439,10 +499,10 @@ You can expect a big blog post detailing my unexpected journey on making this we
 	
 	<item>
 		<title>Setup</title>
-		<link>http://localhost:1313/setup/</link>
+		<link>https://jbcr.pt/setup/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/setup/</guid>
+		<guid>https://jbcr.pt/setup/</guid>
 		<description>&lt;h1 id=&#34;my-everyday-carry-edc&#34;&gt;My Everyday Carry (EDC)&lt;/h1&gt;
 &lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents, or in my pockets.&lt;/p&gt;
 &lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm&lt;/h3&gt;
@@ -452,7 +512,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerfull computers at INESC-ID.&lt;/p&gt;
@@ -472,52 +532,18 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;h1 id=&#34;my-homelab&#34;&gt;My Homelab&lt;/h1&gt;
 &lt;h3 id=&#34;battlestation&#34;&gt;Battlestation&lt;/h3&gt;
 &lt;h3 id=&#34;server&#34;&gt;Server&lt;/h3&gt;
-&lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;http://localhost:1313/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
+&lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;https://jbcr.pt/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
 &lt;h3 id=&#34;workbench&#34;&gt;Workbench&lt;/h3&gt;
 &lt;h1 id=&#34;hackerspace-setup&#34;&gt;HackerSpace Setup&lt;/h1&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Weblogs</title>
-		<link>http://localhost:1313/blogs/</link>
-		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-		
-		<guid>http://localhost:1313/blogs/</guid>
-		<description>&lt;p&gt;Welcome to my weblogs page.&lt;/p&gt;
-&lt;p&gt;As of now I maintain two weblogs - &lt;strong&gt;UART to MIO 36..37&lt;/strong&gt;, my tech oriented blog and &lt;strong&gt;The Wizards Cottage&lt;/strong&gt;, where I review tobacco and list my adventures on this hobby. In the future I would also like to add a travel or a culinary blog.&lt;/p&gt;
-&lt;h1 id=&#34;the-motherload&#34;&gt;The Motherload!&lt;/h1&gt;
-&lt;div class=&#34;grid&#34;&gt;
-    
-
-&lt;div class=&#34;grid-item&#34;&gt;
-    &lt;a href=&#34;http://localhost:1313/blog&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/uart_logo.png&#34; alt=&#34;UART to MIO 36..37&#34;&gt;
-        &lt;p&gt;UART to MIO 36..37&lt;/p&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;grid-item&#34;&gt;
-    &lt;a href=&#34;http://localhost:1313/tobacco&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/pipe.png&#34; alt=&#34;The Wizards Cottage&#34;&gt;
-        &lt;p&gt;The Wizards Cottage&lt;/p&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-
-
-&lt;/div&gt;
-
-</description>
-	</item>
-	
-	<item>
 		<title>Webring</title>
-		<link>http://localhost:1313/webring/</link>
+		<link>https://jbcr.pt/webring/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/webring/</guid>
+		<guid>https://jbcr.pt/webring/</guid>
 		<description>&lt;p&gt;This is my (or &amp;ldquo;ours&amp;rdquo;) &lt;a href=&#34;https://en.wikipedia.org/wiki/Webring&#34;&gt;webring&lt;/a&gt;, where I link other sites which content I enjoy!&lt;/p&gt;
 &lt;h1 id=&#34;from-friends-or-other-friendly-persons-ive-met-afk&#34;&gt;From friends or other friendly persons I&amp;rsquo;ve met afk&lt;/h1&gt;
 &lt;div class=&#34;grid&#34;&gt;
@@ -525,7 +551,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 &lt;div class=&#34;grid-item&#34;&gt;
     &lt;a href=&#34;https://joselopes.dev&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/joselopes.png&#34; alt=&#34;José Lopes&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/joselopes.png&#34; alt=&#34;José Lopes&#34;&gt;
         &lt;p&gt;José Lopes&lt;/p&gt;
     &lt;/a&gt;
 &lt;/div&gt;
@@ -533,7 +559,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 &lt;div class=&#34;grid-item&#34;&gt;
     &lt;a href=&#34;https://web.tecnico.ulisboa.pt/rui.duarte&#34;&gt;
-        &lt;img src=&#34;http://localhost:1313/profrui.png&#34; alt=&#34;Prof. Rui P. Duarte&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/profrui.png&#34; alt=&#34;Prof. Rui P. Duarte&#34;&gt;
         &lt;p&gt;Prof. Rui P. Duarte&lt;/p&gt;
     &lt;/a&gt;
 &lt;/div&gt;

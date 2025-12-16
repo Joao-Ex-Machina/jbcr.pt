@@ -59,7 +59,7 @@ show # show current forwading or device-info
 
 # Why are you so mad?
 
-Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use onr!
+Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use one!
 The internet should be a **democratic space, accessible to all** and I think a WebApp/GUI is much more friendly to the common user/newb.
 
 Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them their users can be harmed.

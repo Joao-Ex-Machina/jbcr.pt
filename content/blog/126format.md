@@ -118,7 +118,7 @@ I will try to fix it, but this model is also **quite cheap on the second-hand ma
 ![Lomo Copium](/lomo_cope.jpg)
 
 
-Using orthographic film is also on the to-do list, as it would simplify a lot the hand spooling process (and I also think it looks good)!
+Using orthographic film is also on the to-do list, as it would simplify (a lot) the hand spooling process (and I also think it looks good)!
 
 I will now stop here, as the source-code for this post has 126 lines, which seemed fitting :)
 

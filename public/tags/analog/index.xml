@@ -138,7 +138,7 @@
 &lt;p&gt;As I was finishing this post for deployment I verified that I might have &lt;strong&gt;broken&lt;/strong&gt; the camera - It seems like the lever isn&amp;rsquo;t pulling properly no more. Years of no-use with the additional experimental method can do this to a banged up, fixed lens, plastic camera&amp;hellip;.&lt;/p&gt;
 &lt;p&gt;I will try to fix it, but this model is also &lt;strong&gt;quite cheap on the second-hand market&lt;/strong&gt;, normally below 15€ - and so, if that time comes, I will just buy a new one, as I&amp;rsquo;ve become addicted to this film format, the method, and the &amp;lsquo;LOmOGRaphY&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://jbcr.pt/lomo_cope.jpg&#34; alt=&#34;Lomo Copium&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Using orthographic film is also on the to-do list, as it would simplify a lot the hand spooling process (and I also think it looks good)!&lt;/p&gt;
+&lt;p&gt;Using orthographic film is also on the to-do list, as it would simplify (a lot) the hand spooling process (and I also think it looks good)!&lt;/p&gt;
 &lt;p&gt;I will now stop here, as the source-code for this post has 126 lines, which seemed fitting :)&lt;/p&gt;
 &lt;p&gt;Signing off!&lt;/p&gt;
 </description>
@@ -175,12 +175,26 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fabd2f&#34;&gt;cd&lt;/span&gt; /device-info &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# go to the device info directory&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;show &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# show current forwading or device-info&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;why-are-you-so-mad&#34;&gt;Why are you so mad?&lt;/h1&gt;
-&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use onr!
+&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use one!
 The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/strong&gt; and I think a WebApp/GUI is much more friendly to the common user/newb.&lt;/p&gt;
 &lt;p&gt;Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them their users can be harmed.&lt;/p&gt;
 &lt;p&gt;Additionally this shows one of the nastiest things going on on the tech sphere right now - &lt;strong&gt;We the people, are not in control of the technology we are using&lt;/strong&gt; - first they remove the WebApp, one day the (already stunted) terminal interface, and finally port forwarding in total.&lt;/p&gt;
 &lt;p&gt;I hope MEO fixes this bug soon, and reviews its stance on internet freedom!&lt;/p&gt;
 &lt;p&gt;Signing off!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Gallery</title>
+		<link>https://jbcr.pt/gallery/analog/</link>
+		<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/gallery/analog/</guid>
+		<description>&lt;p&gt;Welcome to my analog photography gallery, the only page in my website that uses JavaScript!&lt;/p&gt;
+&lt;p&gt;Most of the photos here are taken with a Ricoh KR-5 and are normally developed and scanned at the awesome &lt;a href=&#34;https://carmencitafilmlab.com/lisboa/&#34;&gt;Carmencita Lisboa&lt;/a&gt; film lab and scanned in the &lt;a href=&#34;https://nucleodeartefotografica.pt/sobre&#34;&gt;NAF&lt;/a&gt; lab.&lt;/p&gt;
+&lt;p&gt;Sometimes I also develop and scan on my own, with various results (And so, if some photography looks odd, it was probably my fault).&lt;/p&gt;
+&lt;p&gt;All these technical details are available in each photography description, along with a tiny tiny text about it.&lt;/p&gt;
+&lt;p&gt;As of now my favorite stocks to shoot are &lt;strong&gt;Kodak ColorPlus 200&lt;/strong&gt; and &lt;strong&gt;Kentmere Pan 400&lt;/strong&gt;.&lt;/p&gt;
 </description>
 	</item>
 	

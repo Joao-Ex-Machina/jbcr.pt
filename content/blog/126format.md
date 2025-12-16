@@ -34,7 +34,7 @@ I repeated this process...._click click click_....and I exhausted the cartridge 
 
 Two pieces of platic make up the shell, with a window for the film to be exposed and a little window at the back to count the pictures taken.
 
-[Opened Cartridge]()
+![Open cartridge](/open_cart.jpeg)
 
 I manually pulled the film backward, through the little window (honestly the film that was there was probably expired **plus**).
 
@@ -55,8 +55,6 @@ Basically what you are going to do is:
     1. You may optionally do this in a dark room to save the original film, if it was photographed
 2. Gut out the film from the backing paper, being careful not to rip it
 3. Analyze the cartridge and familiarize yourself with its anatomy, take notice of cracks or possible light leaks
-
-![Open cartridge](/open_cart.jpeg)
 
 **Now for the spooling process, João Rodrigues style:**
 

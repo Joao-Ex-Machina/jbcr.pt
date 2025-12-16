@@ -649,6 +649,15 @@
   film: "SantaColor 100"
   tags: []
 
+- filename: "Mill-bw2.jpg"
+  title: "The Mill, as a 1930's horror movie setting"
+  date: 2025
+  album: "Arraiolos"
+  camera: "Minolta Hi-Matic 7s"
+  lens: "Rokkor-PF 45mm f/1.8-22"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["DIY-Dev","From-Paper" ,"BnW"]
+
 - filename: "self.jpg"
   title: "Self portrait"
   date: 2025

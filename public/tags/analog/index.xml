@@ -5,25 +5,15 @@
 	<description>Recent content in Analog on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 11 Dec 2025 13:40:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://jbcr.pt/tags/analog/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Hardware Design on a 5$ FPGA from China part I- The Setup (Still coming Soon)</title>
-		<link>https://jbcr.pt/blog/ebaz_fpga/</link>
-		<pubDate>Fri, 12 Dec 2025 13:39:51 +0000</pubDate>
-		
-		<guid>https://jbcr.pt/blog/ebaz_fpga/</guid>
-		<description>&lt;h1 id=&#34;coming-soon&#34;&gt;Coming Soon!&lt;/h1&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Lomography pt.1: Using a discontinued format camera (coming soon)</title>
+		<title>Lomography part I: Using a discontinued format camera</title>
 		<link>https://jbcr.pt/blog/126format/</link>
-		<pubDate>Thu, 11 Dec 2025 13:40:00 +0000</pubDate>
+		<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
 		
 		<guid>https://jbcr.pt/blog/126format/</guid>
 		<description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
@@ -143,7 +133,14 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;Additionally this is a &lt;strong&gt;destructive&lt;/strong&gt; process, as the tape will start to wear off on the backing paper, so keep that in mind.&lt;/p&gt;
 &lt;h1 id=&#34;future-work&#34;&gt;Future work&lt;/h1&gt;
+&lt;p&gt;As I was finishing this post for deployment I verified that I might have &lt;strong&gt;broken&lt;/strong&gt; the camera - It seems like the lever isn&amp;rsquo;t pulling properly no more. Years of no-use with the additional experimental method can do this to a banged up, fixed lens, plastic camera&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;I will try to fix it, but this model is also &lt;strong&gt;quite cheap on the second-hand market&lt;/strong&gt;, normally below 15€ - and so, if that time comes, I will just buy a new one, as I&amp;rsquo;ve become addicted to this film format, the method, and the &amp;lsquo;LOmOGRaphY&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/lomo_cope.jpg&#34; alt=&#34;Lomo Copium&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Using orthographic film is also on the to-do list, as it would simplify a lot the hand spooling process (and I also think it looks good)!&lt;/p&gt;
+&lt;p&gt;I will now stop here, as the source-code for this post has 126 lines, which seemed fitting :)&lt;/p&gt;
+&lt;p&gt;Signing off!&lt;/p&gt;
 </description>
 	</item>
 	
@@ -504,10 +501,10 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		
 		<guid>https://jbcr.pt/setup/</guid>
 		<description>&lt;h1 id=&#34;my-everyday-carry-edc&#34;&gt;My Everyday Carry (EDC)&lt;/h1&gt;
-&lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents, or in my pockets.&lt;/p&gt;
+&lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents and in my many pockets.&lt;/p&gt;
 &lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm&lt;/h3&gt;
 &lt;p&gt;My daily-driver portable computer since December 2022, when I bought it from a portuguese government official for the modest price of 180€.&lt;/p&gt;
-&lt;p&gt;Since it was a government machine it came with many priviliges, such as a &lt;strong&gt;embedded card reader&lt;/strong&gt; and a &lt;strong&gt;fingerprint sensor&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Since it was a government machine it came with many priviliges, such as an &lt;strong&gt;embedded card reader&lt;/strong&gt; and a &lt;strong&gt;fingerprint sensor&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Since then, I have also changed many components of it such as: the keyboard, screen, processor, ultrabay and even switched the motherboard for a &lt;strong&gt;Corebooted-one&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -516,6 +513,12 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerfull computers at INESC-ID.&lt;/p&gt;
+&lt;h3 id=&#34;modded-thinkpad-x200-aka-aglarond&#34;&gt;Modded Thinkpad X200 aka Aglarond&lt;/h3&gt;
+&lt;p&gt;My second daily-driver computer, which has recently become my go to.&lt;/p&gt;
+&lt;p&gt;Aglarond normally drives the &lt;strong&gt;Khazad-Dûm SSD&lt;/strong&gt;, as I rarely need both computers at the same time.
+This 12-inch machine is incredibly lightweight and portable, sturdy, lets me surf the web, work on my terminal and SSH into powerful machines if needed be.&lt;/p&gt;
+&lt;p&gt;It just &lt;strong&gt;Just Works&lt;/strong&gt;™!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve bought a X201 MoBo to upgrade it, and soon the wifi and BIOS will be upgraded too, to increase this delightful machine&amp;rsquo;s lifespan.&lt;/p&gt;
 &lt;h3 id=&#34;the-rest&#34;&gt;The Rest&lt;/h3&gt;
 &lt;p&gt;Normally, in my day to day I also carry:&lt;/p&gt;
 &lt;ul&gt;
@@ -528,13 +531,21 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;My &lt;strong&gt;Hunter Lockblade Swiss Army knife&lt;/strong&gt; from the &amp;rsquo;90s&lt;/li&gt;
 &lt;li&gt;My &lt;strong&gt;smoking pipe&lt;/strong&gt; and a tin of tobacco&lt;/li&gt;
 &lt;li&gt;My House and HackerSchool keys, in a Ubuntu keychain&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;book&lt;/strong&gt; for reading during breaks
+&lt;ul&gt;
+&lt;li&gt;As of now: &lt;em&gt;A hora de Sertório&lt;/em&gt; by João Aguiar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;my-homelab&#34;&gt;My Homelab&lt;/h1&gt;
 &lt;h3 id=&#34;battlestation&#34;&gt;Battlestation&lt;/h3&gt;
-&lt;h3 id=&#34;server&#34;&gt;Server&lt;/h3&gt;
+&lt;p&gt;(coming soon)&lt;/p&gt;
+&lt;h3 id=&#34;server-aka-thinkpad-t410-aka-erebor&#34;&gt;&amp;ldquo;Server&amp;rdquo; aka Thinkpad T410 aka Erebor&lt;/h3&gt;
 &lt;p&gt;This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in &lt;a href=&#34;https://jbcr.pt/blog/selfhost-parti&#34;&gt;this post&lt;/a&gt;. I have fixed it, clean it and it now drives Ubuntu.&lt;/p&gt;
 &lt;h3 id=&#34;workbench&#34;&gt;Workbench&lt;/h3&gt;
+&lt;p&gt;(coming soon)&lt;/p&gt;
 &lt;h1 id=&#34;hackerspace-setup&#34;&gt;HackerSpace Setup&lt;/h1&gt;
+&lt;p&gt;(coming soon)&lt;/p&gt;
 </description>
 	</item>
 	

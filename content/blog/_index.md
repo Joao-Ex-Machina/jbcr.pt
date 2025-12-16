@@ -4,9 +4,9 @@ title = 'Weblogs'
 
 Welcome to my weblogs page.
 
-My posts are organized in two main groups:
+As of now my posts are organized in two main groups:
 
-- **UART to MIO 36..37**: For electronics, hardware and overall tech
+- **UART to MIO 36..37**: For hardware and software projects, electronics, and overall tech stuff
 - **The Darkroom Digest**: For photography, cameras and films
 
 # The Motherload!

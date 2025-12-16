@@ -1,9 +1,8 @@
 +++
-title = 'Lomography pt.1: Using a discontinued format camera (coming soon)'
-date = 2025-12-11T13:40:00Z
+title = 'Lomography part I: Using a discontinued format camera'
+date = 2025-12-15
 tags = ['analog','photography', '126mm', 'lomography']
 +++
-
 
 # Background
 
@@ -21,8 +20,6 @@ I reached to it, inspected it and opened it....._gasp_......WHAT THE HELL IS THI
 
 ![WTF!!](/cassete_agfa.jpeg)
 
-
-
 **A DAMNED CASSETTE-LIKE CARTRIDGE??** WHAT UNHOLY FORMAT IS THIS?
 
 A quick [camera wiki](https://camera-wiki.org/) search provided the magical answer - 126mm format - a dead, buried and mostly forgotten format, discontinued in late 2007.
@@ -30,7 +27,6 @@ A quick [camera wiki](https://camera-wiki.org/) search provided the magical answ
 This camera had peaked my interest, but now....now it had my attention :)
 
 # Does it work?
-
 The cartridge had 13 photograms taken. I pulled the lever, pressed the trigger and a satisfying _click_ emerged...It seemed to work!
 
 I repeated this process...._click click click_....and I exhausted the cartridge - time to examine it:
@@ -44,7 +40,6 @@ I manually pulled the film backward, through the little window (honestly the fil
 
 
 # Is there a solution?
-
 Great question attentive reader!
 
 The answer is **yes** - If you have a darkroom/darkbag available, some 35mm film, tape, finesse and some patience.
@@ -54,7 +49,6 @@ My good friends at [NAF]() have a darkroom available. They have nice workshops a
 As you may already know I lack on the last two requirements, therefore the colleagues at the room next door had to hear some pretty loud "FODA-SE ESTA MERDA, CARALHO" curses during the handspooling process.
 
 # Methodology, or How I Learned to Stop Worrying and Love the Lomography
-
 Basically what you are going to do is:
 
 1. Carefully open the cartridge
@@ -88,9 +82,6 @@ Basically what you are going to do is:
 7. Turn on the lights and give your camera some cranks until it _clicks_ in place.
 8. Maybe shoot once and crank to see the feel of it :)
 
-
-
-
 And you just hacked your first 126 cartridge!
 
 # Results
@@ -117,5 +108,18 @@ It does depend on various factors and how you rank them in order of enjoyment, s
 | Bragging rights |          ✓✓           |
 |       Fun?       |   ¯\\\_( ͡° ͜ʖ ͡°)\_/¯   |
 
-# Future work
+Additionally this is a **destructive** process, as the tape will start to wear off on the backing paper, so keep that in mind.
 
+# Future work
+As I was finishing this post for deployment I verified that I might have **broken** the camera - It seems like the lever isn't pulling properly no more. Years of no-use with the additional experimental method can do this to a banged up, fixed lens, plastic camera....
+
+I will try to fix it, but this model is also **quite cheap on the second-hand market**, normally below 15€ - and so, if that time comes, I will just buy a new one, as I've become addicted to this film format, the method, and the 'LOmOGRaphY'
+
+![Lomo Copium](/lomo_cope.jpg)
+
+
+Using orthographic film is also on the to-do list, as it would simplify a lot the hand spooling process (and I also think it looks good)!
+
+I will now stop here, as the source-code for this post has 126 lines, which seemed fitting :)
+
+Signing off!

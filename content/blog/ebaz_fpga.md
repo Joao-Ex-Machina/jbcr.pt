@@ -1,8 +1,8 @@
 +++
 title = 'Hardware Design on a 5$ FPGA from China part I- The Setup (Still coming Soon)'
-date = 2025-12-12T13:39:51Z
+date = 2025-12-15T13:39:51Z
 tags = ['tech', 'FPGA']
-draft = false
+draft = true
 +++
 
 # Coming Soon!

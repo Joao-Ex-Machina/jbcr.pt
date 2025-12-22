@@ -6,11 +6,13 @@ nextprev: false
 
 # > whoami
 
-{{<img caption="Me, looking all cool in my worksation at INESC" size="400x" src=/Jr.jpeg style="text-align:center;" >}}
+
+{{<img caption="One of my favourite photos of myself, at the Batalha Monastery, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2025" size="400x" src=/johnny.jpeg style="text-align:center;" >}}
 
 I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
 
 I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother's side) and from Lisbon and Portalegre, Alto Alentejo (father's side).
+
 
 My PhD project - **SMARTCHIP** - has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.
 
@@ -44,6 +46,7 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
     - FPGA Prototyping
 - Electronic Design Automation
 
+
 ### > grep "Technical Interests"
 
 - Open Hardware, Hardware Hacking and Right to Repair
@@ -51,12 +54,7 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 - Smart Urban Agriculture
 - Incremental Manufacturing Processes (3D Printing)
 
-<center>
-
-{{<img caption="Me, showing off my gains from strength training mixed with my love for electronics" src=/this_boy_can_lift.png >}}
-
-
-</center>
+{{<img caption="Me, in the hometown of my best friend (Duarte)" src=/celorico.jpeg >}}
 
 ### > grep "The 'Cool' Interests and Curio"
 
@@ -83,6 +81,12 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
     - I've DM'ed and played multiple Dungeons and Dragons and Call of Cthulhu campaigns.
     - I play a bit of Magic the Gathering
 
-{{<img caption="Me, in the hometown of my best friend (Duarte)" src=/celorico.jpeg >}}
+
+<center>
+
+{{<img caption="Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I'm just doing this to joke with her :^] )" src=/JojoAndDudu.jpeg >}}
+
+
+</center>
 
 

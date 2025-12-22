@@ -5,10 +5,54 @@
 	<description>Recent content in Digital Hermit on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://localhost:1313/tags/digital-hermit/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>On deleting my social media and going back to the Digital Hermit path</title>
+		<link>http://localhost:1313/blog/instadelete/</link>
+		<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/instadelete/</guid>
+		<description>&lt;p&gt;Yup, that’s right I deleted most of my social media (again), in this case I deleted instagram (again).
+Prologue: There and back again&lt;/p&gt;
+&lt;p&gt;“Wait a second….again?”&lt;/p&gt;
+&lt;p&gt;Yes indeed attentive reader - again&lt;/p&gt;
+&lt;p&gt;After my last breakup, I deleted instagram as I had no more use for it - no more couple photos or stories. Also it would probably save me the penitence of seeing her picture again, and this way I could let time blur those past four years from my mind.&lt;/p&gt;
+&lt;p&gt;These deletion came as the last piece in a “abandoning social media” saga, as I had previously stopped using WhatsApp and other common methods of interaction.&lt;/p&gt;
+&lt;p&gt;I continued using Discord for my “socialization” - In a move I can only describe as “nerd arrogance”, since Discord offers no significant advantage to other communication methods: Its not private, its freemium, and its not open software.
+Back into the modern world of digital bubble gum interactions&lt;/p&gt;
+&lt;p&gt;As my real-life interactions got progressivly better, my “nerd rage against the modern world” diminished.&lt;/p&gt;
+&lt;p&gt;I installed WhatsApp again to the delight of friends and family, as it is a very convenient method of communication (since everyone uses it, although I still have no fond feeling for it)&lt;/p&gt;
+&lt;p&gt;….And I went back to the instagram trap.&lt;/p&gt;
+&lt;p&gt;But it was different this time&lt;/p&gt;
+&lt;p&gt;Honestly, I installed instagram as a soft dating app (note: Went on a total of 0 dates thanks to instagram).&lt;/p&gt;
+&lt;p&gt;This is of course very sad, and only a symptom of a deeper issue (or wound).
+Why did I deleted instagram again
+What social media have I kept
+Epilogue: Finding balance and retrieving back to the mountain&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Self-Hosting part II: A Tale of an Email server and Dilbert comics</title>
+		<link>http://localhost:1313/blog/dilbert_email/</link>
+		<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/dilbert_email/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>The X200 and Half saga, part I: The MoBo Upgrade</title>
+		<link>http://localhost:1313/blog/x200andhalf_1/</link>
+		<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/x200andhalf_1/</guid>
+		<description></description>
+	</item>
 	
 	<item>
 		<title>Hardware Design on a 5$ FPGA from China part I- The Setup (Still coming Soon)</title>
@@ -41,7 +85,7 @@
 &lt;p&gt;The cartridge had 13 photograms taken. I pulled the lever, pressed the trigger and a satisfying &lt;em&gt;click&lt;/em&gt; emerged&amp;hellip;It seemed to work!&lt;/p&gt;
 &lt;p&gt;I repeated this process&amp;hellip;.&lt;em&gt;click click click&lt;/em&gt;&amp;hellip;.and I exhausted the cartridge - time to examine it:&lt;/p&gt;
 &lt;p&gt;Two pieces of platic make up the shell, with a window for the film to be exposed and a little window at the back to count the pictures taken.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Opened Cartridge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/open_cart.jpeg&#34; alt=&#34;Open cartridge&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I manually pulled the film backward, through the little window (honestly the film that was there was probably expired &lt;strong&gt;plus&lt;/strong&gt;).&lt;/p&gt;
 &lt;h1 id=&#34;is-there-a-solution&#34;&gt;Is there a solution?&lt;/h1&gt;
 &lt;p&gt;Great question attentive reader!&lt;/p&gt;
@@ -59,7 +103,6 @@
 &lt;li&gt;Gut out the film from the backing paper, being careful not to rip it&lt;/li&gt;
 &lt;li&gt;Analyze the cartridge and familiarize yourself with its anatomy, take notice of cracks or possible light leaks&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/open_cart.jpeg&#34; alt=&#34;Open cartridge&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Now for the spooling process, João Rodrigues style:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/agfa_setup.jpeg&#34; alt=&#34;The setup&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -148,7 +191,7 @@
 &lt;p&gt;As I was finishing this post for deployment I verified that I might have &lt;strong&gt;broken&lt;/strong&gt; the camera - It seems like the lever isn&amp;rsquo;t pulling properly no more. Years of no-use with the additional experimental method can do this to a banged up, fixed lens, plastic camera&amp;hellip;.&lt;/p&gt;
 &lt;p&gt;I will try to fix it, but this model is also &lt;strong&gt;quite cheap on the second-hand market&lt;/strong&gt;, normally below 15€ - and so, if that time comes, I will just buy a new one, as I&amp;rsquo;ve become addicted to this film format, the method, and the &amp;lsquo;LOmOGRaphY&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/lomo_cope.jpg&#34; alt=&#34;Lomo Copium&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Using orthographic film is also on the to-do list, as it would simplify a lot the hand spooling process (and I also think it looks good)!&lt;/p&gt;
+&lt;p&gt;Using orthographic film is also on the to-do list, as it would simplify (a lot) the hand spooling process (and I also think it looks good)!&lt;/p&gt;
 &lt;p&gt;I will now stop here, as the source-code for this post has 126 lines, which seemed fitting :)&lt;/p&gt;
 &lt;p&gt;Signing off!&lt;/p&gt;
 </description>
@@ -185,7 +228,7 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fabd2f&#34;&gt;cd&lt;/span&gt; /device-info &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# go to the device info directory&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;show &lt;span style=&#34;color:#928374;font-style:italic&#34;&gt;# show current forwading or device-info&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;why-are-you-so-mad&#34;&gt;Why are you so mad?&lt;/h1&gt;
-&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use onr!
+&lt;p&gt;Because I do not expect everyone to feel comfortable around a terminal! Or maybe not even wanting to use one!
 The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/strong&gt; and I think a WebApp/GUI is much more friendly to the common user/newb.&lt;/p&gt;
 &lt;p&gt;Althought this can be seen as an exercise in learning - This does not excuse an ISP to remove features, much less features that without them their users can be harmed.&lt;/p&gt;
 &lt;p&gt;Additionally this shows one of the nastiest things going on on the tech sphere right now - &lt;strong&gt;We the people, are not in control of the technology we are using&lt;/strong&gt; - first they remove the WebApp, one day the (already stunted) terminal interface, and finally port forwarding in total.&lt;/p&gt;
@@ -195,14 +238,16 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 	</item>
 	
 	<item>
-		<title>On deleting my social media and going back to the Digital Hermit path</title>
-		<link>http://localhost:1313/blog/instadelete/</link>
-		<pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+		<title>Gallery</title>
+		<link>http://localhost:1313/gallery/analog/</link>
+		<pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
 		
-		<guid>http://localhost:1313/blog/instadelete/</guid>
-		<description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;h1&gt;&lt;/h1&gt;
-&lt;h1 id=&#34;what-i-kept&#34;&gt;What I kept&lt;/h1&gt;
+		<guid>http://localhost:1313/gallery/analog/</guid>
+		<description>&lt;p&gt;Welcome to my analog photography gallery, the only page in my website that uses JavaScript!&lt;/p&gt;
+&lt;p&gt;Most of the photos here are taken with a Ricoh KR-5 and are normally developed and scanned at the awesome &lt;a href=&#34;https://carmencitafilmlab.com/lisboa/&#34;&gt;Carmencita Lisboa&lt;/a&gt; film lab and scanned in the &lt;a href=&#34;https://nucleodeartefotografica.pt/sobre&#34;&gt;NAF&lt;/a&gt; lab.&lt;/p&gt;
+&lt;p&gt;Sometimes I also develop and scan on my own, with various results (And so, if some photography looks odd, it was probably my fault).&lt;/p&gt;
+&lt;p&gt;All these technical details are available in each photography description, along with a tiny tiny text about it.&lt;/p&gt;
+&lt;p&gt;As of now my favorite stocks to shoot are &lt;strong&gt;Kodak ColorPlus 200&lt;/strong&gt; and &lt;strong&gt;Kentmere Pan 400&lt;/strong&gt;.&lt;/p&gt;
 </description>
 	</item>
 	
@@ -406,7 +451,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		<guid>http://localhost:1313/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/Jr.jpeg&#34;&gt;&lt;figcaption&gt;Me, looking all cool in my worksation at INESC&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/johnny.jpeg&#34;&gt;&lt;figcaption&gt;One of my favourite photos of myself, at the Batalha Monastery, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2025&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. PhD student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt; , with a &lt;a href=&#34;http://localhost:1313/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.&lt;/p&gt;
 &lt;p&gt;I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother&amp;rsquo;s side) and from Lisbon and Portalegre, Alto Alentejo (father&amp;rsquo;s side).&lt;/p&gt;
@@ -452,11 +497,9 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;Smart Urban Agriculture&lt;/li&gt;
 &lt;li&gt;Incremental Manufacturing Processes (3D Printing)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/this_boy_can_lift.png&#34;&gt;&lt;figcaption&gt;Me, showing off my gains from strength training mixed with my love for electronics&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/celorico.jpeg&#34;&gt;&lt;figcaption&gt;Me, in the hometown of my best friend (Duarte)&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;-grep-the-cool-interests-and-curio&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests and Curio&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I go to the gym, like target shooting and enjoy camping
@@ -494,9 +537,11 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/celorico.jpeg&#34;&gt;&lt;figcaption&gt;Me, in the hometown of my best friend (Duarte)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/JojoAndDudu.jpeg&#34;&gt;&lt;figcaption&gt;Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I&amp;#39;m just doing this to joke with her :^] )&lt;/figcaption&gt;&lt;/figure&gt;
 
+&lt;!-- raw HTML omitted --&gt;
 </description>
 	</item>
 	

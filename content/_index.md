@@ -13,7 +13,7 @@ Oh, and thank you for passing by!
 
 {{< grid >}}
 
-{{< image-card src="/about.png" link="/about" caption="About Me" >}}
+{{< image-card src="/admin_icon_2.png" link="/about" caption="About Me" >}}
 
 {{< image-card src="/cv.png" link="/resume.pdf" caption="Resume" >}}
 

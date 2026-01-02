@@ -515,8 +515,8 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		<guid>https://jbcr.pt/setup/</guid>
 		<description>&lt;h1 id=&#34;my-everyday-carry-edc&#34;&gt;My Everyday Carry (EDC)&lt;/h1&gt;
 &lt;p&gt;Normally I carry my EDC in a light brown leather satchel given to me by my parents and in my many pockets.&lt;/p&gt;
-&lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm&lt;/h3&gt;
-&lt;p&gt;My daily-driver portable computer since December 2022, when I bought it from a portuguese government official for the modest price of 180€.&lt;/p&gt;
+&lt;h3 id=&#34;modded-thinkpad-t430-aka-khazad-dûm-i-rip&#34;&gt;Modded Thinkpad T430 aka Khazad-Dûm I (RIP)&lt;/h3&gt;
+&lt;p&gt;My (old, see update) daily-driver portable computer since December 2021, when I bought it from a portuguese government official for the modest price of 180€.&lt;/p&gt;
 &lt;p&gt;Since it was a government machine it came with many priviliges, such as an &lt;strong&gt;embedded card reader&lt;/strong&gt; and a &lt;strong&gt;fingerprint sensor&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Since then, I have also changed many components of it such as: the keyboard, screen, processor, ultrabay and even switched the motherboard for a &lt;strong&gt;Corebooted-one&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
@@ -525,13 +525,20 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerfull computers at INESC-ID.&lt;/p&gt;
-&lt;h3 id=&#34;modded-thinkpad-x200-aka-aglarond&#34;&gt;Modded Thinkpad X200 aka Aglarond&lt;/h3&gt;
+&lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerful computers at INESC-ID.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: As of January 2026 the original Khazad-Dûm seems to have died. After months of inactivity, it failed to boot from the disk, displaying corrupted colourful blocks. After that it stopped achieving POST. I will try to find a way to fix it, but for now it is a RIP to this old, old friend.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+
+&lt;figure &gt;&lt;img src=&#34;https://jbcr.pt/rip_t430.jpg&#34;&gt;&lt;figcaption&gt;Gone, but not forgotten&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;modded-thinkpad-x200-aka-khazad-dûm-ii&#34;&gt;Modded Thinkpad X200 aka Khazad-Dûm II&lt;/h3&gt;
 &lt;p&gt;My second daily-driver computer, which has recently become my go to.&lt;/p&gt;
-&lt;p&gt;Aglarond normally drives the &lt;strong&gt;Khazad-Dûm SSD&lt;/strong&gt;, as I rarely need both computers at the same time.
+&lt;p&gt;The x200 normally drives the &lt;strong&gt;Khazad-Dûm SSD&lt;/strong&gt;, as I rarely need both computers at the same time.
 This 12-inch machine is incredibly lightweight and portable, sturdy, lets me surf the web, work on my terminal and SSH into powerful machines if needed be.&lt;/p&gt;
 &lt;p&gt;It just &lt;strong&gt;Just Works&lt;/strong&gt;™!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve bought a X201 MoBo to upgrade it, and soon the wifi and BIOS will be upgraded too, to increase this delightful machine&amp;rsquo;s lifespan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; As of January 2026 the X200 (fka Aglarond) as been re-baptized as Khazad-Dûm, after the apparent death of its predecessor. It is now my daily driver.&lt;/p&gt;
 &lt;h3 id=&#34;the-rest&#34;&gt;The Rest&lt;/h3&gt;
 &lt;p&gt;Normally, in my day to day I also carry:&lt;/p&gt;
 &lt;ul&gt;
@@ -542,7 +549,7 @@ This 12-inch machine is incredibly lightweight and portable, sturdy, lets me sur
 &lt;/li&gt;
 &lt;li&gt;A HONOR 90 Lite cellphone&lt;/li&gt;
 &lt;li&gt;My &lt;strong&gt;Hunter Lockblade Swiss Army knife&lt;/strong&gt; from the &amp;rsquo;90s&lt;/li&gt;
-&lt;li&gt;My &lt;strong&gt;smoking pipe&lt;/strong&gt; and a tin of tobacco&lt;/li&gt;
+&lt;li&gt;My &lt;strong&gt;smoking pipe&lt;/strong&gt; and a tin of tobacco or a cigarrete pack&lt;/li&gt;
 &lt;li&gt;My House and HackerSchool keys, in a Ubuntu keychain&lt;/li&gt;
 &lt;li&gt;A &lt;strong&gt;book&lt;/strong&gt; for reading during breaks
 &lt;ul&gt;

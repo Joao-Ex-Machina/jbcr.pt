@@ -6,18 +6,23 @@ draft = true
 +++
 
 Yup, that’s right I deleted most of my social media (again), in this case I deleted instagram (again).
-Prologue: There and back again
+
+
+#Prologue: There and back again
 
 “Wait a second….again?”
 
 Yes indeed attentive reader - again
 
-After my last breakup, I deleted instagram as I had no more use for it - no more couple photos or stories. Also it would probably save me the penitence of seeing her picture again, and this way I could let time blur those past four years from my mind.
+After my last breakup, I deleted instagram as I had no more use for it - no more couple photos or stories. 
+Also this would time would better blur those past four years from my mind.
 
 These deletion came as the last piece in a “abandoning social media” saga, as I had previously stopped using WhatsApp and other common methods of interaction.
 
 I continued using Discord for my “socialization” - In a move I can only describe as “nerd arrogance”, since Discord offers no significant advantage to other communication methods: Its not private, its freemium, and its not open software.
-Back into the modern world of digital bubble gum interactions
+
+
+##Back into the modern world of digital bubble gum interactions
 
 As my real-life interactions got progressivly better, my “nerd rage against the modern world” diminished.
 
@@ -29,7 +34,8 @@ But it was different this time
 
 Honestly, I installed instagram as a soft dating app (note: Went on a total of 0 dates thanks to instagram).
 
-This is of course very sad, and only a symptom of a deeper issue (or wound).
-Why did I deleted instagram again
-What social media have I kept
-Epilogue: Finding balance and retrieving back to the mountain
+This is of course very sad, and only a symptom of a deeper issue.
+
+# Why did I deleted instagram again
+# What social media have I kept
+# Epilogue: Finding balance and retrieving back to the mountain

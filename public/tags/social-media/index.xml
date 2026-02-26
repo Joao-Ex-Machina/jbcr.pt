@@ -350,8 +350,15 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 &lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
 &lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found on a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/t410-server.jpeg&#34; alt=&#34;My Thinkpad T410 server after the full setup, running Wireshark &#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      My Thinkpad T410 server after the full setup, running Wireshark 
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/t410-server.jpeg&#34;&gt;&lt;figcaption&gt;My Thinkpad T410 server after the full setup, running Wireshark &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;I already had a spare SSD and I had bought some broken keyboards to fix the missing keys (&lt;strong&gt;Thank you Margarida Gralha&lt;/strong&gt; for picking them up). I assembled it, flashed Ubuntu into that machine, named it Erebor and called it a day.&lt;/p&gt;
@@ -477,8 +484,15 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		
 		<guid>http://localhost:1313/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/graduation2.jpeg&#34; alt=&#34;One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/johnny.jpeg&#34;&gt;&lt;figcaption&gt;One of my favourite photos of myself, at the Batalha Monastery, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2025&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. PhD student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt; , with a &lt;a href=&#34;http://localhost:1313/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.&lt;/p&gt;
 &lt;p&gt;I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother&amp;rsquo;s side) and from Lisbon and Portalegre, Alto Alentejo (father&amp;rsquo;s side).&lt;/p&gt;
@@ -492,8 +506,15 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;Computer Architectures&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I enjoyed this experience throughly, having won the &lt;strong&gt;Excelence in Teaching&lt;/strong&gt; award for the school year of 23/24.&lt;/p&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/me_III.png&#34; alt=&#34;Obligatory analog mirror selfie, in Castro Verde&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      Obligatory analog mirror selfie, in Castro Verde
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/me_III.png&#34;&gt;&lt;figcaption&gt;Obligatory analog mirror selfie, in Castro Verde&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;I have also been &lt;strong&gt;hackin&amp;rsquo; and tinkerin&amp;rsquo;&lt;/strong&gt; while involved with the &lt;a href=&#34;https://hackerschool.dev&#34;&gt;HackerSchool&lt;/a&gt; hackerspace, which I belong to since 2021. At HackerSchool I have assumed the following functions:&lt;/p&gt;
 &lt;ul&gt;
@@ -524,8 +545,15 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;Smart Urban Agriculture&lt;/li&gt;
 &lt;li&gt;Incremental Manufacturing Processes (3D Printing)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/celorico.jpeg&#34; alt=&#34;Me, in the hometown of my best friend (Duarte)&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      Me, in the hometown of my best friend (Duarte)
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/celorico.jpeg&#34;&gt;&lt;figcaption&gt;Me, in the hometown of my best friend (Duarte)&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&#34;-grep-the-cool-interests-and-curio&#34;&gt;&amp;gt; grep &amp;ldquo;The &amp;lsquo;Cool&amp;rsquo; Interests and Curio&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
@@ -534,13 +562,13 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;li&gt;But I am not a gym bro, just a gym buddy :)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m into &lt;a href=&#34;http://localhost:1313/gallery/analog&#34;&gt;analog photography&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;I &lt;strong&gt;enjoy cooking&lt;/strong&gt; and barbecueing&lt;/li&gt;
 &lt;li&gt;I like to produce spirits and I&amp;rsquo;m learning more on home brewing&lt;/li&gt;
 &lt;li&gt;I smoke a pipe&lt;/li&gt;
 &lt;li&gt;I &lt;strong&gt;really like dogs&lt;/strong&gt; and I am medically &lt;strong&gt;alergic to cats&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;I have strabismus, and had corrective eye surgery (that&amp;rsquo;s why my right eyelid droops a bit)&lt;/li&gt;
 &lt;li&gt;I like traveling, especially inside the portuguese territory&lt;/li&gt;
-&lt;li&gt;I do a bit of &lt;a href=&#34;http://localhost:1313/gallery/analog&#34;&gt;analog photography&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Finally I am a &lt;a href=&#34;http://localhost:1313/nerd.gif&#34;&gt;huge nerd&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;I am really &lt;strong&gt;interested in History&lt;/strong&gt; (since I was a kid)
@@ -565,8 +593,15 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/JojoAndDudu.jpeg&#34; alt=&#34;Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I&amp;#39;m just doing this to troll her :^] )&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I&amp;#39;m just doing this to troll her :^] )
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/JojoAndDudu.jpeg&#34;&gt;&lt;figcaption&gt;Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I&amp;#39;m just doing this to joke with her :^] )&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -635,15 +670,29 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;Since then, I have also changed many components of it such as: the keyboard, screen, processor, ultrabay and even switched the motherboard for a &lt;strong&gt;Corebooted-one&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/t430info.png&#34; alt=&#34;My T430 neofetch output&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      My T430 neofetch output
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/t430info.png&#34;&gt;&lt;figcaption&gt;My T430 neofetch output&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado suite smoothly (although a bit slowly), surfs the web and allows me to SSH and RDP into more powerful computers at INESC-ID.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: As of January 2026 the original Khazad-Dûm seems to have died. After months of inactivity, it failed to boot from the disk, displaying corrupted colourful blocks. After that it stopped achieving POST. I will try to find a way to fix it, but for now it is a RIP to this old, old friend.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/rip_t430.jpg&#34; alt=&#34;Gone, but not forgotten&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  
+    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
+      Gone, but not forgotten
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/rip_t430.jpg&#34;&gt;&lt;figcaption&gt;Gone, but not forgotten&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;modded-thinkpad-x200-aka-khazad-dûm-ii&#34;&gt;Modded Thinkpad X200 aka Khazad-Dûm II&lt;/h3&gt;

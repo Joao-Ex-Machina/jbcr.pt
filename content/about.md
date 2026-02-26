@@ -7,7 +7,7 @@ nextprev: false
 # > whoami
 
 
-{{<img caption="One of my favourite photos of myself, at the Batalha Monastery, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2025" size="400x" src=/johnny.jpeg style="text-align:center;" >}}
+{{<img caption="One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026" src=/graduation2.jpeg style="text-align:center;" >}}
 
 I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
 
@@ -60,13 +60,13 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 
 - I go to the gym, like target shooting and enjoy camping
     - But I am not a gym bro, just a gym buddy :)
+- I'm into [analog photography](/gallery/analog)
 - I **enjoy cooking** and barbecueing
 - I like to produce spirits and I'm learning more on home brewing
 - I smoke a pipe
 - I **really like dogs** and I am medically **alergic to cats**
 - I have strabismus, and had corrective eye surgery (that's why my right eyelid droops a bit)
 - I like traveling, especially inside the portuguese territory
-- I do a bit of [analog photography](/gallery/analog)
 - Finally I am a [huge nerd](/nerd.gif)
     - I am really **interested in History** (since I was a kid)
         - Pre-Roman Celtiberian Civilizations (such as Celtici and Lusitani)
@@ -84,7 +84,7 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 
 <center>
 
-{{<img caption="Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I'm just doing this to joke with her :^] )" src=/JojoAndDudu.jpeg >}}
+{{<img caption="Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I'm just doing this to troll her :^] )" src=/JojoAndDudu.jpeg >}}
 
 
 </center>

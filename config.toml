@@ -1,0 +1,12 @@
+baseURL = 'https://jbcr.pt/'
+languageCode = 'en-us'
+title = "João Rodrigues' Slick Site"
+
+theme = 'lugo_2'
+
+[markup]
+  [markup.highlight]
+    noClasses = true      # Use CSS classes for styling
+    style = "gruvbox"       # Choose a color scheme (e.g., "dracula", "monokai", etc.)
+    lineNos = false          # Show line numbers if desired
+    lineNumbersInTable = true # Places line numbers in a table

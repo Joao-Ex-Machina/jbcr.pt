@@ -1,8 +1,8 @@
 +++
 title = 'The X200 and a half saga'
-date = 2025-12-19
+date = 2026-04-12
 tags = ['Tech','Thinkpad', 'Motherboard', 'Firmware']
-draft = true
+draft = false
 +++
 
 
@@ -96,32 +96,62 @@ The most recent MoBo upgrade you can do is to the x201 motherboard (No I was not
 
 This machine, has some considerable upgrades to the x200 namely the CPU, which is normally a 1st gen Core i5 with Hyper-Threading. Basically better compile times, better internet browsing, possible better "gaming" (I only play Doom, Doom 2, Slay the Spire....and sometimes TF2).
 
+![The setup](/x200_setup.jpg)
+
 The teardown was easy enough, as I reached the MoBo in no time.
 
-![Tore down X200]()
+![Tore down X200](/x200_teardown.jpg)
 
 As I prepared to transplant the new board, something did not feel quite right, there were a lot of screw holes that were out of place, and the heatsink which I made sure was compatible between x200 and x201...was not really compatible (I just took the beefy fan and screw it to the old heatsink, thankfully the fan connectors were compatible)
-
-
 I proped everything for boot and....It booted
+
+![Booting in....](/x200_boot.jpg)
+
 Every thing was great-ish! Was I being paranoid? Was I not careful checking different SKUs for the x201?
 
 ## The great betrayal!
 
 _Narrator's voice: Every thing was not great-ish indeed, it was far far worse-ish_
 
-Yup, my happiness did not last very long, as ear-splitting _beep_ 
+Yup, my happiness did not last very long, as a ear-splitting _beep_ rang from the X200 (and a half) speakers.
+
+As it appeared the WiFi card was not on the whitelist...Although I had made sure that the x200 WiFi card was on the x201 whitelist, so that I could use the computer without having to remove the BIOS whitelist, until the new WiFi card arrived.
+
+I then removed the offending peripheral. Everything booted great and, after a simple $\texttt{hostnamectl}$, all became crystal clear:
+
+![Betrayal, I say](/x200_tablet.jpg)
+
+Do you see the problem? I did not have a x201 MoBo, I was sent a X201 tablet MoBo (which is a teensy bit more beefy). 
+Finally all made sense, the disjointed screw holes, the whitelist...
+
+In this day and age a computer without internet access is as good as a unplugged one, and so I no other choice than remove the BIOS whitelist.
 
 
 ## The Firmware update sub-saga
 
+_This process can brick your Computer yadda yadda I have no accountability for turning your PC into a paperweight, do it at your own risk_
 
+First of all I want to thank Richard Barnes for his [article about installing a new WiFi card on a x201 thinkpad](https://richbits.rbarnes.org/installing-the-intel-7260-in-the-thinkpad-x201.html), this section is almost entirely based on it - Thank you RichBits!
 
+I won't bother you with the details, but basically you have to update the BIOS to the more recent version (using the Lenovo EC - easy enough)
 
+![The EC update screen](/x200_EC.jpg)
+
+And then run a PHFLASH.EXE to modify the BIOS, to run this flasher you need a DOS system.
+Richard suggests you use uNetBootin version of FreeDOS, I could not make it work so I just got my image from [here](https://freedos.org/)
+
+![PHFLASH running](/x200_Flash.jpg)
+
+If you reach this stage, everything worked:
+
+![PHFLASH completed](/x200_Flash2.jpg)
+
+Just an addendum to Rich, this method **also worked on the x201t!** (Yes I went on it blind, if it did not work, I was ready to get a new MoBo anyway)
 
 # Conclusions and the next steps
 
+What did we learn?
 
+Well, primarly **do not make the same mistakes as me**. Always check SKUs, and overall always be ready for a possible brick-ification of your computer. You'll always learn from mistakes, painful as they may be. Luckily in the end, all went smooth as I am finishing typing this post on my X200.5 Thinkpad.
 
-
-And now I have to buy a decent enough battery for it
+And now I have to buy a decent enough battery for it!

@@ -5,10 +5,110 @@
 	<description>Recent content in Tech on João Rodrigues&#39; Slick Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Thu, 13 Nov 2025 13:40:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://jbcr.pt/tags/tech/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>The X200 and a half saga</title>
+		<link>https://jbcr.pt/blog/x200andhalf_1/</link>
+		<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/blog/x200andhalf_1/</guid>
+		<description>&lt;h1 id=&#34;backstory---thinkpads-and-me&#34;&gt;Backstory - Thinkpads and me&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;How did our glorious hero fall into the ThinkPad rabbit hole?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Well, it all started in 2021, a little after adopting Linux as my only OS (I use arch btw). I was enjoying the new life of my Ideapad&amp;hellip;which did not last much long.&lt;/p&gt;
+&lt;p&gt;During the pandemic I developed the horrible habit of going to bed with my computer, which prompted me to wake-up in the middle of the night with a loud &lt;em&gt;THUMP&lt;/em&gt; of my computer hitting the floor.&lt;/p&gt;
+&lt;p&gt;And now dear reader you think: Did he change this habit after the computer falling too many times? I absolutely &lt;em&gt;did not&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;All this accumulated damaged and fatigue started wearing on the chassis, particularly on the side of the power port. By the time I was finishing the Algorithms and Data Structures course at the end of the second year&amp;rsquo;s first quarter I was using the Ideapad with a large metal clamp to ensure the connectivity of the charger (the battery also started to wear off by this time - as the computer had ran a 6.5 year cycle of daily use and abuse).&lt;/p&gt;
+&lt;p&gt;I did not need much convincing about having to retire this laptop, however I did have to convince others that replacing it by a Thinkpad from 2013, bought from a goverment official, by the cheap price of a little over 100€, was in fact a good idea. That&amp;rsquo;s how I acquired the T430 (Khâzad-Dûm) Thinkpad, which I daily drived for the remainder of my BSc and MSc.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;But you&amp;rsquo;re talking about a T430 Thinkpad, how did you get the x200?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Fun story: This X200 (Aglarond) was bought as a Linux replacement for Martim after we (presumably) fried his old Linux laptop while trying to upgrade it (we in fact did not, we only super-charged the security capacitors, and therefore that same computer was restored a year later). And so this X200 was bought as a joint venture where Martim contributed 25% of the moolah and I contributed 75% (I felt bad for having (presumably) fried his PC at the time - a guy has feelings).&lt;/p&gt;
+&lt;h1 id=&#34;the-x200-and-me&#34;&gt;The X200 and me&lt;/h1&gt;
+&lt;p&gt;Honestly, I have kinda been an absent father to the X200, with this machine being used by Martim for around 75% of its lifetime.&lt;/p&gt;
+&lt;p&gt;Has I regularly upgraded the T430: new battery pack, new screen , dock station, installed a corebooted MoBo on it&amp;hellip;you name it!&lt;/p&gt;
+&lt;p&gt;Damn did I enjoy the heck of it, It is still my favourite machine.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;But&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But when it came to travelling I was craving something &lt;em&gt;lighter&lt;/em&gt;, something more &lt;em&gt;portable&lt;/em&gt;, like  a 12&amp;rsquo;&amp;rsquo; Thinkpad for example :)&lt;/p&gt;
+&lt;p&gt;Also the T430 hinges have &lt;a href=&#34;https://www.reddit.com/r/thinkpad/comments/10yv52b/repairing_t430_hinges/&#34;&gt;this problem&lt;/a&gt; where they break and its a pain to replace them.&lt;/p&gt;
+&lt;p&gt;And so, like the Don Corleone to the undertaker Bonasera, I asked Martim for a favour&amp;hellip;For the X200 to come into my possesion for some time.&lt;/p&gt;
+&lt;p&gt;Altough I like to joke that the T430 was my back and leg workout, I soon understood why the classic X-series is so famous - this guy is seriously &lt;em&gt;ultra&lt;/em&gt; portable, I don&amp;rsquo;t even feel it in my bag! Its amazing!&lt;/p&gt;
+&lt;h1 id=&#34;why-upgrading-it&#34;&gt;Why upgrading it?&lt;/h1&gt;
+&lt;p&gt;Although the X200 is a ultra-portable machine, it is not a very powerful one.&lt;/p&gt;
+&lt;p&gt;This guy was released in 2008, just to put into perspective:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The global financial crisis had started&lt;/li&gt;
+&lt;li&gt;It was the year that Obama was first elected&lt;/li&gt;
+&lt;li&gt;CERN launched the LHC&lt;/li&gt;
+&lt;li&gt;Google Chrome was released&lt;/li&gt;
+&lt;li&gt;The first Android phone was released&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In Portugal:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;José Sócrates was still prime-minister&lt;/li&gt;
+&lt;li&gt;The Magalhães laptop was released in Portugal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And most importantly:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I was 6 years old :D&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So yeah, 2008 was a long time ago&amp;hellip;.And so the x200, as the SOTA machine it was, came with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Intel Core 2 Duo&lt;/li&gt;
+&lt;li&gt;RAM: 1–4 GB DDR3&lt;/li&gt;
+&lt;li&gt;Storage: 160–320 GB HDD&lt;/li&gt;
+&lt;li&gt;OS: Windows XP Professional&lt;/li&gt;
+&lt;li&gt;WiFi card: A 802.11a/b/g/n, 300 Mbps Intel 5100&lt;/li&gt;
+&lt;li&gt;A damned modem port&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, the x200 did not came to our hands with all this junkware, by the time it came into our possesion it had 4GB of RAM and a shoddy SSD (those that are basically a USB pen drive inside).&lt;/p&gt;
+&lt;h1 id=&#34;the-plan-&#34;&gt;The Plan (?)&lt;/h1&gt;
+&lt;p&gt;I think Martim replaced the shoddy SSD, but, since the X200 was his Linux work machine there were not many more upgrades during Martim&amp;rsquo;s era.&lt;/p&gt;
+&lt;p&gt;But when it came to João&amp;rsquo;s era, all inhibition was lost:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The RAM was upgraded to the maximum of 2xR8 8GB (it had to be 2xR8 sticks)&lt;/li&gt;
+&lt;li&gt;Eventualy I started driving Khâzad-Dûm&amp;rsquo;s SSD too (2TB Samsung beast)&lt;/li&gt;
+&lt;li&gt;The Core Duo CPU is soldered&amp;hellip;so the Motherboard had to be upgraded to a x201 one&lt;/li&gt;
+&lt;li&gt;The WiFi card update was a must, as those doodoo download and upload rates weren&amp;rsquo;t cutting it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And now my watch begins&lt;/p&gt;
+&lt;h1 id=&#34;the-mobo-upgrade&#34;&gt;The MoBo Upgrade&lt;/h1&gt;
+&lt;p&gt;The most recent MoBo upgrade you can do is to the x201 motherboard (No I was not going to spend 2000$ for those custom made chinese Motherboards that convert a x200 into a machine from the 2020&amp;rsquo;s).&lt;/p&gt;
+&lt;p&gt;This machine, has some considerable upgrades to the x200 namely the CPU, which is normally a 1st gen Core i5 with Hyper-Threading. Basically better compile times, better internet browsing, possible better &amp;ldquo;gaming&amp;rdquo; (I only play Doom, Doom 2, Slay the Spire&amp;hellip;.and sometimes TF2).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_setup.jpg&#34; alt=&#34;The setup&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The teardown was easy enough, as I reached the MoBo in no time.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_teardown.jpg&#34; alt=&#34;Tore down X200&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As I prepared to transplant the new board, something did not feel quite right, there were a lot of screw holes that were out of place, and the heatsink which I made sure was compatible between x200 and x201&amp;hellip;was not really compatible (I just took the beefy fan and screw it to the old heatsink, thankfully the fan connectors were compatible)
+I proped everything for boot and&amp;hellip;.It booted&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_boot.jpg&#34; alt=&#34;Booting in&amp;hellip;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Every thing was great-ish! Was I being paranoid? Was I not careful checking different SKUs for the x201?&lt;/p&gt;
+&lt;h2 id=&#34;the-great-betrayal&#34;&gt;The great betrayal!&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Narrator&amp;rsquo;s voice: Every thing was not great-ish indeed, it was far far worse-ish&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yup, my happiness did not last very long, as a ear-splitting &lt;em&gt;beep&lt;/em&gt; rang from the X200 (and a half) speakers.&lt;/p&gt;
+&lt;p&gt;As it appeared the WiFi card was not on the whitelist&amp;hellip;Although I had made sure that the x200 WiFi card was on the x201 whitelist, so that I could use the computer without having to remove the BIOS whitelist, until the new WiFi card arrived.&lt;/p&gt;
+&lt;p&gt;I then removed the offending peripheral. Everything booted great and, after a simple $\texttt{hostnamectl}$, all became crystal clear:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_tablet.jpg&#34; alt=&#34;Betrayal, I say&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Do you see the problem? I did not have a x201 MoBo, I was sent a X201 tablet MoBo (which is a teensy bit more beefy).
+Finally all made sense, the disjointed screw holes, the whitelist&amp;hellip;&lt;/p&gt;
+&lt;p&gt;In this day and age a computer without internet access is as good as a unplugged one, and so I no other choice than remove the BIOS whitelist.&lt;/p&gt;
+&lt;h2 id=&#34;the-firmware-update-sub-saga&#34;&gt;The Firmware update sub-saga&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This process can brick your Computer yadda yadda I have no accountability for turning your PC into a paperweight, do it at your own risk&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;First of all I want to thank Richard Barnes for his &lt;a href=&#34;https://richbits.rbarnes.org/installing-the-intel-7260-in-the-thinkpad-x201.html&#34;&gt;article about installing a new WiFi card on a x201 thinkpad&lt;/a&gt;, this section is almost entirely based on it - Thank you RichBits!&lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t bother you with the details, but basically you have to update the BIOS to the more recent version (using the Lenovo EC - easy enough)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_EC.jpg&#34; alt=&#34;The EC update screen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And then run a PHFLASH.EXE to modify the BIOS, to run this flasher you need a DOS system.
+Richard suggests you use uNetBootin version of FreeDOS, I could not make it work so I just got my image from &lt;a href=&#34;https://freedos.org/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_Flash.jpg&#34; alt=&#34;PHFLASH running&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you reach this stage, everything worked:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jbcr.pt/x200_Flash2.jpg&#34; alt=&#34;PHFLASH completed&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Just an addendum to Rich, this method &lt;strong&gt;also worked on the x201t!&lt;/strong&gt; (Yes I went on it blind, if it did not work, I was ready to get a new MoBo anyway)&lt;/p&gt;
+&lt;h1 id=&#34;conclusions-and-the-next-steps&#34;&gt;Conclusions and the next steps&lt;/h1&gt;
+&lt;p&gt;What did we learn?&lt;/p&gt;
+&lt;p&gt;Well, primarly &lt;strong&gt;do not make the same mistakes as me&lt;/strong&gt;. Always check SKUs, and overall always be ready for a possible brick-ification of your computer. You&amp;rsquo;ll always learn from mistakes, painful as they may be. Luckily in the end, all went smooth as I am finishing typing this post on my X200.5 Thinkpad.&lt;/p&gt;
+&lt;p&gt;And now I have to buy a decent enough battery for it!&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Lomography part I: Using a discontinued format camera</title>

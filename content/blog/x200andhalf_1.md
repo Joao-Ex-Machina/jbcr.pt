@@ -2,7 +2,6 @@
 title = 'The X200 and a half saga'
 date = 2026-04-11
 tags = ['Tech','Thinkpad', 'Motherboard', 'Firmware']
-draft = true
 +++
 
 

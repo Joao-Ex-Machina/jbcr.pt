@@ -64,19 +64,18 @@ In Portugal:
 
 And most importantly:
 
-- I was 6 years old
+- I was 6 years old :D
 
 
-So yeah, 2008 was a long time ago....And so the x200, has the SOTA machine it was came with:
+So yeah, 2008 was a long time ago....And so the x200, as the SOTA machine it was, came with:
 - CPU: Intel Core 2 Duo
-Chipset: Intel GM45
 - RAM: 1–4 GB DDR3
 - Storage: 160–320 GB HDD
 - OS: Windows XP Professional
 - WiFi card: A 802.11a/b/g/n, 300 Mbps Intel 5100
 - A damned modem port
 
-Of course, the x200 did not came to our hands with all this hardware, by the time it came into our possesion it had 4GB of RAM and a shoddy SSD (those that are basically a USB pen drive inside).
+Of course, the x200 did not came to our hands with all this junkware, by the time it came into our possesion it had 4GB of RAM and a shoddy SSD (those that are basically a USB pen drive inside).
 
 # The Plan (?)
 
@@ -89,21 +88,35 @@ But when it came to João's era, all inhibition was lost:
 - The Core Duo CPU is soldered...so the Motherboard had to be upgraded to a x201 one
 - The WiFi card update was a must, as those doodoo download and upload rates weren't cutting it 
 
-And now my watch begins....
+And now my watch begins
 
 # The MoBo Upgrade
 
+The most recent MoBo upgrade you can do is to the x201 motherboard (No I was not going to spend 2000$ for those custom made chinese Motherboards that convert a x200 into a machine from the 2020's).
 
-## Disassembly
+This machine, has some considerable upgrades to the x200 namely the CPU, which is normally a 1st gen Core i5 with Hyper-Threading. Basically better compile times, better internet browsing, possible better "gaming" (I only play Doom, Doom 2, Slay the Spire....and sometimes TF2).
+
+The teardown was easy enough, as I reached the MoBo in no time.
+
+![Tore down X200]()
+
+As I prepared to transplant the new board, something did not feel quite right, there were a lot of screw holes that were out of place, and the heatsink which I made sure was compatible between x200 and x201...was not really compatible (I just took the beefy fan and screw it to the old heatsink, thankfully the fan connectors were compatible)
 
 
-## Re-Assembly
-
+I proped everything for boot and....It booted
+Every thing was great-ish! Was I being paranoid? Was I not careful checking different SKUs for the x201?
 
 ## The great betrayal!
 
+_Narrator's voice: Every thing was not great-ish indeed, it was far far worse-ish_
+
+Yup, my happiness did not last very long, as ear-splitting _beep_ 
+
 
 ## The Firmware update sub-saga
+
+
+
 
 
 # Conclusions and the next steps

@@ -7,14 +7,13 @@ nextprev: false
 # > whoami
 
 
-{{<img caption="One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026" src=/graduation2.jpeg style="text-align:center;" >}}
+{{<img caption="One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026" src=/graduation_resized.jpeg style="text-align:center;" >}}
 
 I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
 
 I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother's side) and from Lisbon and Portalegre, Alto Alentejo (father's side).
 
-
-My PhD project - **SMARTCHIP** - has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.
+As of now I am a member of the **SMARTCHIP** project, which has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.
 
 I finished my ECE Master's in November 2025, having majored in **Computer Systems** and minoring in **Electronic Circuits and Systems**. For my MSc Thesis I designed **ARES**, a Hardware/Software Co-Designed Embedded System for a Swin Transformer Layer execution, targeting aerial image segmentation. This work was developed at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. My thesis was awarded a 19/20 grade.
 
@@ -63,7 +62,8 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
 - I'm into [analog photography](/gallery/analog)
 - I **enjoy cooking** and barbecueing
 - I like to produce spirits and I'm learning more on home brewing
-- I smoke a pipe
+- I have an overall interest in everyday and darkroom chemistry 
+- I smoke a pipe sometimes
 - I **really like dogs** and I am medically **alergic to cats**
 - I have strabismus, and had corrective eye surgery (that's why my right eyelid droops a bit)
 - I like traveling, especially inside the portuguese territory

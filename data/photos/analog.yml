@@ -5,7 +5,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW"]
 
 - filename: "cdb_1.jpg"
   title: "Medium Format experiments in Celorico"
@@ -14,7 +14,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW"]
 
 - filename: "cdb_2.jpg"
   title: "Medium Format experiments in Celorico"
@@ -23,7 +23,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW"]
 
 - filename: "cdb_3.jpg"
   title: "Medium Format experiments in Celorico"
@@ -32,7 +32,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW"]
 
 
 
@@ -280,7 +280,7 @@
   tags: []
 
 - filename: "ovelhas.jpg"
-  title: "This is, of course, a social commentary on the current political situation of..."
+  title: "Shaky sheep, this is, of course, a social commentary on the current political situation of..."
   date: 2026
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
@@ -289,14 +289,13 @@
   tags: ["DIY-Dev", "BnW"]
 
 - filename: "ovelhas_1.jpg"
-  title: "This is, of course, a social commentary on the... No I can't do the joke twice, just some pretty metal sheep"
+  title: "Some more shaky sheep, this is, of course, a social commentary on the... No I can't do the joke twice, just some pretty f*** heavy metal sheep"
   date: 2026
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Ilford FP4"
   tags: ["DIY-Dev", "BnW"]
-
 
 
 - filename: "SintraLomo.JPG"
@@ -694,7 +693,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW"]
 
 
 - filename: "Mill-bw.jpg"
@@ -749,7 +748,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium Format", "Light Leak" ,"DIY-Dev","BnW"]
+  tags: ["Medium-Format", "Light-Leak" ,"DIY-Dev","BnW"]
 
 - filename: "self.jpg"
   title: "Self portrait"

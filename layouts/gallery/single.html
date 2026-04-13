@@ -42,14 +42,35 @@
       {{ end }}
     </div>
   </div>
+
+  <!-- Album filters -->
+  <div class="filter-group">
+    <label>Year:</label>
+    <div id="date-filters">
+      <button data-date="all" class="active">All</button>
+      {{ $allDate := slice }}
+      {{ range site.Data.photos.analog }}
+        {{ if not (in $allDate .date) }}
+          {{ $allDate = $allDate | append .date }}
+        {{ end }}
+      {{ end }}
+      {{ range $allDate }}
+        <button data-date="{{ . }}">{{ . }}</button>
+      {{ end }}
+    </div>
+  </div>
 </div>
+
+
+
 
 <!-- Gallery grid -->
 <div class="masonry-gallery" id="photo-gallery">
   {{ range site.Data.photos.analog }}
     <div class="masonry-item" 
          data-tags='{{ if .tags }}{{ delimit .tags " " }}{{ end }}' 
-         data-album="{{ .album }}">
+         data-album="{{ .album }}"
+	 data-date="{{.date}}">
       <a href="/photos/analog/{{ .filename }}" class="glightbox" data-title='
         <div class="photo-info">
           <strong>{{ .title }}</strong><br>
@@ -73,10 +94,12 @@ let lightbox;
 // Filter state
 let activeTag = 'all';
 let activeAlbum = 'all';
+let activeDate = 'all';
 
 // Get all filter buttons and gallery items
 const tagButtons = document.querySelectorAll('#tag-filters button');
 const albumButtons = document.querySelectorAll('#album-filters button');
+const dateButtons = document.querySelectorAll('#date-filters button');
 const items = document.querySelectorAll('.masonry-item');
 
 // Function to initialize/reinitialize lightbox
@@ -96,12 +119,14 @@ function initializeLightbox() {
 function applyFilters() {
   items.forEach(item => {
     const tags = item.dataset.tags ? item.dataset.tags.split(" ") : [];
-    const album = item.dataset.album;
-    
+    const album = item.dataset.album; 
+    const date = item.dataset.date;
+
     const tagMatch = activeTag === 'all' || tags.includes(activeTag);
     const albumMatch = activeAlbum === 'all' || album === activeAlbum;
-    
-    item.style.display = (tagMatch && albumMatch) ? 'block' : 'none';
+    const dateMatch = activeDate === 'all' || date === activeDate;
+
+    item.style.display = (tagMatch && albumMatch && dateMatch) ? 'block' : 'none';
   });
   
   // Reinitialize lightbox with filtered images
@@ -127,6 +152,17 @@ albumButtons.forEach(btn => {
     applyFilters();
   });
 });
+
+// data filtering
+dateButtons.forEach(btn => {
+  btn.addEventListener('click', () => {
+    dateButtons.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeDate = btn.dataset.date;
+    applyFilters();
+  });
+});
+
 
 // Initialize lightbox on page load
 initializeLightbox();
@@ -156,13 +192,13 @@ initializeLightbox();
 }
 
 /* Filter buttons */
-#tag-filters, #album-filters {
+#tag-filters, #album-filters, #date-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
-#tag-filters button, #album-filters button {
+#tag-filters button, #album-filters button, #date-filters button {
   padding: 8px 16px;
   border: 1px solid #666;
   background: #666;
@@ -173,7 +209,7 @@ initializeLightbox();
   transition: all 0.2s ease;
 }
 
-#tag-filters button:hover, #album-filters button:hover {
+#tag-filters button:hover, #album-filters button:hover, #date-filters button:hover{
   background: #777;
   border-color: #adb5bd;
 }
@@ -189,6 +225,13 @@ initializeLightbox();
   color: white;
   border-color: #28a745;
 }
+
+#date-filters button.active {
+  background: #007BFF;
+  color: white;
+  border-color: #007BFF;
+}
+
 
 /* Masonry */
 .masonry-gallery {

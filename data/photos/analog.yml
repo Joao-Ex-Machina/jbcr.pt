@@ -1,3 +1,41 @@
+- filename: "cdb_0.jpg"
+  title: "Medium Format experiments in Celorico"
+  date: 2026
+  album: "Celorico"
+  camera: "Lubitel 2"
+  lens: "LOMO T-22 75/4.5"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["Medium Format","DIY-Dev","BnW"]
+
+- filename: "cdb_1.jpg"
+  title: "Medium Format experiments in Celorico"
+  date: 2026
+  album: "Celorico"
+  camera: "Lubitel 2"
+  lens: "LOMO T-22 75/4.5"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["Medium Format","DIY-Dev","BnW"]
+
+- filename: "cdb_2.jpg"
+  title: "Medium Format experiments in Celorico"
+  date: 2026
+  album: "Celorico"
+  camera: "Lubitel 2"
+  lens: "LOMO T-22 75/4.5"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["Medium Format","DIY-Dev","BnW"]
+
+- filename: "cdb_3.jpg"
+  title: "Medium Format experiments in Celorico"
+  date: 2026
+  album: "Celorico"
+  camera: "Lubitel 2"
+  lens: "LOMO T-22 75/4.5"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["Medium Format","DIY-Dev","BnW"]
+
+
+
 - filename: "PAlemao100.png"
   title: "Praia do Alemão (Portimão) in the Morning"
   date: 2025
@@ -241,6 +279,26 @@
   film: "Kodak ColorPlus 200"
   tags: []
 
+- filename: "ovelhas.jpg"
+  title: "This is, of course, a social commentary on the current political situation of..."
+  date: 2026
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Ilford FP4"
+  tags: ["DIY-Dev", "BnW"]
+
+- filename: "ovelhas_1.jpg"
+  title: "This is, of course, a social commentary on the... No I can't do the joke twice, just some pretty metal sheep"
+  date: 2026
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Ilford FP4"
+  tags: ["DIY-Dev", "BnW"]
+
+
+
 - filename: "SintraLomo.JPG"
   title: " 'This could be an indie pop album cover from the 00's' "
   date: 2025
@@ -429,26 +487,6 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kentmere Pan 400 +1"
   tags: ['DIY-Dev', 'From-Paper']
-
-
-- filename: "paper2.jpg"
-  title: "In Celorico, trying to use the Zone system...and failing"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kentmere Pan 400 +1"
-  tags: ['DIY-Dev', 'From-Paper']
-
-- filename: "something.jpg"
-  title: "As a dear coleague said 'I don't really see what you wanted, you just took the shoot'. Couldn't agree more, I have no idea what I was doing :)"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kentmere Pan 400 +1"
-  tags: ['DIY-Dev', 'From-Paper']
-
 
 - filename: "CastleFar.jpg"
   title: "On our way to the Castle"
@@ -649,6 +687,16 @@
   film: "SantaColor 100"
   tags: []
 
+- filename: "cdb_doggo.jpg"
+  title: "A cool, non-chalant dog (the dog was hyperactive, but posed for the photo)"
+  date: 2026
+  album: "Celorico"
+  camera: "Lubitel 2"
+  lens: "LOMO T-22 75/4.5"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["Medium Format","DIY-Dev","BnW"]
+
+
 - filename: "Mill-bw.jpg"
   title: "The Mill, as a 1930's horror movie setting"
   date: 2025
@@ -694,7 +742,14 @@
   film: "ColorPlus 200"
   tags: []
 
-
+- filename: "night_city.jpg"
+  title: "'You're in the place they call the night side' - The Sword, Night City"
+  date: 2026
+  album: "Odivelas"
+  camera: "Lubitel 2"
+  lens: "LOMO T-22 75/4.5"
+  film: "Kentmere Pan 400 + 1"
+  tags: ["Medium Format", "Light Leak" ,"DIY-Dev","BnW"]
 
 - filename: "self.jpg"
   title: "Self portrait"

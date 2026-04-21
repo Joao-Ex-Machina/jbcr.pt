@@ -34,6 +34,23 @@
   film: "Kentmere Pan 400 + 1"
   tags: ["Medium-Format","DIY-Dev","BnW"]
 
+- filename: "domino_campolide.jpg"
+  title: "Playing domino in Campolide, on a Saturday afternoon"
+  date: 2026
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Foma Ortho 400"
+  tags: ["DIY-Dev", "BnW"]
+
+- filename: "aqueduto.jpg"
+  title: "Aqueduto das águas livres, a marvelous work of civil engineering"
+  date: 2026
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Foma Ortho 400"
+  tags: ["DIY-Dev", "BnW"]
 
 
 - filename: "PAlemao100.png"

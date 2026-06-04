@@ -135,26 +135,8 @@
   tags: []
 
 
-- filename: "OnMyWay.jpg"
-  title: "In the bus...still on my way to Castro"
-  date: 2025
-  album: "Évora"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
 - filename: "DuarteDream.jpg"
   title: "Dream-like colours, while Duarte looks non-chalant"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "DuartePhotographer.jpg"
-  title: "Duarte, caught on a photography mexican stand-off in Castro Verde"
   date: 2025
   album: "Castro Verde"
   camera: "Ricoh-KR-5"
@@ -191,24 +173,6 @@
 
 - filename: "Vigia.png"
   title: "A little water mill on the Alto da Forca, Arraiolos"
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "ArraiolosCastelo.png"
-  title: "The Castle overlooking Arraiolos "
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "Ilhas.png"
-  title: "Ilhas village from the Mill's perspective"
   date: 2025
   album: "Arraiolos"
   camera: "Ricoh-KR-5"
@@ -327,15 +291,6 @@
 
 - filename: "SantosAlameda.png"
   title: "Peppered halations during Santos Populares in Arroios"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "APX 100"
-  tags: ["DIY-Dev", "BnW"]
-
-- filename: "duarte.png"
-  title: "Duarte, just a chill guy"
   date: 2025
   album: "Lisboa"
   camera: "Ricoh-KR-5"

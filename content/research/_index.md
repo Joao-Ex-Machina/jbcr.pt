@@ -5,6 +5,7 @@ nextprev: false
 ---
 
 I am a early-stage researcher and PhD student integrated in the HPCAS group at [INESC-ID](https://www.inesc-id.pt/) and the Cyberphysical Computing Group at [INESC INOV-Labs](https://inesc-inov-lab.pt/index.html).
+
 You can take a look into my public research profiles below:
 
 {{<grid>}}
@@ -15,9 +16,29 @@ You can take a look into my public research profiles below:
 {{</grid>}}
 
 
-As of now I am a member of the SMARTCHIP project, which has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.
+As of now I am a member of the **SMARTCHIP** project, which has the objective to design a Low-Power System for Embedded AI workloads, while being able to be reconfigured for different networks.
 
-### Highlighted Papers
+This accelerator+CPU system is being prototyped in FPGA and will be tapped out to as an ASIC in a later stage.
+
+This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. José Teixeira de Sousa, Prof. Rui Policarpo Duarte, and Prof. João Vaz.
+
+### Research Interests and Applications
+
+My main insterest are related to **Digital System Design**, **Reconfigurable Computing**, and **Computer Architectures**, spanning from
+- Hardware/Software Co-Design
+- Accelerated Embedded Systems
+- Electronic Design Automation
+- High-Level Synthesis and Verification
+
+among others.
+
+As for the principal applications of my research, I would highlight:
+- Edge AI
+- Computer Vision
+
+and overall making edge computing more efficient and feasible.
+
+### Selected Publications
 
 <small>
 João Barreiros Rodrigues, Horácio C. Neto, and Mário Véstias. 2026. ARES:

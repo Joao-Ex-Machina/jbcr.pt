@@ -10,3 +10,5 @@ theme = 'lugo_2'
     style = "gruvbox"       # Choose a color scheme (e.g., "dracula", "monokai", etc.)
     lineNos = false          # Show line numbers if desired
     lineNumbersInTable = true # Places line numbers in a table
+   [markup.goldmark.renderer]
+     unsafe = true

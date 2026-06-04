@@ -6,6 +6,8 @@ nextprev: false
 
 This is my (or "ours") [webring](https://en.wikipedia.org/wiki/Webring), where I link other sites which content I enjoy!
 
+If you are interested in being added to this webringm contact me!
+
 # From friends or other friendly persons I've met afk
 
 {{<grid>}}

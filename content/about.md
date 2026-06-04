@@ -9,13 +9,12 @@ nextprev: false
 
 {{<img caption="One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026" src=/graduation_resized.jpeg style="text-align:center;" >}}
 
-I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage researcher at INESC-ID and INESC-INOVLabs.
+I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
 
 I was born in Lisbon, Portugal on the 16th of September. My family is originally from Arraiolos, in Alentejo Central (mother's side) and from Lisbon and Portalegre, Alto Alentejo (father's side).
 
-As of now I am a member of the **SMARTCHIP** project, which has the objective to design a AI accelerator for embedded enviroments, with the possibility to be reconfigured for different networks. This accelerator will be prototyped in FPGA, being developed as an ASIC in a later stage. This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. Rui Policarpo Duarte, Prof. José Teixeira de Sousa and Prof. João Vaz.
 
-I finished my ECE Master's in November 2025, having majored in **Computer Systems** and minoring in **Electronic Circuits and Systems**. For my MSc Thesis I designed **ARES**, a Hardware/Software Co-Designed Embedded System for a Swin Transformer Layer execution, targeting aerial image segmentation. This work was developed at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. My thesis was awarded a 19/20 grade.
+I finished my ECE Master's in November 2025, having majored in **Computer Systems** and minored in **Electronic Circuits and Systems**. For my MSc Thesis I designed **ARES**, a Hardware/Software Co-Designed Embedded System for a Swin Transformer Layer execution, targeting aerial image segmentation. This work was developed at INESC-ID/INESC-INOV under Prof. Horácio Neto and Prof. Mário Véstias. My thesis was awarded a 19/20 grade.
 
 From 2023 to July 2025 I was a **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt) teaching on the following courses:
 
@@ -81,12 +80,5 @@ I have also been **hackin' and tinkerin'** while involved with the [HackerSchool
     - I've DM'ed and played multiple Dungeons and Dragons and Call of Cthulhu campaigns.
     - I play a bit of Magic the Gathering
 
-
-<center>
-
-{{<img caption="Duarte and I getting ready to snap some cool photograms while Catarina snaps one of us, © Catarina Carvalho Maia, 2025 (She did not force me to add the copyright notices - I'm just doing this to troll her :^] )" src=/JojoAndDudu.jpeg >}}
-
-
-</center>
 
 

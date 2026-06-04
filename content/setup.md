@@ -4,9 +4,13 @@ layout: single
 nextprev: false
 ---
 
-# My Everyday Carry (EDC)
+# The Machines
 
-Normally I carry my EDC in a light brown leather satchel given to me by my parents and in my many pockets.
+(Old) Thinkpads are enterprise-grade, upgradable. rugged machines that come with a tiny red nub in the keyboard
+
+### Thinkpad x270 aka Aglarond
+
+The newest member of the family, bought through Vinted for 80€ total! I got it to have a reliable machine I could take to symposiums and conferences, withou having to worry too much.
 
 ### Modded Thinkpad T430 aka Khazad-Dûm I (RIP)
 
@@ -50,7 +54,16 @@ I've bought a X201 MoBo to upgrade it, and soon the wifi and BIOS will be upgrad
 
 **Update:** As of January 2026 the X200 (fka Aglarond) as been re-baptized as Khazad-Dûm, after the apparent death of its predecessor. It is now my daily driver.
 
-### The Rest
+
+### "Server" aka Thinkpad T410 aka Erebor
+
+This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in [this post](/blog/selfhost-parti). I have fixed it, clean it and it now drives Ubuntu.
+
+
+# My Everyday Carry (EDC)
+
+Normally I carry my EDC in a light brown leather satchel given to me by my parents and in my many pockets.
+
 
 Normally, in my day to day I also carry:
 
@@ -64,20 +77,11 @@ Normally, in my day to day I also carry:
     - As of now: _A hora de Sertório_ by João Aguiar
 
 
-# My Homelab 
-
-### Battlestation
-
+# Laboratories
 (coming soon)
 
-### "Server" aka Thinkpad T410 aka Erebor
+### At INESC
 
-This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in [this post](/blog/selfhost-parti). I have fixed it, clean it and it now drives Ubuntu.
+### At Home
 
-### Workbench
-
-(coming soon)
-
-# HackerSpace Setup
-
-(coming soon)
+### HackerSchool / OpenLab

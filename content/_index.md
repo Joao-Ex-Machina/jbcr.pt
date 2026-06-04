@@ -26,15 +26,18 @@ Oh, and thank you for passing by!
 # The Core!
 
 {{< grid >}}
+
+{{< image-card src="/research_icon2.png" link="/research" caption="Research" >}}
+
 {{< image-card src="/blog.png" link="/blog" caption="Weblogs" >}}
-
-{{< image-card src="/projectlogo.png" link="/projects" caption="My Projects" >}}
-
-{{< image-card src="/stock-icon.png" link="/gallery/analog" caption="Photo Portfolio" >}}
 
 {{< image-card src="/papyrus-2.png" link="/notes" caption="Study Notes" >}}
 
-{{< image-card src="/setuplogo.png" link="/setup" caption="Toolbox/Setup" >}}
+{{< image-card src="/stock-icon.png" link="/gallery/analog" caption="Photo Portfolio" >}}
+
+{{< image-card src="/projectlogo.png" link="/projects" caption="Other Projects" >}}
+
+{{< image-card src="/setuplogo.png" link="/setup" caption="Toolboxes and Setup" >}}
 
 {{< image-card src="/onering.gif" link="/webring" caption="Our Webring" >}}
 

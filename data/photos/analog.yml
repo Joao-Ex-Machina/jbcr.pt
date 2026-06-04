@@ -107,15 +107,6 @@
   film: "Requa 100"
   tags: ["Expired"]
 
-- filename: "CV_PAbrunhosa2.jpg"
-  title: "Pedro Abrunhosa set during Festas de Castro Verde "
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Portra 800"
-  tags: []
-
 - filename: "CV_PAbrunhosa.jpg"
   title: "Pedro Abrunhosa set during Festas de Castro Verde"
   date: 2025
@@ -143,46 +134,11 @@
   film: "Portra 800"
   tags: []
 
-- filename: "EvoraEstacao.jpg"
-  title: "Bus station in Évora, on my way to Castro"
-  date: 2025
-  album: "Évora"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
 
 - filename: "OnMyWay.jpg"
   title: "In the bus...still on my way to Castro"
   date: 2025
   album: "Évora"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "Bobi01.jpg"
-  title: "The Man's best friend - Bobi"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "bobi02.jpg"
-  title: "Such a bright, energetic fellow"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "CabecaBorrego.jpg"
-  title: "Delicous head of lamb, fries and wine"
-  date: 2025
-  album: "Castro Verde"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
@@ -215,24 +171,6 @@
   film: "Kodak Ultramax 400"
   tags: []
 
-- filename: "Alcarias02.jpg"
-  title: " 'A Aldeia de Alcarias saúda-vos' "
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "Alcarias01.jpg"
-  title: "An empty house in Alcarias near Castro Verde"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kentmere Pan 400"
-  tags: ["BnW"]
-
 - filename: "Bobi03.jpg"
   title: "Dog days in Alentejo"
   date: 2025
@@ -240,15 +178,6 @@
   camera: "Ricoh KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Phoenix Harman II 200"
-  tags: []
-
-- filename: "Raprosul.png"
-  title: "The old Moagem and Power Plant front, backed by the Raprosul factory"
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
   tags: []
 
 - filename: "Moinho.png"
@@ -305,15 +234,6 @@
   film: "Ilford FP4"
   tags: ["DIY-Dev", "BnW"]
 
-- filename: "ovelhas_1.jpg"
-  title: "Some more shaky sheep, this is, of course, a social commentary on the... No I can't do the joke twice, just some pretty f*** heavy metal sheep"
-  date: 2026
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
-  film: "Ilford FP4"
-  tags: ["DIY-Dev", "BnW"]
-
 
 - filename: "SintraLomo.JPG"
   title: " 'This could be an indie pop album cover from the 00's' "
@@ -360,33 +280,6 @@
   film: "Fujifilm 200"
   tags: []
 
-- filename: "MyStudents.JPG"
-  title: "My dear students: Carolina, Francisco, Matilde and Tiago, in front of our Department"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujifilm 200"
-  tags: []
-
-- filename: "Nadia02.png"
-  title: "A large smile from Nádia and a little processing mark"
-  date: 2025
-  album: "Lisboa"
-  camera: "Minolta Hi-Matic 7s"
-  lens: "Rokkor-PF 45mm f/1.8-22"
-  film: "Kentmere Pan 400"
-  tags: ["BnW","DIY-Dev"]
-
-- filename: "elias.jpg"
-  title: "Elias at high grain"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Requa 100"
-  tags: ["Expired"]
-
 - filename: "tolo.JPG"
   title: "Underexposed daisies on a 1992 expired film"
   date: 2025
@@ -405,15 +298,6 @@
   film: "Requa 100"
   tags: ["Expired"]
 
-- filename: "CBRE.jpg"
-  title: "CBRE building in Campolide, with a 60's flair"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Requa 100"
-  tags: ["Expired"]
-
 - filename: "Amoreiras.JPG"
   title: "I have yet to understand my fixation with cuboid buildings"
   date: 2025
@@ -421,15 +305,6 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Fujifilm 200"
-  tags: []
-
-- filename: "BrindeMedieval.png"
-  title: "Gonçalo, Tiago and Diogo toasting with some fresh mead straight from the tap "
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
   tags: []
 
 - filename: "AlamedaNight.png"
@@ -467,24 +342,6 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "APX 100"
   tags: ["DIY-Dev", "BnW"]
-
-- filename: "OurTent.jpg"
-  title: "Duarte, peeking out from our (mine) F1 french army tent"
-  date: 2025
-  album: "Carvalhal"
-  camera: "Ricoh KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Phoenix Harman II 200"
-  tags: []
-
-- filename: "El_Pollo.jpg"
-  title: " El Pollo loco"
-  date: 2025
-  album: "Carvalhal"
-  camera: "Ricoh KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Phoenix Harman II 200"
-  tags: []
 
 - filename: "CeloricoAutumn02.jpg"
   title: "Autumn has arrived to Celorico da Beira"
@@ -593,15 +450,6 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
-
-- filename: "diospiro.jpg"
-  title: "Sr. Amaral's diospiro tree"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor Superia 100"
-  tags: ["Expired", "Lomo"]
 
 - filename: "walk.jpg"
   title: "Lomographic Walk in Rapa, with Catarina and Duarte"

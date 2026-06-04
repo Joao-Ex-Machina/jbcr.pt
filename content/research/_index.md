@@ -8,9 +8,9 @@ I am a early-stage researcher and PhD student integrated in the HPCAS group at [
 You can take a look into my public research profiles below:
 
 {{<grid>}}
-    {{< button color="#555555" link="/404" icon="/scholar.png" >}}Google Scholar{{< /button >}}
+    {{< button color="#555555" link="/404" icon="/scholar.png" >}}Scholar{{< /button >}}
     {{< button color="#555555" link="https://orcid.org/0009-0002-6324-2384" icon="/ORCID-icon.png" >}}ORCID{{< /button >}}
-    {{< button color="#555555" link="https://cienciavitae.pt/BA12-7BD3-5A15" icon="/cienciavitae.png" >}}Ciência Vitae{{< /button >}}
+    {{< button color="#555555" link="https://cienciavitae.pt/BA12-7BD3-5A15" icon="/cienciavitae.png" >}}CiênciaID{{< /button >}}
     
 {{</grid>}}
 

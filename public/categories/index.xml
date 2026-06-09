@@ -202,34 +202,34 @@ Richard suggests you use uNetBootin version of FreeDOS, I could not make it work
 &lt;h1 id=&#34;was-it-worth-it&#34;&gt;Was it worth it?&lt;/h1&gt;
 &lt;p&gt;It does depend on various factors and how you rank them in order of enjoyment, so I made this helpful table to agilize your decision process:&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Qualitative Grade&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Hassle-free?&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;❌❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Quality&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Novelty&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;✓✓&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Bragging rights&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;✓✓&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Fun?&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;¯\_( ͡° ͜ʖ ͡°)_/¯&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Qualitative Grade&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hassle-free?&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Quality&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Novelty&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✓✓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Bragging rights&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✓✓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fun?&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;¯\_( ͡° ͜ʖ ͡°)_/¯&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Additionally this is a &lt;strong&gt;destructive&lt;/strong&gt; process, as the tape will start to wear off on the backing paper, so keep that in mind.&lt;/p&gt;
 &lt;h1 id=&#34;future-work&#34;&gt;Future work&lt;/h1&gt;
@@ -483,7 +483,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;I was born in Lisbon, Portugal on the 16th of September.&lt;/p&gt;
 &lt;p&gt;My family is originally from Arraiolos, in Alentejo Central (mother&amp;rsquo;s side) and from Lisbon and Portalegre, Alto Alentejo (father&amp;rsquo;s side).&lt;/p&gt;
 &lt;p&gt;I finished my ECE Master&amp;rsquo;s in November 2025, having majored in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minored in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;. My Thesis was on ARES, A Hardware/Software System for Embedded deployment of Transformers. I was supervised by Prof. Horácio Neto and Prof. Mário Véstias, also my PhD Supervisors together with Prof. José T. de Sousa.&lt;/p&gt;
-&lt;p&gt;From 2023 to July 2025 I was also  &lt;strong&gt;Teaching Assistant&lt;/strong&gt; at the &lt;a href=&#34;https://deec.tecnico.ulisboa.pt&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From November 2023 to July 2025 I was also  &lt;strong&gt;Teaching Assistant&lt;/strong&gt; at the &lt;a href=&#34;https://deec.tecnico.ulisboa.pt&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt;, having received the &lt;strong&gt;Excellence in Teaching&lt;/strong&gt; award for both school years.&lt;/p&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
   &lt;img src=&#34;https://jbcr.pt/me_III.png&#34; alt=&#34;Obligatory analog mirror selfie, in Castro Verde&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
   
@@ -497,9 +497,9 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;I have also been &lt;strong&gt;hackin&amp;rsquo; and tinkerin&amp;rsquo;&lt;/strong&gt; while involved with the &lt;a href=&#34;https://hackerschool.dev&#34;&gt;HackerSchool&lt;/a&gt; hackerspace, which I belong to since 2021.&lt;/p&gt;
 &lt;p&gt;Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair and overall all that is related to Open (and opening) Computer and other Electronic Systems.&lt;/p&gt;
 &lt;h3 id=&#34;-the-cool-interests&#34;&gt;&amp;gt; The &amp;lsquo;Cool&amp;rsquo; Interests&lt;/h3&gt;
-&lt;p&gt;Apart from my electrical and computer enginnering background I go to the gym and like to do some outdoor activities like camping. It also seemed fitting to add here that I &lt;strong&gt;really like dogs&lt;/strong&gt; and I am medically &lt;strong&gt;alergic to cats&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;My main hobby right now is &lt;a href=&#34;https://jbcr.pt/gallery/analog&#34;&gt;analog photography&lt;/a&gt;, including developing and printing and sometimes a bit of camera repairing too.&lt;/p&gt;
-&lt;p&gt;I also like traveling, especially inside the portuguese territory&lt;/p&gt;
+&lt;p&gt;Apart from my electrical and computer engineering background I go to the &lt;strong&gt;gym&lt;/strong&gt; and like to do some outdoor activities like &lt;strong&gt;camping, archery and sharpshooting&lt;/strong&gt;. It also seemed fitting to add here that I &lt;strong&gt;really like dogs&lt;/strong&gt; and I am medically &lt;strong&gt;alergic to cats&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;My main hobby right now is &lt;a href=&#34;https://jbcr.pt/gallery/analog&#34;&gt;analog photography&lt;/a&gt;, including &lt;strong&gt;developing, printing&lt;/strong&gt; and sometimes a bit of &lt;strong&gt;camera repairing&lt;/strong&gt; too.&lt;/p&gt;
+&lt;p&gt;I also like traveling, especially inside the portuguese territory:&lt;/p&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
   &lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34; alt=&#34;Me, in the hometown of my best friend (Duarte)&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
   
@@ -510,9 +510,10 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;/figure&gt;
 
 
-&lt;p&gt;Finally I am a &lt;a href=&#34;https://jbcr.pt/nerd.gif&#34;&gt;huge nerd&lt;/a&gt; being really &lt;strong&gt;interested in History&lt;/strong&gt; (since I was a kid), especially on pre-Roman history and the dark and medieval ages.&lt;/p&gt;
-&lt;p&gt;My interest in history combines with my enjoyment of worldbuilding tomes, fantasy, historical novels and weird fiction. I am also a big fan of &lt;strong&gt;Comic books&lt;/strong&gt;: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.&lt;/p&gt;
-&lt;p&gt;My musical tastes are pretty varied but are mainly Heavy Metal-centric.&lt;/p&gt;
+&lt;p&gt;Finally I am a &lt;a href=&#34;https://jbcr.pt/nerd.gif&#34;&gt;huge nerd&lt;/a&gt; being really &lt;strong&gt;interested in History&lt;/strong&gt; (since I was a kid), especially in pre-Roman Portuguese history, the dark and medieval ages and far away civilizations.&lt;/p&gt;
+&lt;p&gt;My interest in history combines with my enjoyment of worldbuilding tomes, Tolkien-esque fantasy, historical novels (especially from national writters) and Lovercraft&amp;rsquo;s weird fiction.&lt;/p&gt;
+&lt;p&gt;I am also a big fan of &lt;strong&gt;Comic books&lt;/strong&gt;, especially from european authors like E. Bilal and V. Segrelles.&lt;/p&gt;
+&lt;p&gt;To conclude: my musical tastes are pretty varied but are mainly &lt;strong&gt;Heavy Metal-centric&lt;/strong&gt; or those of a divorced 40-year old dad.&lt;/p&gt;
 &lt;p&gt;And I think that&amp;rsquo;s about it, thank you for basically reading my &lt;a href=&#34;https://jbcr.pt/about&#34;&gt;about me&lt;/a&gt;. If you are curious about any specific section be free to waddle around this website or contact me.&lt;/p&gt;
 </description>
 	</item>

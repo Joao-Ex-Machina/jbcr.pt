@@ -26,26 +26,26 @@ From 2023 to July 2025 I was also  **Teaching Assistant** at the [Department of 
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021.
 
 
-Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair and overall all that is related to Open (and opening) Computer and other Electronic Systems.
+Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabing and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and shenanigans [here](/blog).
 
 
-### > The 'Cool' Interests
+### > The 'Cool' Interests and Trivia
 
-Apart from my electrical and computer enginnering background I go to the gym and like to do some outdoor activities like camping. It also seemed fitting to add here that I **really like dogs** and I am medically **alergic to cats**. 
+Apart from my electrical and computer engineering background I go to the gym and like to do some outdoor activities like camping. It also seemed fitting to add here that I **really like dogs** and I am medically **alergic to cats**. 
 
 My main hobby right now is [analog photography](/gallery/analog), including developing and printing and sometimes a bit of camera repairing too.
 
-I also like traveling, especially inside the portuguese territory
+I also like traveling, especially inside the portuguese territory:
 
 {{<img caption="Me, in the hometown of my best friend (Duarte)" src=/celorico.jpeg >}}
 
-Finally I am a [huge nerd](/nerd.gif) being really **interested in History** (since I was a kid), especially on pre-Roman history and the dark and medieval ages.
+Finally I am a [huge nerd](/nerd.gif) being really **interested in History** (since I was a kid), especially on pre-Roman history and the dark and medieval ages. I'm also interested in the history of philosophy and religion. While on topic - I am a roman catholic, although a flawed one.
 
 My interest in history combines with my enjoyment of worldbuilding tomes, fantasy, historical novels and weird fiction. I am also a big fan of **Comic books**: Lucky Luke, Astérix, Tintin, The Mercenary, works from Bilal, etc.
 
-My musical tastes are pretty varied but are mainly Heavy Metal-centric.
+My musical tastes are pretty varied but are mainly Heavy Metal and Rock centric. 
 
-And I think that's about it, thank you for basically reading my [about me](/about). If you are curious about any specific section be free to waddle around this website or contact me.
+And I think that's about it, thank you for basically reading my [about me](/about). If you are curious about any specific section plese feel free to waddle around this website or [contact me](/contact).
 
 
 

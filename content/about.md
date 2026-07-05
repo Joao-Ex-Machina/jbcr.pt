@@ -26,7 +26,7 @@ From November 2023 to July 2025 I was also  **Teaching Assistant** at the [Depar
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021.
 
 
-Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabing and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and shenanigans [here](/blog).
+Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabing, domotics and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and shenanigans [here](/blog).
 
 
 ### > The 'Cool' Interests and Trivia
@@ -49,7 +49,7 @@ I am also a big fan of **Comic books**, especially from european authors like E.
 
 To conclude this about me: my musical tastes are pretty varied but are mainly **Heavy Metal and Rock centric**,  or those of a divorced 40-year old dad.
 
-And I think that's about it, thank you for basically reading my [about me](/about). If you are curious about any specific section plese feel free to waddle around this website or [contact me](/contact).
+And I think that's about it, thank you for basically reading my [about me](/about). If you are curious about any specific section please feel free to waddle around this website or [contact me](/contact) directly.
 
 
 

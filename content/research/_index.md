@@ -24,11 +24,11 @@ This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. 
 
 ### Research Interests and Applications
 
-My main insterest are related to **Digital System Design**, **Reconfigurable Computing**, and **Computer Architectures**, spanning from
+My main interests are related to **Digital System Design**, **Reconfigurable Computing**, and **Computer Architectures**, spanning from
 - Hardware/Software Co-Design
-- Accelerated Embedded Systems
-- Electronic Design Automation
+- Hardware-Accelerated Embedded Systems
 - High-Level Synthesis and Verification
+- Electronic Design Automation
 
 among others.
 
@@ -36,7 +36,7 @@ As for the principal applications of my research, I would highlight:
 - Edge AI
 - Computer Vision
 
-and overall making edge computing more efficient and feasible.
+and overall making edge computing more efficient and feasible, enabling many sub-applications on security and defense, urban planning, the autonomous automotive industry, etc.
 
 ### Selected Publications
 

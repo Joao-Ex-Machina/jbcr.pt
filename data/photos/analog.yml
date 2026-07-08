@@ -1,3 +1,21 @@
+- filename: "reflections.jpg"
+  title: "Reflections on the Neckar River"
+  date: 2026
+  album: "Heidelberg"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "domino_campolide.jpg"
+  title: "Playing domino in Campolide, on a Saturday afternoon"
+  date: 2026
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Foma Ortho 400"
+  tags: ["DIY-Dev", "BnW"]
+
 - filename: "cdb_0.jpg"
   title: "Medium Format experiments in Celorico"
   date: 2026
@@ -25,6 +43,16 @@
   film: "Kentmere Pan 400 + 1"
   tags: ["Medium-Format","DIY-Dev","BnW"]
 
+- filename: "bridgeHeidelberg.jpg"
+  title: "The Old Bridge"
+  date: 2026
+  album: "Heidelberg"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: []
+
+
 - filename: "cdb_3.jpg"
   title: "Medium Format experiments in Celorico"
   date: 2026
@@ -34,14 +62,6 @@
   film: "Kentmere Pan 400 + 1"
   tags: ["Medium-Format","DIY-Dev","BnW"]
 
-- filename: "domino_campolide.jpg"
-  title: "Playing domino in Campolide, on a Saturday afternoon"
-  date: 2026
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
-  film: "Foma Ortho 400"
-  tags: ["DIY-Dev", "BnW"]
 
 - filename: "aqueduto.jpg"
   title: "Aqueduto das águas livres, a marvelous work of civil engineering"
@@ -51,6 +71,15 @@
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Foma Ortho 400"
   tags: ["DIY-Dev", "BnW"]
+
+- filename: "philosophenWeg.jpg"
+  title: "Fahrgastschiff along the Filosopher's Walk"
+  date: 2026
+  album: "Heidelberg"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: []
 
 
 - filename: "PAlemao100.png"
@@ -153,15 +182,6 @@
   film: "Kodak Ultramax 400"
   tags: []
 
-- filename: "Bobi03.jpg"
-  title: "Dog days in Alentejo"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Phoenix Harman II 200"
-  tags: []
-
 - filename: "Moinho.png"
   title: "Our old family mill in Arraiolos - O Moinho da Forca"
   date: 2025
@@ -189,15 +209,14 @@
   film: "Kodak ColorPlus 200"
   tags: []
 
-- filename: "ovelhas.jpg"
-  title: "Shaky sheep, this is, of course, a social commentary on the current political situation of..."
+- filename: "schlossRuin.jpg"
+  title: "Ruins of the Krautturm, left from the Nine Year's War"
   date: 2026
-  album: "Arraiolos"
+  album: "Heidelberg"
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
-  film: "Ilford FP4"
-  tags: ["DIY-Dev", "BnW"]
-
+  film: "Kodak ColorPlus 200"
+  tags: []
 
 - filename: "SintraLomo.JPG"
   title: " 'This could be an indie pop album cover from the 00's' "
@@ -325,6 +344,15 @@
   film: "Kodak ColorPlus 200"
   tags: []
 
+- filename: "Bobi03.jpg"
+  title: "Dog days in Alentejo"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Phoenix Harman II 200"
+  tags: []
+
 - filename: "cat.jpg"
   title: "Status Report: I am still alergic to cats"
   date: 2025
@@ -333,6 +361,17 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
+
+- filename: "ovelhas.jpg"
+  title: "Shaky sheep, this is, of course, a social commentary on the current political situation of..."
+  date: 2026
+  album: "Arraiolos"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Ilford FP4"
+  tags: ["DIY-Dev", "BnW"]
+
+
 
 - filename: "CeloricoEmpty.jpg"
   title: "Under construction at Celorico"

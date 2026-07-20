@@ -11,6 +11,37 @@
 	
 	
 	<item>
+		<title></title>
+		<link>http://localhost:1313/blog/ai-1/</link>
+		<pubDate>Sun, 05 Jul 2026 13:40:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/ai-1/</guid>
+		<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The idea from this post came about when I was discussing with my good friend &lt;a href=&#34;&#34;&gt;José&lt;/a&gt; about living on the &lt;em&gt;Aegis&lt;/em&gt; of the AI era.&lt;/p&gt;
+&lt;p&gt;This is a bit different from the content I put on this website, being more of a proto-treaty of sorts, inseperable from my own technological, social, philosophical and religious views.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; I am no specialist on AI, ethics or anything of sorts, my background on this subject is mostly built from my work with hardware design for low-power embedded AI (thank you God for not making me a Computer Scientist :) ).&lt;/p&gt;
+&lt;p&gt;I guess nowadays everyone has some view on AI, so this are my two cents&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;some-very-joão-rodriguess-opinions&#34;&gt;Some very João Rodrigues&amp;rsquo;s opinions&amp;hellip;&lt;/h1&gt;
+&lt;p&gt;I am pretty firm on my convictions on AI&lt;/p&gt;
+&lt;h2 id=&#34;on-ai-technologically&#34;&gt;On AI technologically&lt;/h2&gt;
+&lt;p&gt;As of the writting of this post (summer 2026), I still think there is &lt;strong&gt;nothing&lt;/strong&gt; that is inherintly &lt;strong&gt;ground-breaking&lt;/strong&gt; in current AI.&lt;/p&gt;
+&lt;p&gt;For those not familiar, the architecture of AI is based on matrix multiplications (MatMul) and activation functions, so basic algebra.
+Of course you can argue that the the way we organize such MatMuls is the true science behind AI, however I would disagree&amp;hellip;&lt;/p&gt;
+&lt;p&gt;The true ground-breaking science on AI, for me, is the &lt;strong&gt;Backpropagation&lt;/strong&gt; algorithm, which ables the model to &amp;ldquo;learn&amp;rdquo; (in a layman&amp;rsquo;s sense) and update its matrixes. The idea for this algorithm exists since the XVII century, but has been &lt;strong&gt;roughly frozen since the 80&amp;rsquo;s&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;But if this algorithm is so ancient.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The driving on AI as never been software, it was always the hardware.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;on-ai-philosophically-cogitation-vs-aglomeration&#34;&gt;On AI philosophically (cogitation vs aglomeration)&lt;/h2&gt;
+&lt;h1 id=&#34;applications-of-the-problematic&#34;&gt;Applications of the problematic&lt;/h1&gt;
+&lt;h2 id=&#34;code-generation&#34;&gt;Code Generation&lt;/h2&gt;
+&lt;h2 id=&#34;art&#34;&gt;Art&lt;/h2&gt;
+&lt;h1 id=&#34;are-we-doomed&#34;&gt;Are we doomed?&lt;/h1&gt;
+&lt;h1 id=&#34;some-prototype-solutions&#34;&gt;Some prototype solutions&lt;/h1&gt;
+&lt;h2 id=&#34;the-faithful-servant-model&#34;&gt;The faithful servant model&lt;/h2&gt;
+&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>HEART 2026 - A deep dive on my experience at my first conference</title>
 		<link>http://localhost:1313/blog/heidelberg/</link>
 		<pubDate>Sun, 05 Jul 2026 13:40:00 +0000</pubDate>
@@ -23,6 +54,15 @@
 &lt;h1 id=&#34;closing-remarks&#34;&gt;Closing Remarks&lt;/h1&gt;
 &lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
 </description>
+	</item>
+	
+	<item>
+		<title>On AI and the creative spirit of Humanity</title>
+		<link>http://localhost:1313/blog/3acres1cow/</link>
+		<pubDate>Sun, 05 Jul 2026 13:40:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/blog/3acres1cow/</guid>
+		<description></description>
 	</item>
 	
 	<item>

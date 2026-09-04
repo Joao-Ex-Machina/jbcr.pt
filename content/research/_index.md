@@ -4,7 +4,7 @@ layout: single
 nextprev: false
 ---
 
-I am a early-stage researcher and PhD student integrated in the HPCAS group at [INESC-ID](https://www.inesc-id.pt/) and the Cyberphysical Computing Group at [INESC INOV-Labs](https://inesc-inov-lab.pt/index.html).
+I am an early-stage researcher and PhD student integrated in the HPCAS group at [INESC-ID](https://www.inesc-id.pt/) and the Cyberphysical Computing Group at [INESC INOV-Labs](https://inesc-inov-lab.pt/index.html).
 
 You can take a look into my public research profiles below:
 
@@ -18,7 +18,7 @@ You can take a look into my public research profiles below:
 
 As of now I am a member of the **SMARTCHIP** project, which has the objective to design a Low-Power System for Embedded AI workloads, while being able to be reconfigured for different networks.
 
-This accelerator+CPU system is being prototyped in FPGA and will be tapped out to as an ASIC in a later stage.
+This accelerator+CPU system is being prototyped in FPGA and will be taped out as an ASIC in a later stage.
 
 This project is supervised by Prof. Horácio Neto, Prof. Mário Véstias, Prof. José Teixeira de Sousa, Prof. Rui Policarpo Duarte, and Prof. João Vaz.
 

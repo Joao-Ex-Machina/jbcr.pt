@@ -14,11 +14,11 @@ This post is of course more than inspired on José Lopes' [post on self-hosting]
 
 # Why?
 
-Well if you know me you know I am not really a software type of guy, I prefer to dabble in hardware design and electronics. Therefore I rarely entertained the idea of having me own webpage in last 4-5 years.
+Well if you know me you know I am not really a software type of guy, I prefer to dabble in hardware design and electronics. Therefore I rarely entertained the idea of having my own webpage in the last 4-5 years.
 
 However everything changed this summer, when my good friend (and gym partner) José Duarte Lopes showed me his [website](https://joselopes.dev)
 
-He (an ECE laddie like me) had made what no Computer Science guy could have ever done...He peaked my interest.
+He (an ECE laddie like me) had made what no Computer Science guy could have ever done...He piqued my interest.
 
 How delightful it was, a **clean and slick website**, with almost no JavaScript, while running on a **jerry-rigged smartphone/server**. It was no short of a feat of wizardry. That very same day I acquired the [jbcr.pt](https://jbcr.pt) domain from [amen.pt](https://amen.pt), for the low-low price of **FREE**!
 
@@ -49,7 +49,7 @@ I started working on my website while on the bus back from [Festa do Software Li
 
 Sure I had to learn a bit of HTML, and I required one or another tip but other than that was point and shoot! We were already starting good!
 
-I've been continously tweaking the style to fit my specific enjoyment for the **late 90's and early 00's web**, therefore I can always argue that my website is how the "internet should've been" and how it is single-handledly on a quest to "desmerdificar" (lit. unshittify) the internet.
+I've been continuously tweaking the style to fit my specific enjoyment for the **late 90's and early 00's web**, therefore I can always argue that my website is how the "internet should've been" and how it is single-handedly on a quest to "desmerdificar" (lit. unshittify) the internet.
 
 ### Hardware
 
@@ -107,7 +107,7 @@ Then you can enable and start nginx:
 > sudo systemctl enable --now nginx
 ```
 
-You can test it with another machine inside your LAN by acessing [local-server-ip:$PORT](192.168.1.254:80)
+You can test it with another machine inside your LAN by accessing [local-server-ip:$PORT](192.168.1.254:80)
 
 If you are using the port 80 you can drop [$PORT](:80), as it is the [HTTP](HTTP) default
 
@@ -115,27 +115,27 @@ If you are using the port 80 you can drop [$PORT](:80), as it is the [HTTP](HTTP
 
 In your router configuration you simply have to **open a router port** and **redirect all traffic to your server port**.
 
-Normally this should not be much of a hassle and must routers already have defaults defined for certain protocols like HTTP (port 80), HTTPS (port 443) and SSH (port 22).
+Normally this should not be much of a hassle and most routers already have defaults defined for certain protocols like HTTP (port 80), HTTPS (port 443) and SSH (port 22).
 
-Now you can test it by acessing [public-router-ip:$PORT](https:176.78.59.62:443)
+Now you can test it by accessing [public-router-ip:$PORT](https:176.78.59.62:443)
 
 ### DynIP
 
 Most routers **do not have a static IP**. Normally you have to pay for this feature.
 
-In Portugal MEO provides a **Dynamic IP solution** for free for their clients, which basically wraps a ugly domain URL around your router IP dinamically. I used it just in case.
+In Portugal MEO provides a **Dynamic IP solution** for free for their clients, which basically wraps an ugly domain URL around your router IP dynamically. I used it just in case.
 
 ### Redirecting to my domain
 
 This should be a hassle-free step (again). Just go into your Registrar and redirect your domain to your IP/DynIP. You may need to fix some of the DNS configs, but it will depend on the registrar, CloudFlare and NameCheap appear to be the most friendly.
 
-You can now test it by acessing [yourdomain.pt](https://jbcr.pt) Hooray!
+You can now test it by accessing [yourdomain.pt](https://jbcr.pt) Hooray!
 
 ### SSL Certification
 
-As my registrar does not provide free SSL Certification, and I really wanted/needed to be certified (I was in Firefox and some links on the site were getting blocked due to the lack of a certicate) I had to find another solution.
+As my registrar does not provide free SSL Certification, and I really wanted/needed to be certified (I was in Firefox and some links on the site were getting blocked due to the lack of a certificate) I had to find another solution.
 
-It appear in the way of [EFF's Lets Encrypt](https://letsencrypt.org/getting-started/). 
+It appeared in the way of [EFF's Lets Encrypt](https://letsencrypt.org/getting-started/). 
 
 I just downloaded the [certbot](https://certbot.eff.org/) script from snap and ran on the server:
 
@@ -146,7 +146,7 @@ I just downloaded the [certbot](https://certbot.eff.org/) script from snap and r
 
 It'll ask you for some basic stuff in the CLI such as an e-mail and the target domain.
 
-After it is finished your [/etc/nginx/nginx.conf]() will have the **ssl_certificate**, **ssl_certificate_key** and a **listen 443** and some other similiar parameters added to it. Like this:
+After it is finished your [/etc/nginx/nginx.conf]() will have the **ssl_certificate**, **ssl_certificate_key** and a **listen 443** and some other similar parameters added to it. Like this:
 
 ```nginx
 http {
@@ -184,7 +184,7 @@ If your website is correctly serving on the domain there should be **no fish bon
 
 # The End (?)
 
-This is not the end, **for sure**. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continously working on this website, adding new content and making the framework better, I promise!
+This is not the end, **for sure**. Soon I will change from ADSL to Fibre, which will deprecate my router config. I will also be continuously working on this website, adding new content and making the framework better, I promise!
 
 Overall it has been a rewarding experience. It almost feels like I am not procrastinating, since I am building something that is actually useful!
 

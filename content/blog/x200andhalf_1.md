@@ -9,16 +9,16 @@ tags = ['Tech','Thinkpad', 'Motherboard', 'Firmware']
 
 _How did our glorious hero fall into the ThinkPad rabbit hole?_
 
-Well, it all started in 2021, a little after adopting Linux as my only OS (I use arch btw). I was enjoying the new life of my Ideapad...which did not last much long.
+Well, it all started in 2021, a little after adopting Linux as my only OS (I use arch btw). I was enjoying the new life of my Ideapad...which did not last very long.
 
 During the pandemic I developed the horrible habit of going to bed with my computer, which prompted me to wake-up in the middle of the night with a loud _THUMP_ of my computer hitting the floor.
 
 
 And now dear reader you think: Did he change this habit after the computer falling too many times? I absolutely _did not_!
 
-All this accumulated damaged and fatigue started wearing on the chassis, particularly on the side of the power port. By the time I was finishing the Algorithms and Data Structures course at the end of the second year's first quarter I was using the Ideapad with a large metal clamp to ensure the connectivity of the charger (the battery also started to wear off by this time - as the computer had ran a 6.5 year cycle of daily use and abuse).
+All this accumulated damage and fatigue started wearing on the chassis, particularly on the side of the power port. By the time I was finishing the Algorithms and Data Structures course at the end of the second year's first quarter I was using the Ideapad with a large metal clamp to ensure the connectivity of the charger (the battery also started to wear off by this time - as the computer had run a 6.5 year cycle of daily use and abuse).
 
-I did not need much convincing about having to retire this laptop, however I did have to convince others that replacing it by a Thinkpad from 2013, bought from a goverment official, by the cheap price of a little over 100€, was in fact a good idea. That's how I acquired the T430 (Khâzad-Dûm) Thinkpad, which I daily drived for the remainder of my BSc and MSc.
+I did not need much convincing about having to retire this laptop, however I did have to convince others that replacing it by a Thinkpad from 2013, bought from a government official, by the cheap price of a little over 100€, was in fact a good idea. That's how I acquired the T430 (Khâzad-Dûm) Thinkpad, which I daily drove for the remainder of my BSc and MSc.
 
 "But you're talking about a T430 Thinkpad, how did you get the x200?"
 
@@ -29,24 +29,24 @@ Fun story: This X200 (Aglarond) was bought as a Linux replacement for Martim aft
 
 Honestly, I have kinda been an absent father to the X200, with this machine being used by Martim for around 75% of its lifetime.
 
-Has I regularly upgraded the T430: new battery pack, new screen , dock station, installed a corebooted MoBo on it...you name it! 
+As I regularly upgraded the T430: new battery pack, new screen, dock station, installed a corebooted MoBo on it...you name it! 
 
-Damn did I enjoy the heck of it, It is still my favourite machine.
+Damn did I enjoy the heck of it. It is still my favourite machine.
 
 
 _But..._
 
 But when it came to travelling I was craving something _lighter_, something more _portable_, like  a 12'' Thinkpad for example :)
 
-Also the T430 hinges have [this problem](https://www.reddit.com/r/thinkpad/comments/10yv52b/repairing_t430_hinges/) where they break and its a pain to replace them.
+Also the T430 hinges have [this problem](https://www.reddit.com/r/thinkpad/comments/10yv52b/repairing_t430_hinges/) where they break and it's a pain to replace them.
 
-And so, like the Don Corleone to the undertaker Bonasera, I asked Martim for a favour...For the X200 to come into my possesion for some time.
+And so, like the Don Corleone to the undertaker Bonasera, I asked Martim for a favour...For the X200 to come into my possession for some time.
 
-Altough I like to joke that the T430 was my back and leg workout, I soon understood why the classic X-series is so famous - this guy is seriously _ultra_ portable, I don't even feel it in my bag! Its amazing!
+Although I like to joke that the T430 was my back and leg workout, I soon understood why the classic X-series is so famous - this guy is seriously _ultra_ portable, I don't even feel it in my bag! It's amazing!
 
 # Why upgrading it?
 
-Although the X200 is a ultra-portable machine, it is not a very powerful one.
+Although the X200 is an ultra-portable machine, it is not a very powerful one.
 
 This guy was released in 2008, just to put into perspective:
 
@@ -74,7 +74,7 @@ So yeah, 2008 was a long time ago....And so the x200, as the SOTA machine it was
 - WiFi card: A 802.11a/b/g/n, 300 Mbps Intel 5100
 - A damned modem port
 
-Of course, the x200 did not came to our hands with all this junkware, by the time it came into our possesion it had 4GB of RAM and a shoddy SSD (those that are basically a USB pen drive inside).
+Of course, the x200 did not come to our hands with all this junkware, by the time it came into our possession it had 4GB of RAM and a shoddy SSD (those that are basically a USB pen drive inside).
 
 # The Plan (?)
 
@@ -83,7 +83,7 @@ I think Martim replaced the shoddy SSD, but, since the X200 was his Linux work m
 But when it came to João's era, all inhibition was lost:
 
 - The RAM was upgraded to the maximum of 2xR8 8GB (it had to be 2xR8 sticks)
-- Eventualy I started driving Khâzad-Dûm's SSD too (2TB Samsung beast)
+- Eventually I started driving Khâzad-Dûm's SSD too (2TB Samsung beast)
 - The Core Duo CPU is soldered...so the Motherboard had to be upgraded to a x201 one
 - The WiFi card update was a must, as those doodoo download and upload rates weren't cutting it 
 
@@ -93,7 +93,7 @@ And now my watch begins
 
 The most recent MoBo upgrade you can do is to the x201 motherboard (No I was not going to spend 2000$ for those custom made chinese Motherboards that convert a x200 into a machine from the 2020's).
 
-This machine, has some considerable upgrades to the x200 namely the CPU, which is normally a 1st gen Core i5 with Hyper-Threading. Basically better compile times, better internet browsing, possible better "gaming" (I only play Doom, Doom 2, Slay the Spire....and sometimes TF2).
+This machine has some considerable upgrades to the x200 namely the CPU, which is normally a 1st gen Core i5 with Hyper-Threading. Basically better compile times, better internet browsing, possible better "gaming" (I only play Doom, Doom 2, Slay the Spire....and sometimes TF2).
 
 ![The setup](/x200_setup.jpg)
 
@@ -102,17 +102,17 @@ The teardown was easy enough, as I reached the MoBo in no time.
 ![Tore down X200](/x200_teardown.jpg)
 
 As I prepared to transplant the new board, something did not feel quite right, there were a lot of screw holes that were out of place, and the heatsink which I made sure was compatible between x200 and x201...was not really compatible (I just took the beefy fan and screw it to the old heatsink, thankfully the fan connectors were compatible)
-I proped everything for boot and....It booted
+I propped everything for boot and....It booted
 
 ![Booting in....](/x200_boot.jpg)
 
-Every thing was great-ish! Was I being paranoid? Was I not careful checking different SKUs for the x201?
+Everything was great-ish! Was I being paranoid? Was I not careful checking different SKUs for the x201?
 
 ## The great betrayal!
 
-_Narrator's voice: Every thing was not great-ish indeed, it was far far worse-ish_
+_Narrator's voice: Everything was not great-ish indeed, it was far far worse-ish_
 
-Yup, my happiness did not last very long, as a ear-splitting _beep_ rang from the X200 (and a half) speakers.
+Yup, my happiness did not last very long, as an ear-splitting _beep_ rang from the X200 (and a half) speakers.
 
 As it appeared the WiFi card was not on the whitelist...Although I had made sure that the x200 WiFi card was on the x201 whitelist, so that I could use the computer without having to remove the BIOS whitelist, until the new WiFi card arrived.
 
@@ -123,7 +123,7 @@ I then removed the offending peripheral. Everything booted great and, after a si
 Do you see the problem? I did not have a x201 MoBo, I was sent a X201 tablet MoBo (which is a teensy bit more beefy). 
 Finally all made sense, the disjointed screw holes, the whitelist...
 
-In this day and age a computer without internet access is as good as a unplugged one, and so I no other choice than remove the BIOS whitelist.
+In this day and age a computer without internet access is as good as an unplugged one, and so I had no other choice than to remove the BIOS whitelist.
 
 
 ## The Firmware update sub-saga
@@ -151,6 +151,6 @@ Just an addendum to Rich, this method **also worked on the x201t!** (Yes I went 
 
 What did we learn?
 
-Well, primarly **do not make the same mistakes as me**. Always check SKUs, and overall always be ready for a possible brick-ification of your computer. You'll always learn from mistakes, painful as they may be. Luckily in the end, all went smooth as I am finishing typing this post on my X200.5 Thinkpad.
+Well, primarily **do not make the same mistakes as me**. Always check SKUs, and overall always be ready for a possible brick-ification of your computer. You'll always learn from mistakes, painful as they may be. Luckily in the end, all went smooth as I am finishing typing this post on my X200.5 Thinkpad.
 
 And now I have to buy a decent enough battery for it!

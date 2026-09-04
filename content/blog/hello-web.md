@@ -9,11 +9,11 @@ You can expect a big blog post detailing my unexpected journey on making this we
 
 I would like to thank those that helped me reach this goal:
 
-[José Duarte Lopes](https://joselopes.dev) for motivating and guiding me through this world filled with crazy magic words such has: nginx, html and toml
+[José Duarte Lopes](https://joselopes.dev) for motivating and guiding me through this world filled with crazy magic words such as: nginx, html and toml
 
 [Filipe Piçarra](https://fpicarra.dev) for providing the domain when I did not have a way to generate burner-debit cards
 
 My friends at Canto do SCDEEC, namely Duarte, Catarina, Isabella, [Eduardo](https://github.com/Edw590) and Tiago for their insightful comments on structure, design and typos
 
-Pai e Mãe for their advices, support and beta-testing
+Pai e Mãe for their advice, support and beta-testing
 

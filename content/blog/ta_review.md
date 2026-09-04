@@ -16,14 +16,14 @@ As of now I have taught:
 - Algorithms and Data Structures (Autumn Quarter 24/25)
 - Digital Systems (Winter Quarter 24/25), which I am currently lecturing as of the writing of this post
 
-I'm also assign to taught this year:
+I'm also assigned to teach this year:
 
 - Programming (Spring Quarter 24/25)
-- Computer Architecures (Summer Quarter 24/25)
+- Computer Architectures (Summer Quarter 24/25)
 
 I've also given a bit of additional support time for the Digital Systems Design curricular unit, simply because I really enjoy this course.
 
-Has you can see all of the classes that I taught are related to Computer Engineering. This should come as no surprise since I am majoring in Electrical and Computer Eng. in the branch of Computer Systems.
+As you can see all of the classes that I taught are related to Computer Engineering. This should come as no surprise since I am majoring in Electrical and Computer Eng. in the branch of Computer Systems.
 
 # How it started
 
@@ -31,7 +31,7 @@ Has you can see all of the classes that I taught are related to Computer Enginee
 
 # The Good
 
-I'll cut to the chase - the money is **very** good. I make around 400€, **clean** For around 6-10 hours a week. This money provides some independence, which feels really great - I pay my gym fees, my meals outside of the household, trips with friends, tools for hacking, etc. Honestly nothing beats the feeling of buying something with your own money.
+I'll cut to the chase - the money is **very** good. I make around 400€, **clean**, for around 6-10 hours a week. This money provides some independence, which feels really great - I pay my gym fees, my meals outside of the household, trips with friends, tools for hacking, etc. Honestly nothing beats the feeling of buying something with your own money.
 
 But discarding the money the overall experience is really rewarding - having the opportunity to tune small things in the courses that you have a passion for is irresistible. You also have an incredible pipeline to talk with some of the professors that made you enjoy such subjects (shoutout for Prof. Horácio C. Neto, Prof. Nuno Roma, Prof. Carlos )
 # The Bad

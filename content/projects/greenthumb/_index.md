@@ -3,11 +3,11 @@ title = 'GreenThumb'
 date = 2024-10-15T09:21:44+01:00
 +++
 
-GreenThumb is a IoT aeroponic systems (IoPonic) directed for automated urban gardening.
-It is composed by 4 parts:
+GreenThumb is an IoT aeroponic system (IoPonic) directed for automated urban gardening.
+It is composed of 4 parts:
 
-- A extensible vertical structure for support
-- A embedded system for plant and enviroment monitoring and actuation.
+- An extensible vertical structure for support
+- An embedded system for plant and environment monitoring and actuation.
 - An App for control and display of metrics
 - A Database for storing macros
 

@@ -8,7 +8,7 @@ nextprev: false
 
 {{<img caption="One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026" src=/graduation_resized.jpeg style="text-align:center;" >}}
 
-I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also a early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
+I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
 
 I was born in Lisbon, Portugal on the 16th of September.
 
@@ -26,16 +26,16 @@ From November 2023 to July 2025 I was also  **Teaching Assistant** at the [Depar
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021.
 
 
-Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabing, domotics and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and shenanigans [here](/blog).
+Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabbing, domotics and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and shenanigans [here](/blog).
 
 
 ### > The 'Cool' Interests and Trivia
 
-Apart from my electrical and computer engineering background (which I've inherited from my father) I go to the **gym** and like to do some outdoor activities like **camping, archery and sharpshooting**. It also seemed fitting to add here that I **really like dogs** and I am medically **alergic to cats**. 
+Apart from my electrical and computer engineering background (which I've inherited from my father) I go to the **gym** and like to do some outdoor activities like **camping, archery and sharpshooting**. It also seemed fitting to add here that I **really like dogs** and I am medically **allergic to cats**. 
 
 My main hobby right now is [analog photography](/gallery/analog), including **developing, printing** and sometimes a bit of **camera repairing** too.
 
-You might have catched that I also enjoy tackling **chemistry** (which I've inherited from my mother). I mostly enjoy what I call "everyday chemistry", namely **cooking**, **barbecueing**, **brewing**,  **distilling** and **botanics** (mostly for growing **spicy peppers**).
+You might have caught that I also enjoy tackling **chemistry** (which I've inherited from my mother). I mostly enjoy what I call "everyday chemistry", namely **cooking**, **barbecuing**, **brewing**,  **distilling** and **botanics** (mostly for growing **spicy peppers**).
 
 I also like **traveling**, especially inside the portuguese territory:
 
@@ -43,7 +43,7 @@ I also like **traveling**, especially inside the portuguese territory:
 
 Finally I am a [huge nerd](/nerd.gif) being really **interested in History** (since I was a kid), especially on pre-Roman history and the **dark** and **medieval** ages, and far away civilizations. I'm also interested in the history of philosophy and religion. While on topic - I am a roman catholic, although a flawed one.
 
-My interest in history combines with my enjoyment of **worldbuilding** tomes, **Tolkien**-esque fantasy, **historical** novels (especially from national writters), Lovercraftian **weird fiction** and **table-top RPGs**.
+My interest in history combines with my enjoyment of **worldbuilding** tomes, **Tolkien**-esque fantasy, **historical** novels (especially from national writers), Lovecraftian **weird fiction** and **table-top RPGs**.
 
 I am also a big fan of **Comic books**, especially from european authors like E. Bilal and V. Segrelles.
 

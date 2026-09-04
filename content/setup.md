@@ -6,17 +6,17 @@ nextprev: false
 
 # The Machines
 
-(Old) Thinkpads are enterprise-grade, upgradable. rugged machines that come with a tiny red nub in the keyboard
+(Old) Thinkpads are enterprise-grade, upgradable, rugged machines that come with a tiny red nub in the keyboard.
 
 ### Thinkpad x270 aka Aglarond
 
-The newest member of the family, bought through Vinted for 80€ total! I got it to have a reliable machine I could take to symposiums and conferences, withou having to worry too much.
+The newest member of the family (June 2026), bought through Vinted for 80€ total! I bought it in order to have a reliable machine I could take to symposiums and conferences, without having to worry too much with dongles and all that. It just works and I've been daily-driving it ever since!
 
 ### Modded Thinkpad T430 aka Khazad-Dûm I (RIP)
 
 My (old, see update) daily-driver portable computer since December 2021, when I bought it from a portuguese government official for the modest price of 180€.
 
-Since it was a government machine it came with many priviliges, such as an **embedded card reader** and a **fingerprint sensor**.
+Since it was a government machine it came with many privileges, such as an **embedded card reader** and a **fingerprint sensor**.
 
 Since then, I have also changed many components of it such as: the keyboard, screen, processor, ultrabay and even switched the motherboard for a **Corebooted-one**.
 
@@ -39,7 +39,6 @@ It simply suits my needs. It drives Arch GNU/Linux perfectly, runs the Vivado su
 </center>
 
 
-
 ### Modded Thinkpad X200 aka Khazad-Dûm II
 
 My second daily-driver computer, which has recently become my go to.
@@ -50,38 +49,13 @@ This 12-inch machine is incredibly lightweight and portable, sturdy, lets me sur
 It just **Just Works**™!
 
 
-I've bought a X201 MoBo to upgrade it, and soon the wifi and BIOS will be upgraded too, to increase this delightful machine's lifespan.
+I've bought an X201 MoBo to upgrade it, and soon the wifi and BIOS will be upgraded too, to increase this delightful machine's lifespan.
 
-**Update:** As of January 2026 the X200 (fka Aglarond) as been re-baptized as Khazad-Dûm, after the apparent death of its predecessor. It is now my daily driver.
+**Update:** As of January 2026 the X200 (fka Aglarond) has been re-baptized as Khazad-Dûm, after the apparent death of its predecessor.
 
 
 ### "Server" aka Thinkpad T410 aka Erebor
 
-This website (and soon other self-hosted services) are running from a T410 found in a garden bench as its mentioned in [this post](/blog/selfhost-parti). I have fixed it, clean it and it now drives Ubuntu.
+This website (and soon other self-hosted services) are running from a T410 found in a garden bench as it's mentioned in [this post](/blog/selfhost-parti). I have fixed it, cleaned it and it now drives Ubuntu.
 
 
-# My Everyday Carry (EDC)
-
-Normally I carry my EDC in a light brown leather satchel given to me by my parents and in my many pockets.
-
-
-Normally, in my day to day I also carry:
-
-- My black leather wallet
-    - My ID cards, debit card and some money
-- A HONOR 90 Lite cellphone
-- My **Hunter Lockblade Swiss Army knife** from the '90s
-- My **smoking pipe** and a tin of tobacco or a cigarrete pack
-- My House and HackerSchool keys, in a Ubuntu keychain
-- A **book** for reading during breaks
-    - As of now: _A hora de Sertório_ by João Aguiar
-
-
-# Laboratories
-(coming soon)
-
-### At INESC
-
-### At Home
-
-### HackerSchool / OpenLab

@@ -15,7 +15,7 @@ I was born in Lisbon, Portugal on the 16th of September.
 My family is originally from Arraiolos, in Alentejo Central (mother's side) and from Lisbon and Portalegre, Alto Alentejo (father's side).
 
 
-I finished my ECE Master's in November 2025, having majored in **Computer Systems** and minored in **Electronic Circuits and Systems**. My Thesis was on ARES, A Hardware/Software System for Embedded deployment of Transformers. I was supervised by Prof. Horácio Neto and Prof. Mário Véstias, also my PhD Supervisors together with Prof. José T. de Sousa. 
+I finished my ECE Master's in November 2025, having majored in **Computer Systems** and minored in **Electronic Circuits and Systems**. My Thesis was on developing [ARES](https://doi.org/10.1145/3814576.3814594), A Hardware/Software System for Embedded deployment of Transformers. I was supervised by Prof. Horácio Neto and Prof. Mário Véstias, who are also my PhD Supervisors together with Prof. José T. de Sousa. 
 
 
 From November 2023 to July 2025 I was also  **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt), having received the **Excellence in Teaching** award for both school years.
@@ -24,7 +24,7 @@ From November 2023 to July 2025 I was also  **Teaching Assistant** at the [Depar
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021.
 
 
-Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabbing, domotics and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and shenanigans [here](/blog).
+Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabbing, domotics and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my [projects](/projects) and other shenanigans [here](/blog).
 
 
 ### > The 'Cool' Interests and Trivia
@@ -43,9 +43,9 @@ Finally I am a [huge nerd](/nerd.gif) being really **interested in History** (si
 
 My interest in history combines with my enjoyment of **worldbuilding** tomes, **Tolkien**-esque fantasy, **historical** novels (especially from national writers), Lovecraftian **weird fiction** and **table-top RPGs**.
 
-I am also a big fan of **Comic books**, especially from european authors like E. Bilal and V. Segrelles.
+I am also a big fan of **Comic books**, especially from european authors like E. Bilal, V. Segrelles,  R. Goscinny, etc. etc.
 
-To conclude this about me: my musical tastes are pretty varied but are mainly **Heavy Metal and Rock centric**,  or those of a divorced 40-year old dad.
+To conclude this about me section: my musical tastes are pretty varied but I mainly orbit towards **Heavy Metal and Rock**,  or those of a divorced 40-year old dad.
 
 And I think that's about it, thank you for basically reading my [about me](/about). If you are curious about any specific section please feel free to waddle around this website or [contact me](/contact) directly.
 

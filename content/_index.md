@@ -15,7 +15,7 @@ Oh, and thank you for passing by!
 
 {{< image-card src="/admin_icon_2.png" link="/about" caption="About Me" >}}
 
-{{< image-card src="/cv.png" link="/resume.pdf" caption="Resume" >}}
+{{< image-card src="/cv.png" link="/resume" caption="Resume" >}}
 
    
 {{< image-card src="/mailbox.svg" link="/contact" caption="Contact Info" >}}

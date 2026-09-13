@@ -41,13 +41,16 @@ and overall making edge computing more efficient and feasible, enabling many sub
 ### Selected Publications
 
 <small>
+
 João Barreiros Rodrigues, Horácio C. Neto, and Mário Véstias. 2026. ARES:
 Dataflow Co-Design for Embedded Swin Transformer Acceleration on SoC-
 FPGAs. In Proceedings of the 16th International Symposium on Highly Efficient
-Accelerators and Reconfigurable Technologies (HEART 2026) [ACCEPTED]
+Accelerators and Reconfigurable Technologies (HEART 2026), 19–26.
+[https://doi.org/10.1145/3814576.3814594](https://doi.org/10.1145/3814576.3814594)
 
 Teixeira, R.; Rodrigues, J. B.; Aguiar, J.; Li, J.; Sousa, J. T. D.
 Versat-AI: An ONNX-to-SoC Compiler for Model-Agnostic CGRA Edge Inference.
-Preprints 2026, 2026071442.
-https://doi.org/10.20944/preprints202607.1442.v1
+Journal of Low Power Electronics and Applications 2026, 16(3), 36.
+[https://doi.org/10.3390/jlpea16030036](https://doi.org/10.3390/jlpea16030036)
+
 </small>

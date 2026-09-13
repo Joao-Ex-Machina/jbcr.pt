@@ -1,5 +1,5 @@
 <figure style="text-align: center;">
-  <img src="{{ .Get "src" }}" alt="{{ .Get "caption" }}" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "caption" }}" style="width: 100%; max-width: {{ .Get "maxwidth" | default "500px" }}; height: auto; border-radius: 8px;">
   {{ with .Get "caption" }}
     <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 0.5em;">
       {{ . }}

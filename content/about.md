@@ -6,7 +6,7 @@ nextprev: false
 
 # > whoami
 
-{{<img caption="One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026" src=/graduation_resized.jpeg style="text-align:center;" >}}
+{{<imgpair src1=/graduation_resized.jpeg src2=/jbcr_SMiguel2.JPG alt1="One of my favourite photos of myself, at my graduation day" alt2="The Adventurer in São Miguel (Açores Autonomous Region)" caption=" The Engineer, at my graduation day (left); The Adventurer, in São Miguel, Açores Autonomous Region (right). © Catarina Carvalho Maia, 2026" height="640px" >}}
 
 I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
 
@@ -20,8 +20,6 @@ I finished my ECE Master's in November 2025, having majored in **Computer System
 
 From November 2023 to July 2025 I was also  **Teaching Assistant** at the [Department of Electrical and Computer Engineering](https://deec.tecnico.ulisboa.pt), having received the **Excellence in Teaching** award for both school years.
 
-
-{{<img caption="Obligatory analog mirror selfie, in Castro Verde" src=/me_III.png style="text-align:center;" >}}
 
 I have also been **hackin' and tinkerin'** while involved with the [HackerSchool](https://hackerschool.dev) hackerspace, which I belong to since 2021.
 
@@ -39,7 +37,7 @@ You might have caught that I also enjoy tackling **chemistry** (which I've inher
 
 I also like **traveling**, especially inside the portuguese territory:
 
-{{<img caption="Me, in the hometown of my best friend (Duarte)" src=/celorico.jpeg >}}
+{{<img caption="Me, in the hometown of my best friend (Duarte) © Duarte Ascensão Amaral da Silva, 2025" src=/celorico.jpeg maxwidth="100%" >}}
 
 Finally I am a [huge nerd](/nerd.gif) being really **interested in History** (since I was a kid), especially on pre-Roman history and the **dark** and **medieval** ages, and far away civilizations. I'm also interested in the history of philosophy and religion. While on topic - I am a roman catholic, although a flawed one.
 

@@ -337,7 +337,7 @@ The internet should be a &lt;strong&gt;democratic space, accessible to all&lt;/s
 &lt;p&gt;Like José I pondered to use an old smartphone. Mine would have been a Huawei P Smart 2020, with a smashed screen. But then I remembered my stashed &lt;strong&gt;Thinkpad T410&lt;/strong&gt; that was found on a &lt;strong&gt;garden bench&lt;/strong&gt;.&lt;/p&gt;
 &lt;center&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/t410-server.jpeg&#34; alt=&#34;My Thinkpad T410 server after the full setup, running Wireshark &#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  &lt;img src=&#34;https://jbcr.pt/t410-server.jpeg&#34; alt=&#34;My Thinkpad T410 server after the full setup, running Wireshark &#34; style=&#34;width: 100%; max-width: 500px; height: auto; border-radius: 8px;&#34;&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
       My Thinkpad T410 server after the full setup, running Wireshark 
@@ -471,30 +471,22 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		<guid>https://jbcr.pt/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/graduation_resized.jpeg&#34; alt=&#34;One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  &lt;div style=&#34;display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;&#34;&gt;
+    &lt;img src=&#34;https://jbcr.pt/graduation_resized.jpeg&#34; alt=&#34;One of my favourite photos of myself, at my graduation day&#34; style=&#34;height: 640px; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;&#34;&gt;
+    &lt;img src=&#34;https://jbcr.pt/jbcr_SMiguel2.JPG&#34; alt=&#34;The Adventurer in São Miguel (Açores Autonomous Region)&#34; style=&#34;height: 640px; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;&#34;&gt;
+  &lt;/div&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
-      One of my favourite photos of myself, at my graduation day, as photographed by my best friend Catarina © Catarina Carvalho Maia, 2026
+       The Engineer, at my graduation day (left); The Adventurer, in São Miguel, Açores Autonomous Region (right). © Catarina Carvalho Maia, 2026
     &lt;/figcaption&gt;
   
 &lt;/figure&gt;
-
 
 &lt;p&gt;I am a 23 year old &lt;strong&gt;Electrical and Computer Eng. PhD student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt; , with a &lt;a href=&#34;https://jbcr.pt/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage &lt;a href=&#34;https://jbcr.pt/research&#34;&gt;researcher&lt;/a&gt; at INESC-ID and INESC-INOVLabs.&lt;/p&gt;
 &lt;p&gt;I was born in Lisbon, Portugal on the 16th of September.&lt;/p&gt;
 &lt;p&gt;My family is originally from Arraiolos, in Alentejo Central (mother&amp;rsquo;s side) and from Lisbon and Portalegre, Alto Alentejo (father&amp;rsquo;s side).&lt;/p&gt;
 &lt;p&gt;I finished my ECE Master&amp;rsquo;s in November 2025, having majored in &lt;strong&gt;Computer Systems&lt;/strong&gt; and minored in &lt;strong&gt;Electronic Circuits and Systems&lt;/strong&gt;. My Thesis was on ARES, A Hardware/Software System for Embedded deployment of Transformers. I was supervised by Prof. Horácio Neto and Prof. Mário Véstias, also my PhD Supervisors together with Prof. José T. de Sousa.&lt;/p&gt;
 &lt;p&gt;From November 2023 to July 2025 I was also  &lt;strong&gt;Teaching Assistant&lt;/strong&gt; at the &lt;a href=&#34;https://deec.tecnico.ulisboa.pt&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt;, having received the &lt;strong&gt;Excellence in Teaching&lt;/strong&gt; award for both school years.&lt;/p&gt;
-&lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/me_III.png&#34; alt=&#34;Obligatory analog mirror selfie, in Castro Verde&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
-  
-    &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
-      Obligatory analog mirror selfie, in Castro Verde
-    &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-
 &lt;p&gt;I have also been &lt;strong&gt;hackin&amp;rsquo; and tinkerin&amp;rsquo;&lt;/strong&gt; while involved with the &lt;a href=&#34;https://hackerschool.dev&#34;&gt;HackerSchool&lt;/a&gt; hackerspace, which I belong to since 2021.&lt;/p&gt;
 &lt;p&gt;Other than my research I am also interested in GNU/Linux, Open-Source Hardware, Right to Repair, self-hosting, homelabbing, domotics and overall all that is related to Open (and opening) Computer and other Electronic Systems. I like to document my &lt;a href=&#34;https://jbcr.pt/projects&#34;&gt;projects&lt;/a&gt; and shenanigans &lt;a href=&#34;https://jbcr.pt/blog&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;-the-cool-interests-and-trivia&#34;&gt;&amp;gt; The &amp;lsquo;Cool&amp;rsquo; Interests and Trivia&lt;/h3&gt;
@@ -503,10 +495,10 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;You might have caught that I also enjoy tackling &lt;strong&gt;chemistry&lt;/strong&gt; (which I&amp;rsquo;ve inherited from my mother). I mostly enjoy what I call &amp;ldquo;everyday chemistry&amp;rdquo;, namely &lt;strong&gt;cooking&lt;/strong&gt;, &lt;strong&gt;barbecuing&lt;/strong&gt;, &lt;strong&gt;brewing&lt;/strong&gt;,  &lt;strong&gt;distilling&lt;/strong&gt; and &lt;strong&gt;botanics&lt;/strong&gt; (mostly for growing &lt;strong&gt;spicy peppers&lt;/strong&gt;).&lt;/p&gt;
 &lt;p&gt;I also like &lt;strong&gt;traveling&lt;/strong&gt;, especially inside the portuguese territory:&lt;/p&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34; alt=&#34;Me, in the hometown of my best friend (Duarte)&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  &lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34; alt=&#34;Me, in the hometown of my best friend (Duarte) © Duarte Ascensão Amaral da Silva, 2025&#34; style=&#34;width: 100%; max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
-      Me, in the hometown of my best friend (Duarte)
+      Me, in the hometown of my best friend (Duarte) © Duarte Ascensão Amaral da Silva, 2025
     &lt;/figcaption&gt;
   
 &lt;/figure&gt;
@@ -570,6 +562,38 @@ You can expect a big blog post detailing my unexpected journey on making this we
 	</item>
 	
 	<item>
+		<title>Resume</title>
+		<link>https://jbcr.pt/resume/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://jbcr.pt/resume/</guid>
+		<description>&lt;p&gt;My Curriculum Vitaes, simple as that!&lt;/p&gt;
+&lt;div class=&#34;grid&#34;&gt;
+    
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://jbcr.pt/CV.pdf&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/academic.png&#34; alt=&#34;Academic CV&#34;&gt;
+        &lt;p&gt;Academic CV&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;grid-item&#34;&gt;
+    &lt;a href=&#34;https://jbcr.pt/resume.pdf&#34;&gt;
+        &lt;img src=&#34;https://jbcr.pt/short.png&#34; alt=&#34;Short CV&#34;&gt;
+        &lt;p&gt;Short CV&lt;/p&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+
+</description>
+	</item>
+	
+	<item>
 		<title>Setup</title>
 		<link>https://jbcr.pt/setup/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -586,7 +610,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;Below you can see my neofetch output:&lt;/p&gt;
 &lt;center&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/t430info.png&#34; alt=&#34;My T430 neofetch output&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  &lt;img src=&#34;https://jbcr.pt/t430info.png&#34; alt=&#34;My T430 neofetch output&#34; style=&#34;width: 100%; max-width: 500px; height: auto; border-radius: 8px;&#34;&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
       My T430 neofetch output
@@ -600,7 +624,7 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;: As of January 2026 the original Khazad-Dûm seems to have died. After months of inactivity, it failed to boot from the disk, displaying corrupted colourful blocks. After that it stopped achieving POST. I will try to find a way to fix it, but for now it is a RIP to this old, old friend.&lt;/p&gt;
 &lt;center&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/rip_t430.jpg&#34; alt=&#34;Gone, but not forgotten&#34; style=&#34;max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  &lt;img src=&#34;https://jbcr.pt/rip_t430.jpg&#34; alt=&#34;Gone, but not forgotten&#34; style=&#34;width: 100%; max-width: 500px; height: auto; border-radius: 8px;&#34;&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
       Gone, but not forgotten

@@ -1,0 +1,11 @@
+<figure style="text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;">
+    <img src="{{ .Get "src1" }}" alt="{{ .Get "alt1" }}" style="height: {{ .Get "height" | default "320px" }}; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;">
+    <img src="{{ .Get "src2" }}" alt="{{ .Get "alt2" }}" style="height: {{ .Get "height" | default "320px" }}; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;">
+  </div>
+  {{ with .Get "caption" }}
+    <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 0.5em;">
+      {{ . }}
+    </figcaption>
+  {{ end }}
+</figure>

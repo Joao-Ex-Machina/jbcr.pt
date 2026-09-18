@@ -1,0 +1,28 @@
+{{ define "title" -}}
+{{ .Title | title }}
+{{- end }}
+{{ define "main" -}}
+{{ .Content }}
+{{- $soon := where (where .Pages "Params.comingsoon" true) "Params.stale" "ne" true }}
+{{- $rest := where .Pages "Params.comingsoon" "ne" true }}
+{{- /* stale posts (stale = true) are hidden from lists, not shown as coming soon */ -}}
+<ul>
+{{- range append $rest $soon }}
+<li>
+	{{- if .Params.comingsoon }}
+	{{- if .Param "datesinlist" }}20XX TBD XX &ndash; {{ end }}
+	<span class="coming-soon-title" style="opacity:.6">{{ .Title }}</span> <em class="coming-soon">(coming soon&trade;)</em>
+	{{- else }}
+	{{- if .Param "datesinlist" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2006 Jan 02" }}</time> &ndash; {{ end -}}
+	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	{{- end }}
+	{{- if .Param "authorsinlist" }}
+	{{ with .Params.authors }}
+		by 
+		{{ delimit . ", " " and " }}
+	{{end}}
+	{{ end -}}
+</li>
+{{- end }}
+</ul>
+{{- end }}

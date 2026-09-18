@@ -1,8 +1,10 @@
 +++
-title = 'Hardware Design on a 5$ FPGA from China part I- The Setup (Still coming Soon)'
+title = 'Hardware Design on a 5$ FPGA from China part I- The Setup'
 date = 2025-12-15T13:39:51Z
 tags = ['tech', 'FPGA']
-draft = true
+comingsoon = true
+stale = true
+_build = { render = 'never', list = 'local' }
 +++
 
 # Coming Soon!

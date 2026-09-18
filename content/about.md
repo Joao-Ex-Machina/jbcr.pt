@@ -8,7 +8,7 @@ nextprev: false
 
 {{<imgpair src1=/graduation_resized.jpeg src2=/jbcr_SMiguel2.JPG alt1="One of my favourite photos of myself, at my graduation day" alt2="The Adventurer in São Miguel (Açores Autonomous Region)" caption=" The Engineer, at my graduation day (left); The Adventurer, in São Miguel, Açores Autonomous Region (right). © Catarina Carvalho Maia, 2026" height="640px" >}}
 
-I am a 23 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
+I am a 24 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
 
 I was born in Lisbon, Portugal on the 16th of September.
 

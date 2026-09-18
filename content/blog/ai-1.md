@@ -2,7 +2,9 @@
 title = "AI and the creative Zeitgeist of Humanity"
 date = "2026-07-05T13:40:00Z"
 tags = ['AI','tech','society','art','religion']
-draft = true
+comingsoon = true
+stale = false
+_build = { render = 'never', list = 'local' }
 +++
 
 #

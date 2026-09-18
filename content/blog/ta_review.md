@@ -1,7 +1,9 @@
 +++
 title = 'Teaching at IST: A Review of my experience as a Teaching Assistant'
 date = 2024-11-05T13:40:00Z
-draft = true
+comingsoon = true
+stale = true
+_build = { render = 'never', list = 'local' }
 +++
 
 # Introduction

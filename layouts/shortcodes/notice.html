@@ -1,0 +1,31 @@
+{{ $enabled := .Get "enabled" | default "true" }}
+{{ if eq $enabled "true" }}
+{{ $color := .Get "color" | default "#cd0000" }}
+{{ $until := .Get "until" }}
+{{ $id := printf "notice-%d" .Ordinal }}
+<div id="{{ $id }}" style="
+    display: none;
+    margin: 25px auto;
+    max-width: 700px;
+    padding: 14px 20px;
+    border: 1px solid {{ $color }};
+    border-radius: 6px;
+    background-color: rgba(205, 0, 0, 0.08);
+    color: #eee;
+    text-align: center;
+    font-size: 0.95em;
+">
+    <strong style="color: {{ $color }};">⚠ Notice:</strong> {{ .Inner }}
+</div>
+<script>
+(function () {
+    var el = document.getElementById("{{ $id }}");
+    if (!el) return;
+    {{- with $until }}
+    var until = new Date("{{ . }}T23:59:59");
+    if (!isNaN(until.getTime()) && new Date() > until) { return; }
+    {{- end }}
+    el.style.display = "block";
+})();
+</script>
+{{ end }}

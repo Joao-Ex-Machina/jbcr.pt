@@ -23,6 +23,12 @@ Oh, and thank you for passing by!
 
 {{< /grid >}}
 
+{{% notice until="2026-09-23" enabled="true" %}}
+
+jbcr.pt was down from **21st Sep.** to **22nd Sep.**, sorry for the inconvenience!
+
+{{% /notice %}}
+
 # The Core!
 
 {{< grid >}}

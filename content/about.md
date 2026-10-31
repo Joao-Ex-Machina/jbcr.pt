@@ -6,7 +6,7 @@ nextprev: false
 
 # > whoami
 
-{{<imgpair src1=/graduation_resized.jpeg src2=/jbcr_SMiguel2.JPG alt1="One of my favourite photos of myself, at my graduation day" alt2="The Adventurer in São Miguel (Açores Autonomous Region)" caption=" The Engineer, at my graduation day (left); The Adventurer, in São Miguel, Açores Autonomous Region (right). © Catarina Carvalho Maia, 2026" height="640px" >}}
+{{<img caption="Me, at my workbench at INESC INOV (please disregard the messy table)" src=/inesc-1.jpeg maxwidth="100%" >}}
 
 I am a 24 year old **Electrical and Computer Eng. PhD student** at [Instituto Superior Técnico - ULisboa](https://tecnico.ulisboa.pt) , with a [knack](/knack.mp4) for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage [researcher](/research) at INESC-ID and INESC-INOVLabs.
 
@@ -37,7 +37,9 @@ You might have caught that I also enjoy tackling **chemistry** (which I've inher
 
 I also like **traveling**, especially inside the portuguese territory:
 
-{{<img caption="Me, in the hometown of my best friend (Duarte) © Duarte Ascensão Amaral da Silva, 2025" src=/celorico.jpeg maxwidth="100%" >}}
+
+{{<imgpair src1=/celorico.jpeg src2=/jbcr_SMiguel2.JPG alt1="The Adventurer in Celorico" alt2="The Adventurer in São Miguel (Açores Autonomous Region)" caption=" The Adventurer in Celorico da Beira (left) and in São Miguel, Açores Autonomous Region (right). ©  Duarte Silva / Catarina Carvalho Maia, 2025/2026" height="640px" >}}
+
 
 Finally I am a [huge nerd](/nerd.gif) being really **interested in History** (since I was a kid), especially on pre-Roman history and the **dark** and **medieval** ages, and far away civilizations. I'm also interested in the history of philosophy and religion. While on topic - I am a roman catholic, although a flawed one.
 

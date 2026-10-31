@@ -5,7 +5,7 @@
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["top-6"]
 
 - filename: "domino_campolide.jpg"
   title: "Playing domino in Campolide, on a Saturday afternoon"
@@ -14,7 +14,7 @@
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Foma Ortho 400"
-  tags: ["DIY-Dev", "BnW"]
+  tags: ["DIY-Dev", "BnW", "top-6"]
 
 - filename: "cdb_0.jpg"
   title: "Medium Format experiments in Celorico"
@@ -79,7 +79,7 @@
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["top-6"]
 
 
 - filename: "PAlemao100.png"
@@ -161,26 +161,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Portra 800"
-  tags: []
-
-
-- filename: "DuarteDream.jpg"
-  title: "Dream-like colours, while Duarte looks non-chalant"
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "Alcarias03.jpg"
-  title: " The sea of Alentejo, at noon "
-  date: 2025
-  album: "Castro Verde"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
+  tags: ["top-6"]
 
 - filename: "Moinho.png"
   title: "Our old family mill in Arraiolos - O Moinho da Forca"
@@ -189,6 +170,15 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
+  tags: []
+
+- filename: "DuarteDream.jpg"
+  title: "Dream-like colours, while Duarte looks non-chalant"
+  date: 2025
+  album: "Castro Verde"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
   tags: []
 
 - filename: "Vigia.png"
@@ -225,7 +215,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Gold 200"
-  tags: ["Lomo"]
+  tags: ["Lomo", "top-6"]
 
 - filename: "sintraView.JPG"
   title: "'Com efeito, não vale a pena fazer um esforço, correr com ânsia para coisa alguma...'. Overview of Sintra"
@@ -234,24 +224,6 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Gold 200"
-  tags: []
-
-- filename: "PalacioPena.JPG"
-  title: "Palácio da Pena"
-  date: 2025
-  album: "Sintra"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Gold 200"
-  tags: []
-
-- filename: "Duarte02.JPG"
-  title: "Just like the wild west...and its high noon"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujifilm 200"
   tags: []
 
 - filename: "Rato_graffito.JPG"
@@ -281,15 +253,6 @@
   film: "Requa 100"
   tags: ["Expired"]
 
-- filename: "Amoreiras.JPG"
-  title: "I have yet to understand my fixation with cuboid buildings"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujifilm 200"
-  tags: []
-
 - filename: "AlamedaNight.png"
   title: "Pushing a 200 ISO roll to the limit - Alameda Night Lights"
   date: 2025
@@ -298,15 +261,6 @@
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: ["Lomo"]
-
-- filename: "RomaNight.png"
-  title: "A little bit of neon in Lisbon"
-  date: 2025
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
 
 - filename: "SantosAlameda.png"
   title: "Peppered halations during Santos Populares in Arroios"
@@ -362,55 +316,8 @@
   film: "Kodak ColorPlus 200"
   tags: []
 
-- filename: "ovelhas.jpg"
-  title: "Shaky sheep, this is, of course, a social commentary on the current political situation of..."
-  date: 2026
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
-  film: "Ilford FP4"
-  tags: ["DIY-Dev", "BnW"]
-
-
-
-- filename: "CeloricoEmpty.jpg"
-  title: "Under construction at Celorico"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "NatureWill.jpg"
-  title: "Nature retakes an abandoned house"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
 - filename: "Coexistence.jpg"
   title: "Celorico from the Castle's cairn"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "Tower01.jpg"
-  title: "At the Castle's gates"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
-
-- filename: "Tower.jpg"
-  title: "The Castle, viewed from the near-below"
   date: 2025
   album: "Celorico"
   camera: "Ricoh-KR-5"
@@ -437,31 +344,13 @@
   tags: []
 
 - filename: "fungus.jpg"
-  title: "I do have a strange obsession with mushrooms and all types of fungus"
+  title: "I do have a strange obsession with mushrooms and all fungi"
   date: 2025
   album: "Celorico"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
-
-- filename: "walk.jpg"
-  title: "Lomographic Walk in Rapa, with Catarina and Duarte"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor Superia 100"
-  tags: ["Expired", "Lomo"]
-
-- filename: "Serra00.jpg"
-  title: "Trailling uphill"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor Superia 100"
-  tags: ["Expired", "Lomo"]
 
 - filename: "Serra01.jpg"
   title: "View from halfway up"
@@ -472,17 +361,9 @@
   film: "Fujicolor Superia 100"
   tags: ["Expired"]
 
-- filename: "Serra03.jpg"
-  title: "Towering over my own Adamastor - a 12 kilometer trail"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Fujicolor Superia 100"
-  tags: ["Expired"]
 
 - filename: "ruins.jpg"
-  title: "Once again, Humanity is only a passing by"
+  title: "Once again, Humanity is only a passer-by"
   date: 2025
   album: "Celorico"
   camera: "Ricoh-KR-5"
@@ -508,36 +389,8 @@
   film: "Kodacolor 200"
   tags: ["Expired"]
 
-- filename: "trail.jpg"
-  title: "Almost there! Through rough roads and inclines"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "SantaColor 100"
-  tags: []
-
-
-- filename: "Peak00.jpg"
-  title: "Finally at the peak!"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "SantaColor 100"
-  tags: []
-
 - filename: "SerraRoad.jpg"
   title: "Road downhill"
-  date: 2025
-  album: "Celorico"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "SantaColor 100"
-  tags: []
-
-- filename: "SerraMistery.jpg"
-  title: "The Mistery of the Woods, on my way back"
   date: 2025
   album: "Celorico"
   camera: "Ricoh-KR-5"
@@ -573,24 +426,6 @@
   film: "ColorPlus 200"
   tags: []
 
-- filename: "Batalha_1.jpg"
-  title: "I was always a History nerd...happy to visit"
-  date: 2025
-  album: "Batalha"
-  camera: "Minolta Hi-Matic 7s"
-  lens: "Rokkor-PF 45mm f/1.8-22"
-  film: "ColorPlus 200"
-  tags: []
-
-- filename: "Batalha_2.jpg"
-  title: "Zooming out at the Batalha Monastery"
-  date: 2025
-  album: "Batalha"
-  camera: "Minolta Hi-Matic 7s"
-  lens: "Rokkor-PF 45mm f/1.8-22"
-  film: "ColorPlus 200"
-  tags: []
-
 - filename: "Batalha_0.jpg"
   title: "My favourite from the Batalha Monastery - a bottom-up composition"
   date: 2025
@@ -607,7 +442,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium-Format", "Light-Leak" ,"DIY-Dev","BnW"]
+  tags: ["Medium-Format", "Light-Leak" ,"DIY-Dev","BnW", "top-6"]
 
 - filename: "self.jpg"
   title: "Self portrait"

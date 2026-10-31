@@ -202,34 +202,34 @@ Richard suggests you use uNetBootin version of FreeDOS, I could not make it work
 &lt;h1 id=&#34;was-it-worth-it&#34;&gt;Was it worth it?&lt;/h1&gt;
 &lt;p&gt;It does depend on various factors and how you rank them in order of enjoyment, so I made this helpful table to speed up your decision process:&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;strong&gt;Qualitative Grade&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Hassle-free?&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;❌❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Quality&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;❌&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Novelty&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;✓✓&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Bragging rights&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;✓✓&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Fun?&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;¯\_( ͡° ͜ʖ ͡°)_/¯&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Qualitative Grade&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hassle-free?&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Quality&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Novelty&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✓✓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Bragging rights&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✓✓&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fun?&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;¯\_( ͡° ͜ʖ ͡°)_/¯&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Additionally this is a &lt;strong&gt;destructive&lt;/strong&gt; process, as the tape will start to wear off on the backing paper, so keep that in mind.&lt;/p&gt;
 &lt;h1 id=&#34;future-work&#34;&gt;Future work&lt;/h1&gt;
@@ -470,16 +470,14 @@ You can expect a big blog post detailing my unexpected journey on making this we
 		<guid>https://jbcr.pt/about/</guid>
 		<description>&lt;h1 id=&#34;-whoami&#34;&gt;&amp;gt; whoami&lt;/h1&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;div style=&#34;display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;&#34;&gt;
-    &lt;img src=&#34;https://jbcr.pt/graduation_resized.jpeg&#34; alt=&#34;One of my favourite photos of myself, at my graduation day&#34; style=&#34;height: 640px; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;&#34;&gt;
-    &lt;img src=&#34;https://jbcr.pt/jbcr_SMiguel2.JPG&#34; alt=&#34;The Adventurer in São Miguel (Açores Autonomous Region)&#34; style=&#34;height: 640px; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;&#34;&gt;
-  &lt;/div&gt;
+  &lt;img src=&#34;https://jbcr.pt/inesc-1.jpeg&#34; alt=&#34;Me, at my workbench at INESC INOV (please disregard the messy table)&#34; style=&#34;width: 100%; max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
-       The Engineer, at my graduation day (left); The Adventurer, in São Miguel, Açores Autonomous Region (right). © Catarina Carvalho Maia, 2026
+      Me, at my workbench at INESC INOV (please disregard the messy table)
     &lt;/figcaption&gt;
   
 &lt;/figure&gt;
+
 
 &lt;p&gt;I am a 24 year old &lt;strong&gt;Electrical and Computer Eng. PhD student&lt;/strong&gt; at &lt;a href=&#34;https://tecnico.ulisboa.pt&#34;&gt;Instituto Superior Técnico - ULisboa&lt;/a&gt; , with a &lt;a href=&#34;https://jbcr.pt/knack.mp4&#34;&gt;knack&lt;/a&gt; for all things FPGA, embedded systems and reconfigurable computing. I am also an early-stage &lt;a href=&#34;https://jbcr.pt/research&#34;&gt;researcher&lt;/a&gt; at INESC-ID and INESC-INOVLabs.&lt;/p&gt;
 &lt;p&gt;I was born in Lisbon, Portugal on the 16th of September.&lt;/p&gt;
@@ -494,14 +492,16 @@ You can expect a big blog post detailing my unexpected journey on making this we
 &lt;p&gt;You might have caught that I also enjoy tackling &lt;strong&gt;chemistry&lt;/strong&gt; (which I&amp;rsquo;ve inherited from my mother). I mostly enjoy what I call &amp;ldquo;everyday chemistry&amp;rdquo;, namely &lt;strong&gt;cooking&lt;/strong&gt;, &lt;strong&gt;barbecuing&lt;/strong&gt;, &lt;strong&gt;brewing&lt;/strong&gt;,  &lt;strong&gt;distilling&lt;/strong&gt; and &lt;strong&gt;botanics&lt;/strong&gt; (mostly for growing &lt;strong&gt;spicy peppers&lt;/strong&gt;).&lt;/p&gt;
 &lt;p&gt;I also like &lt;strong&gt;traveling&lt;/strong&gt;, especially inside the portuguese territory:&lt;/p&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34; alt=&#34;Me, in the hometown of my best friend (Duarte) © Duarte Ascensão Amaral da Silva, 2025&#34; style=&#34;width: 100%; max-width: 100%; height: auto; border-radius: 8px;&#34;&gt;
+  &lt;div style=&#34;display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 10px;&#34;&gt;
+    &lt;img src=&#34;https://jbcr.pt/celorico.jpeg&#34; alt=&#34;The Adventurer in Celorico&#34; style=&#34;height: 640px; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;&#34;&gt;
+    &lt;img src=&#34;https://jbcr.pt/jbcr_SMiguel2.JPG&#34; alt=&#34;The Adventurer in São Miguel (Açores Autonomous Region)&#34; style=&#34;height: 640px; width: auto; max-width: calc(50% - 5px); object-fit: cover; border-radius: 8px;&#34;&gt;
+  &lt;/div&gt;
   
     &lt;figcaption style=&#34;font-style: italic; font-size: 0.9em; margin-top: 0.5em;&#34;&gt;
-      Me, in the hometown of my best friend (Duarte) © Duarte Ascensão Amaral da Silva, 2025
+       The Adventurer in Celorico da Beira (left) and in São Miguel, Açores Autonomous Region (right). ©  Duarte Silva / Catarina Carvalho Maia, 2025/2026
     &lt;/figcaption&gt;
   
 &lt;/figure&gt;
-
 
 &lt;p&gt;Finally I am a &lt;a href=&#34;https://jbcr.pt/nerd.gif&#34;&gt;huge nerd&lt;/a&gt; being really &lt;strong&gt;interested in History&lt;/strong&gt; (since I was a kid), especially on pre-Roman history and the &lt;strong&gt;dark&lt;/strong&gt; and &lt;strong&gt;medieval&lt;/strong&gt; ages, and far away civilizations. I&amp;rsquo;m also interested in the history of philosophy and religion. While on topic - I am a roman catholic, although a flawed one.&lt;/p&gt;
 &lt;p&gt;My interest in history combines with my enjoyment of &lt;strong&gt;worldbuilding&lt;/strong&gt; tomes, &lt;strong&gt;Tolkien&lt;/strong&gt;-esque fantasy, &lt;strong&gt;historical&lt;/strong&gt; novels (especially from national writers), Lovecraftian &lt;strong&gt;weird fiction&lt;/strong&gt; and &lt;strong&gt;table-top RPGs&lt;/strong&gt;.&lt;/p&gt;

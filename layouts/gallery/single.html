@@ -20,6 +20,10 @@
           {{ end }}
         {{ end }}
       {{ end }}
+      {{/* Show top-6 first */}}
+      {{ if in $allTags "top-6" }}
+        {{ $allTags = slice "top-6" | append (complement (slice "top-6") $allTags) }}
+      {{ end }}
       {{ range $allTags }}
         <button data-tag="{{ . }}">{{ . }}</button>
       {{ end }}
@@ -67,17 +71,23 @@
 <!-- Gallery grid -->
 <div class="masonry-gallery" id="photo-gallery">
   {{ range site.Data.photos.analog }}
-    <div class="masonry-item" 
-         data-tags='{{ if .tags }}{{ delimit .tags " " }}{{ end }}' 
+    {{/* Small copy for the grid, original for the lightbox; falls back to the original if the file can't be processed */}}
+    {{ $full := printf "/photos/analog/%s" .filename }}
+    {{ $thumb := $full }}
+    {{ with resources.Get (printf "photos/analog/%s" .filename) }}
+      {{ $thumb = (.Resize "800x webp q75").RelPermalink }}
+    {{ end }}
+    <div class="masonry-item"
+         data-tags='{{ if .tags }}{{ delimit .tags " " }}{{ end }}'
          data-album="{{ .album }}"
 	 data-date="{{.date}}">
-      <a href="/photos/analog/{{ .filename }}" class="glightbox" data-title='
+      <a href="{{ $full }}" class="glightbox" data-title='
         <div class="photo-info">
           <strong>{{ .title }}</strong><br>
           {{ .camera }} | {{ .lens }} | {{ .film }} | {{ .album }} | {{ .date }}
         </div>
       '>
-        <img src="/photos/analog/{{ .filename }}" alt="{{ .title }}" loading="lazy">
+        <img src="{{ $thumb }}" alt="{{ .title }}" loading="lazy">
       </a>
     </div>
   {{ end }}

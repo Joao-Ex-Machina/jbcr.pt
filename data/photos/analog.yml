@@ -1,3 +1,30 @@
+- filename: "Light-Leak-Acores.jpg"
+  title: "First of the roll in São Miguel"
+  date: 2026
+  album: "São Miguel"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: ["Light-Leak", "Nature"]
+
+- filename: "SMiguel.jpg"
+  title: "Lagoa das Setes Cidades - The only header it needs"
+  date: 2026
+  album: "São Miguel"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: ["top-6", "Nature"]
+
+- filename: "SMiguel_Miradouro.jpg"
+  title: "Hills and elevations near the Miradouro"
+  date: 2026
+  album: "São Miguel"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: ["Nature"]
+
 - filename: "reflections.jpg"
   title: "Reflections on the Neckar River"
   date: 2026
@@ -7,15 +34,6 @@
   film: "Kodak ColorPlus 200"
   tags: ["top-6"]
 
-- filename: "domino_campolide.jpg"
-  title: "Playing domino in Campolide, on a Saturday afternoon"
-  date: 2026
-  album: "Lisboa"
-  camera: "Ricoh-KR-5"
-  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
-  film: "Foma Ortho 400"
-  tags: ["DIY-Dev", "BnW", "top-6"]
-
 - filename: "cdb_0.jpg"
   title: "Medium Format experiments in Celorico"
   date: 2026
@@ -23,7 +41,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium-Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW", "Nature"]
 
 - filename: "cdb_1.jpg"
   title: "Medium Format experiments in Celorico"
@@ -32,7 +50,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium-Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW", "Nature"]
 
 - filename: "cdb_2.jpg"
   title: "Medium Format experiments in Celorico"
@@ -41,7 +59,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium-Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW", "Nature"]
 
 - filename: "bridgeHeidelberg.jpg"
   title: "The Old Bridge"
@@ -50,8 +68,7 @@
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Kodak ColorPlus 200"
-  tags: []
-
+  tags: ["Historical"]
 
 - filename: "cdb_3.jpg"
   title: "Medium Format experiments in Celorico"
@@ -60,7 +77,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium-Format","DIY-Dev","BnW"]
+  tags: ["Medium-Format","DIY-Dev","BnW", "Nature"]
 
 
 - filename: "aqueduto.jpg"
@@ -70,16 +87,17 @@
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Foma Ortho 400"
-  tags: ["DIY-Dev", "BnW"]
+  tags: ["DIY-Dev", "BnW", "Historical"]
 
-- filename: "philosophenWeg.jpg"
-  title: "Fahrgastschiff along the Filosopher's Walk"
-  date: 2026
-  album: "Heidelberg"
-  camera: "Ricoh-KR-5"
-  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
-  film: "Kodak ColorPlus 200"
-  tags: ["top-6"]
+- filename: "CrashingWaves.jpg"
+  title: "By the cliff, looking at the crashing waves"
+  date: 2025
+  album: "Carvalhal"
+  camera: "Ricoh KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak Ultramax 400"
+  tags: ["Nature"]
+
 
 
 - filename: "PAlemao100.png"
@@ -89,7 +107,7 @@
   camera: "Ricoh KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "SantaColor 100"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "cthulhu.jpg"
   title: "At the shore by the slumbering Cthulhu"
@@ -98,7 +116,7 @@
   camera: "Ricoh KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "SantaColor 100"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "UnexpectedJourney.jpg"
   title: "Over old hills and far away"
@@ -107,16 +125,7 @@
   camera: "Ricoh KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Ultramax 400"
-  tags: []
-
-- filename: "CrashingWaves.jpg"
-  title: "By the cliff, looking at the crashing waves"
-  date: 2025
-  album: "Carvalhal"
-  camera: "Ricoh KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak Ultramax 400"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "PAlemaoBW.png"
   title: "Praia do Alemão through a lomographic lens"
@@ -136,6 +145,35 @@
   film: "Requa 100"
   tags: ["Expired"]
 
+- filename: "domino_campolide.jpg"
+  title: "Playing domino in Campolide, on a Saturday afternoon"
+  date: 2026
+  album: "Lisboa"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Foma Ortho 400"
+  tags: ["DIY-Dev", "BnW", "top-6", "Urban"]
+
+- filename: "philosophenWeg.jpg"
+  title: "Fahrgastschiff along the Filosopher's Walk"
+  date: 2026
+  album: "Heidelberg"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: ["top-6"]
+
+
+- filename: "SMiguel_macro.jpg"
+  title: "Hydrangea Macrophylla macro-shot"
+  date: 2026
+  album: "São Miguel"
+  camera: "Ricoh-KR-5"
+  lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
+  film: "Kodak ColorPlus 200"
+  tags: ["Nature"]
+
+
 - filename: "CV_PAbrunhosa.jpg"
   title: "Pedro Abrunhosa set during Festas de Castro Verde"
   date: 2025
@@ -145,6 +183,9 @@
   film: "Portra 800"
   tags: []
 
+
+
+
 - filename: "CV_sunset.jpg"
   title: "A view from Castro Verde's sunset"
   date: 2025
@@ -152,7 +193,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Portra 800"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "CV_MP.jpg"
   title: "A peer into the sea of gold"
@@ -161,16 +202,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Portra 800"
-  tags: ["top-6"]
-
-- filename: "Moinho.png"
-  title: "Our old family mill in Arraiolos - O Moinho da Forca"
-  date: 2025
-  album: "Arraiolos"
-  camera: "Ricoh-KR-5"
-  lens: "Vivitar Auto 50mm f/1.8-16"
-  film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "DuarteDream.jpg"
   title: "Dream-like colours, while Duarte looks non-chalant"
@@ -197,7 +229,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Urban"]
 
 - filename: "schlossRuin.jpg"
   title: "Ruins of the Krautturm, left from the Nine Year's War"
@@ -206,7 +238,7 @@
   camera: "Ricoh-KR-5"
   lens: "Chinon 35-70mm f2.7-3.5 MC Auto Zoom"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Historical"]
 
 - filename: "SintraLomo.JPG"
   title: " 'This could be an indie pop album cover from the 00's' "
@@ -215,7 +247,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak Gold 200"
-  tags: ["Lomo", "top-6"]
+  tags: ["Lomo", "top-6", "Urban"]
 
 - filename: "sintraView.JPG"
   title: "'Com efeito, não vale a pena fazer um esforço, correr com ânsia para coisa alguma...'. Overview of Sintra"
@@ -233,7 +265,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Fujifilm 200"
-  tags: []
+  tags: ["Urban"]
 
 - filename: "tolo.JPG"
   title: "Underexposed daisies on a 1992 expired film"
@@ -242,7 +274,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Requa 100"
-  tags: ["Expired"]
+  tags: ["Expired", "Nature"]
 
 - filename: "Rato.jpg"
   title: "Rato on high grain"
@@ -251,7 +283,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Requa 100"
-  tags: ["Expired"]
+  tags: ["Expired", "Urban"]
 
 - filename: "AlamedaNight.png"
   title: "Pushing a 200 ISO roll to the limit - Alameda Night Lights"
@@ -260,7 +292,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: ["Lomo"]
+  tags: ["Lomo", "Urban"]
 
 - filename: "SantosAlameda.png"
   title: "Peppered halations during Santos Populares in Arroios"
@@ -278,7 +310,17 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Nature"]
+
+- filename: "CastleFar.jpg"
+  title: "On our way to the Castle"
+  date: 2025
+  album: "Celorico"
+  camera: "Ricoh-KR-5"
+  lens: "Vivitar Auto 50mm f/1.8-16"
+  film: "Kodak ColorPlus 200"
+  tags: ["Historical"]
+
 
 - filename: "luta.jpg"
   title: "Os Lutadores - one of my first works with paper"
@@ -289,14 +331,15 @@
   film: "Kentmere Pan 400 +1"
   tags: ['DIY-Dev', 'From-Paper']
 
-- filename: "CastleFar.jpg"
-  title: "On our way to the Castle"
+- filename: "Moinho.png"
+  title: "Our old family mill in Arraiolos - O Moinho da Forca"
   date: 2025
-  album: "Celorico"
+  album: "Arraiolos"
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
   tags: []
+
 
 - filename: "Bobi03.jpg"
   title: "Dog days in Alentejo"
@@ -323,7 +366,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Historical"]
 
 - filename: "Gate.jpg"
   title: "The near-below, from the Castle's walls"
@@ -332,7 +375,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Historical"]
 
 - filename: "triumph.jpg"
   title: "Perfeito."
@@ -341,7 +384,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Historical"]
 
 - filename: "fungus.jpg"
   title: "I do have a strange obsession with mushrooms and all fungi"
@@ -350,7 +393,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodak ColorPlus 200"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "Serra01.jpg"
   title: "View from halfway up"
@@ -359,7 +402,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Fujicolor Superia 100"
-  tags: ["Expired"]
+  tags: ["Expired", "Nature"]
 
 
 - filename: "ruins.jpg"
@@ -378,7 +421,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodacolor 200"
-  tags: ["Expired"]
+  tags: ["Expired", "Nature"]
 
 - filename: "WizardCottage.jpg"
   title: "I am sure a wizard lived there, ready to give an epic side quest"
@@ -387,7 +430,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "Kodacolor 200"
-  tags: ["Expired"]
+  tags: ["Expired", "Nature"]
 
 - filename: "SerraRoad.jpg"
   title: "Road downhill"
@@ -396,7 +439,7 @@
   camera: "Ricoh-KR-5"
   lens: "Vivitar Auto 50mm f/1.8-16"
   film: "SantaColor 100"
-  tags: []
+  tags: ["Nature"]
 
 - filename: "cdb_doggo.jpg"
   title: "A cool, non-chalant dog (the dog was hyperactive, but posed for the photo)"
@@ -433,7 +476,7 @@
   camera: "Minolta Hi-Matic 7s"
   lens: "Rokkor-PF 45mm f/1.8-22"
   film: "ColorPlus 200"
-  tags: []
+  tags: ["Historical"]
 
 - filename: "night_city.jpg"
   title: "'You're in the place they call the night side' - The Sword, Night City"
@@ -442,7 +485,7 @@
   camera: "Lubitel 2"
   lens: "LOMO T-22 75/4.5"
   film: "Kentmere Pan 400 + 1"
-  tags: ["Medium-Format", "Light-Leak" ,"DIY-Dev","BnW", "top-6"]
+  tags: ["Medium-Format", "Light-Leak" ,"DIY-Dev","BnW", "top-6", "Urban"]
 
 - filename: "self.jpg"
   title: "Self portrait"

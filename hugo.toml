@@ -12,3 +12,15 @@ theme = 'lugo_2'
     lineNumbersInTable = true # Places line numbers in a table
    [markup.goldmark.renderer]
      unsafe = true
+
+# Also expose the photos as assets so the gallery can generate resized copies
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "static/photos"
+    target = "assets/photos"
